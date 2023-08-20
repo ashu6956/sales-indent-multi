@@ -1,0 +1,7 @@
+#Sat Aug 19 23:33:20 IST 2023
+base.1=D\:\\Ascen_Data\\sales-indent-multi\\sales-indent-multi\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+path.1=classes.dex
+base.0=D\:\\Ascen_Data\\sales-indent-multi\\sales-indent-multi\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

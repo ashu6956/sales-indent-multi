@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:focusableInTouchMode="true"
+    tools:context=".storbm.StockTransferCreateActivity">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:freezesText="true"
+        android:orientation="vertical"
+        android:focusable="false">
+
+
+        <ImageButton
+            android:layout_width="125dp"
+            android:layout_height="80dp"
+            android:background="@drawable/rasiseedslogo"
+            android:visibility="gone" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Rasi Seeds (P) Ltd."
+            android:textStyle="bold"
+            android:textColor="#ff269040"
+            android:gravity="end"
+            android:textSize="20dp"
+            android:freezesText="true"
+            android:layout_marginTop="-40dp"
+            android:layout_gravity="right"
+            android:typeface="serif"
+            android:visibility="gone" />
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:background="#eaa80a3c">
+
+            <ImageButton
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:onClick="CloseActivity"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/hmicon" />
+
+            <TextView
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:text="STOCK CREATE(STR)"
+                android:id="@+id/textView33"
+                android:textSize="14sp"
+                android:textColor="@android:color/white"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:autoText="false"
+                android:typeface="serif"
+                android:textStyle="bold"
+                android:layout_marginTop="-30dp" />
+
+            <ImageButton
+                android:layout_width="40dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cast_abc_scrubber_primary_mtrl_alpha"
+                android:onClick="CloseActivity"
+                android:layout_gravity="right"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="-33dp"
+
+                />
+
+
+
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="From Plant"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:freezesText="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#2d589a"
+            android:singleLine="false"
+            android:typeface="serif"
+            android:layout_marginTop="25dp"
+            android:layout_marginLeft="5dp"
+            android:textStyle="bold"
+            android:textSize="14dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=":"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:freezesText="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#ff192d5e"
+            android:textStyle="bold"
+            android:textIsSelectable="false"
+            android:layout_gravity="center"
+            android:layout_marginTop="-20dp"
+            android:typeface="serif"
+            android:layout_marginLeft="-15dp" />
+
+        <!--<AutoCompleteTextView-->
+            <!--android:layout_width="163dp"-->
+            <!--android:layout_height="45dp"-->
+            <!--android:id="@+id/autoCompleteTextView"-->
+            <!--android:typeface="serif"-->
+            <!--android:layout_gravity="right"-->
+            <!--android:layout_marginTop="-32dp"-->
+            <!--android:hint="From warehouse"-->
+            <!--android:inputType="textCapCharacters"-->
+            <!--android:textColor="@android:color/black"-->
+            <!--android:layout_marginRight="7dp"-->
+            <!--android:textIsSelectable="false"-->
+            <!--android:textSize="14dp" />-->
+
+        <Spinner
+            android:layout_width="190dp"
+            android:layout_height="45dp"
+            android:id="@+id/spFromPlant"
+            android:layout_gravity="right"
+            android:textSize="25dp"
+            android:layout_marginTop="-23dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Warehouse"
+            android:layout_marginTop="5dp"
+            android:textSize="18dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:freezesText="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#2d589a"
+            android:textStyle="bold"
+            android:singleLine="false"
+            android:typeface="serif"
+            android:visibility="gone" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=":"
+            android:textSize="20dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:freezesText="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#2d589a"
+            android:textStyle="bold"
+            android:textIsSelectable="false"
+            android:layout_gravity="center"
+            android:layout_marginTop="-26dp"
+            android:layout_marginLeft="-2dp"
+            android:visibility="gone" />
+
+        <Spinner
+            android:layout_width="150dp"
+            android:layout_height="45dp"
+            android:layout_gravity="right"
+            android:textSize="25dp"
+            android:layout_marginTop="-30dp"
+            android:visibility="gone" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Crop Type"
+            android:textSize="18dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:freezesText="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#2d589a"
+            android:textStyle="bold"
+            android:singleLine="false"
+            android:typeface="serif"
+            android:visibility="gone" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=":"
+            android:textSize="20dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:freezesText="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#2d589a"
+            android:textStyle="bold"
+            android:textIsSelectable="false"
+            android:layout_gravity="center"
+            android:layout_marginTop="-26dp"
+            android:layout_marginLeft="-2dp"
+            android:visibility="gone" />
+
+        <Spinner
+            android:layout_width="160dp"
+            android:layout_height="45dp"
+            android:id="@+id/spinner23"
+            android:layout_gravity="right"
+            android:textSize="25dp"
+            android:layout_marginTop="-30dp"
+            android:visibility="gone" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="To Plant"
+            android:layout_marginTop="10dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:freezesText="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#2d589a"
+            android:singleLine="false"
+            android:typeface="serif"
+            android:layout_marginLeft="5dp"
+            android:textStyle="bold"
+            android:textSize="14dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=":"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:freezesText="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#ff192d5e"
+            android:textStyle="bold"
+            android:textIsSelectable="false"
+            android:layout_gravity="center"
+            android:layout_marginTop="-18dp"
+            android:layout_marginLeft="-15dp"
+            android:typeface="serif" />
+
+        <AutoCompleteTextView
+            android:layout_width="190dp"
+            android:layout_height="45dp"
+            android:id="@+id/autoTextToPlant"
+            android:typeface="serif"
+            android:layout_gravity="right"
+            android:layout_marginTop="-32dp"
+            android:hint="To Plant"
+            android:inputType="textCapCharacters"
+            android:textColor="@android:color/black"
+            android:textIsSelectable="false"
+            android:textSize="14dp" />
+
+        <!--<Spinner-->
+            <!--android:layout_width="162dp"-->
+            <!--android:layout_height="45dp"-->
+            <!--android:id="@+id/spinner27"-->
+            <!--android:layout_gravity="right"-->
+            <!--android:textSize="25dp"-->
+            <!--android:layout_marginTop="-23dp" />-->
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Crop Name"
+            android:id="@+id/textView98"
+            android:layout_marginTop="5dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:freezesText="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#2d589a"
+            android:singleLine="false"
+            android:typeface="serif"
+            android:layout_marginLeft="5dp"
+            android:textStyle="bold"
+            android:textSize="14dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=":"
+            android:id="@+id/textView"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:freezesText="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#ff192d5e"
+            android:textStyle="bold"
+            android:textIsSelectable="false"
+            android:layout_gravity="center"
+            android:layout_marginTop="-18dp"
+            android:layout_marginLeft="-15dp"
+            android:typeface="serif" />
+
+        <Spinner
+            android:layout_width="190dp"
+            android:layout_height="45dp"
+            android:id="@+id/SpCropName"
+            android:layout_gravity="right"
+            android:textSize="25dp"
+            android:layout_marginTop="-23dp" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Varity"
+            android:id="@+id/text"
+            android:layout_marginTop="5dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:freezesText="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#2d589a"
+            android:singleLine="false"
+            android:typeface="serif"
+            android:layout_marginLeft="5dp"
+            android:textStyle="bold"
+            android:textSize="14dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=":"
+            android:id="@+id/textView99"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:freezesText="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#ff192d5e"
+            android:textStyle="bold"
+            android:textIsSelectable="false"
+            android:layout_gravity="center"
+            android:layout_marginTop="-18dp"
+            android:layout_marginLeft="-15dp"
+            android:typeface="serif" />
+
+        <Spinner
+            android:layout_width="190dp"
+            android:layout_height="45dp"
+            android:id="@+id/spVarietyName"
+            android:layout_gravity="right"
+            android:textSize="25dp"
+            android:layout_marginTop="-23dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Item Name"
+            android:layout_marginTop="5dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:freezesText="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#2d589a"
+            android:singleLine="false"
+            android:typeface="serif"
+            android:layout_marginLeft="5dp"
+            android:textStyle="bold"
+            android:textSize="14dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=":"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:freezesText="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#ff192d5e"
+            android:textStyle="bold"
+            android:textIsSelectable="false"
+            android:layout_gravity="center"
+            android:layout_marginTop="-18dp"
+            android:layout_marginLeft="-15dp"
+            android:typeface="serif" />
+
+        <Spinner
+            android:layout_width="190dp"
+            android:layout_height="45dp"
+            android:id="@+id/spItemName"
+            android:layout_gravity="right"
+            android:textSize="25dp"
+            android:layout_marginTop="-23dp" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Qty In Kg/Pkts"
+            android:layout_marginTop="10dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:freezesText="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#2d589a"
+            android:typeface="serif"
+            android:layout_marginLeft="5dp"
+            android:textStyle="bold"
+            android:textSize="14dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=":"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:freezesText="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#ff192d5e"
+            android:textStyle="bold"
+            android:textIsSelectable="false"
+            android:layout_gravity="center"
+            android:layout_marginTop="-18dp"
+            android:layout_marginLeft="-15dp"
+            android:typeface="serif" />
+
+        <EditText
+            android:layout_width="190dp"
+            android:layout_height="45dp"
+            android:ems="6"
+            android:maxLength="6"
+            android:id="@+id/etQtyKgPkts"
+            android:layout_gravity="right"
+            android:layout_marginTop="-30dp"
+            android:inputType="numberDecimal"
+            android:typeface="serif"
+            android:textColor="@android:color/black"
+            android:textIsSelectable="false"
+            android:textSize="14dp"
+            android:hint="Qty In Kg/Pkt" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Req Date"
+            android:layout_marginTop="20dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:freezesText="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#2d589a"
+            android:singleLine="false"
+            android:typeface="serif"
+            android:layout_marginLeft="5dp"
+            android:textStyle="bold"
+            android:textSize="14dp"
+            android:visibility="visible" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=":"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:freezesText="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#ff192d5e"
+            android:textStyle="bold"
+            android:textIsSelectable="false"
+            android:layout_gravity="center"
+            android:layout_marginTop="-18dp"
+            android:layout_marginLeft="-15dp"
+            android:typeface="serif"
+            android:visibility="visible" />
+
+        <Button
+            android:layout_width="190dp"
+            android:layout_height="40dp"
+            android:id="@+id/button"
+            android:hint="Select Date"
+            android:textColor="@android:color/black"
+            android:textSize="12dp"
+            android:background="@android:drawable/btn_default"
+            android:layout_gravity="right"
+            android:layout_marginTop="-30dp"
+            android:textColorHint="@android:color/black"
+            android:typeface="serif"
+            android:gravity="left"
+            android:visibility="visible"
+           />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Remarks"
+            android:layout_marginTop="10dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:freezesText="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#2d589a"
+            android:typeface="serif"
+            android:layout_marginLeft="5dp"
+            android:textStyle="bold"
+            android:textSize="14dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=":"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:freezesText="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#ff192d5e"
+            android:textStyle="bold"
+            android:textIsSelectable="false"
+            android:layout_gravity="center"
+            android:layout_marginTop="-18dp"
+            android:layout_marginLeft="-15dp"
+            android:typeface="serif" />
+
+        <EditText
+            android:id="@+id/etRemarks"
+            android:layout_width="190dp"
+            android:layout_height="45dp"
+            android:layout_gravity="right"
+            android:layout_marginTop="-30dp"
+            android:hint="Remarks"
+            android:inputType="textMultiLine"
+            android:digits="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890.,%^#$*-+/?}{[]!|\ "
+            android:textColor="@android:color/black"
+            android:textIsSelectable="false"
+            android:textSize="14dp"
+            android:maxLength="99"
+            android:typeface="serif" />
+
+        <ImageButton
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="30dp"
+            android:background="@drawable/adds"
+            android:visibility="visible"
+            android:onClick="checkEmptyFiledAndAddDataIntoDB"
+            android:layout_marginLeft="10dp" />
+
+        <ImageButton
+            android:id="@+id/ibSaveData"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:layout_gravity="right"
+            android:layout_marginTop="-50dp"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/saves"
+            android:onClick="callPostSTOIndentApi" />
+
+        <HorizontalScrollView
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"
+            android:fillViewport="false"
+            android:focusable="false">
+
+            <ScrollView
+                android:id="@+id/scrollView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:orientation="vertical">
+
+                    <ListView
+                        android:id="@+id/listView"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginTop="20dp"
+                        android:fastScrollAlwaysVisible="false"
+                        android:fastScrollEnabled="false"
+                        android:focusable="false"
+                        android:focusableInTouchMode="false"
+                        android:footerDividersEnabled="false"
+                        android:headerDividersEnabled="false"
+                        android:longClickable="false"
+                        android:nestedScrollingEnabled="false"
+                        android:stackFromBottom="false"
+
+                        />
+                </LinearLayout>
+            </ScrollView>
+        </HorizontalScrollView>
+
+
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,383 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".salesindent.rbm.RBMIndentApprovalProcess"
+    android:background="@android:color/white">
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:freezesText="true"
+        android:orientation="vertical"
+        android:focusable="false">
+
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">
+
+            <ImageButton
+                android:layout_width="125dp"
+                android:layout_height="80dp"
+                android:background="@drawable/rasiseedslogo"
+                android:visibility="gone" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Rasi Seeds (P) Ltd."
+                android:textStyle="bold"
+                android:textColor="#ff269040"
+                android:gravity="end"
+                android:textSize="20dp"
+                android:freezesText="true"
+                android:layout_marginTop="-40dp"
+                android:layout_gravity="right"
+                android:typeface="serif"
+                android:visibility="gone" />
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="fill_parent"
+                android:layout_height="50dp"
+                android:background="#eaa80a3c">
+
+                <ImageButton
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:onClick="CloseActivity"
+                    android:baselineAlignBottom="false"
+                    android:layout_marginTop="5dp"
+                    android:background="@drawable/hmicon"
+                />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="SALES INDENT APPROVE"
+                    android:id="@+id/textView33"
+                    android:textSize="16dp"
+                    android:textColor="@android:color/white"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:autoText="false"
+                    android:typeface="serif"
+                    android:textStyle="bold"
+                    android:layout_marginTop="-30dp" />
+
+                <ImageButton
+                    android:layout_width="40dp"
+                    android:layout_height="35dp"
+                    android:background="@drawable/cast_abc_scrubber_primary_mtrl_alpha"
+                    android:onClick="CloseActivity"
+                    android:layout_gravity="right"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="-33dp" />
+            </LinearLayout>
+
+            <ImageButton
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:id="@+id/bnSubmit"
+                android:background="@drawable/s333"
+                android:layout_gravity="center"
+                android:onClick="saveDataCountCheck"
+                android:visibility="gone"
+                android:layout_marginTop="5dp" />
+
+            <ImageButton
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:background="@drawable/closeevent"
+                android:layout_gravity="right"
+                android:visibility="gone" />
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:id="@+id/Linear1"
+                android:layout_marginTop="20dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="30dp"
+                    android:freezesText="true"
+                    android:singleLine="false"
+                    android:text="TM CODE"
+                    android:textColor="#ff192d5e"
+                    android:textSize="15dp"
+                    android:textStyle="bold"
+                    android:typeface="serif" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=":"
+                    android:textSize="20dp"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentLeft="true"
+                    android:freezesText="true"
+                    android:layout_alignParentStart="true"
+                    android:textColor="#2d589a"
+                    android:textStyle="bold"
+                    android:textIsSelectable="false"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="-26dp" />
+
+                <Spinner
+                    android:layout_width="150dp"
+                    android:layout_height="45dp"
+                    android:id="@+id/spSTORbm"
+                    android:layout_gravity="right"
+                    android:layout_marginTop="-30dp" />
+
+                <ImageButton
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:background="@drawable/s333"
+                    android:onClick="EveentGetData"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="10dp"
+                    android:visibility="gone" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:id="@+id/llIndentNo"
+                android:layout_marginTop="20dp"
+                android:visibility="gone">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="INDENT NO."
+                    android:layout_marginTop="30dp"
+                    android:textSize="15dp"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentLeft="true"
+                    android:freezesText="true"
+                    android:layout_alignParentStart="true"
+                    android:textColor="#ff192d5e"
+                    android:textStyle="bold"
+                    android:singleLine="false"
+                    android:layout_marginLeft="20dp"
+                    android:typeface="serif" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=":"
+                    android:textSize="20dp"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentLeft="true"
+                    android:freezesText="true"
+                    android:layout_alignParentStart="true"
+                    android:textColor="#2d589a"
+                    android:textStyle="bold"
+                    android:textIsSelectable="false"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="-26dp" />
+
+                <Spinner
+                    android:layout_width="150dp"
+                    android:layout_height="45dp"
+                    android:id="@+id/spIndentNo"
+                    android:layout_gravity="right"
+                    android:layout_marginTop="-30dp" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <HorizontalScrollView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="fill_parent"
+                    android:freezesText="true"
+                    android:orientation="vertical"
+                    android:background="#df1f2d7b"
+                    android:id="@+id/Header"
+                    android:visibility="gone">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Indent No."
+                        android:textColor="@android:color/white"
+                        android:layout_marginLeft="20dp"
+                        android:textStyle="bold"
+                        android:textSize="15dp"
+                        android:typeface="serif"
+                        android:layout_marginTop="5dp" />
+
+                    <TextView
+                        android:layout_width="170dp"
+                        android:layout_height="wrap_content"
+                        android:text="Cust Name"
+                        android:textColor="@android:color/white"
+                        android:layout_marginLeft="155dp"
+                        android:textStyle="bold"
+                        android:layout_marginTop="-22dp"
+                        android:textSize="15dp"
+                        android:typeface="serif" />
+
+                    <TextView
+                        android:layout_width="100dp"
+                        android:layout_height="wrap_content"
+                        android:text="Item Name"
+                        android:textColor="@android:color/white"
+                        android:layout_marginLeft="350dp"
+                        android:textStyle="bold"
+                        android:textSize="15dp"
+                        android:layout_marginTop="-22dp"
+                        android:typeface="serif" />
+
+                    <TextView
+                        android:layout_width="100dp"
+                        android:layout_height="wrap_content"
+                        android:text="Packing Size"
+                        android:textColor="@android:color/white"
+                        android:layout_marginLeft="600dp"
+                        android:textStyle="bold"
+                        android:textSize="15dp"
+                        android:layout_marginTop="-25dp"
+                        android:typeface="serif" />
+
+                    <TextView
+                        android:layout_width="100dp"
+                        android:layout_height="wrap_content"
+                        android:text="Qty In Pkt"
+                        android:textColor="@android:color/white"
+                        android:layout_marginLeft="780dp"
+                        android:textStyle="bold"
+                        android:textSize="15dp"
+                        android:visibility="gone"
+                        android:layout_marginTop="-25dp"
+                        android:typeface="serif" />
+
+                    <TextView
+                        android:layout_width="160dp"
+                        android:layout_height="wrap_content"
+                        android:textColor="@android:color/white"
+                        android:layout_marginLeft="830dp"
+                        android:textSize="15dp"
+                        android:layout_marginTop="-22dp"
+                        android:text="Qty In Kg/Pkts"
+                        android:textStyle="bold"
+                        android:typeface="serif" />
+
+                    <TextView
+                        android:layout_width="100dp"
+                        android:layout_height="wrap_content"
+                        android:text="Indent Dt"
+                        android:textColor="@android:color/white"
+                        android:layout_marginLeft="1000dp"
+                        android:textStyle="bold"
+                        android:textSize="15dp"
+                        android:layout_marginTop="-20dp"
+                        android:typeface="serif" />
+
+                    <TextView
+                        android:layout_width="160dp"
+                        android:layout_height="wrap_content"
+                        android:textColor="@android:color/white"
+                        android:layout_marginLeft="1110dp"
+                        android:textSize="15dp"
+                        android:layout_marginTop="-20dp"
+                        android:text="Cust Account"
+                        android:textStyle="bold"
+                        android:typeface="serif" />
+
+                    <TextView
+                        android:layout_width="160dp"
+                        android:layout_height="wrap_content"
+                        android:textColor="@android:color/white"
+                        android:layout_marginLeft="1230dp"
+                        android:textSize="15dp"
+                        android:layout_marginTop="-20dp"
+                        android:text="Approve"
+                        android:textStyle="bold"
+                        android:typeface="serif" />
+
+                    <TextView
+                        android:layout_width="160dp"
+                        android:layout_height="wrap_content"
+                        android:textColor="@android:color/white"
+                        android:layout_marginLeft="1325dp"
+                        android:textSize="15dp"
+                        android:layout_marginTop="-20dp"
+                        android:text="Reject"
+                        android:textStyle="bold"
+                        android:typeface="serif" />
+
+                    <TextView
+                        android:layout_width="300dp"
+                        android:layout_height="wrap_content"
+                        android:textColor="@android:color/white"
+                        android:layout_marginLeft="1425dp"
+                        android:textSize="15dp"
+                        android:layout_marginTop="-20dp"
+                        android:textStyle="bold"
+                        android:typeface="serif"
+                        android:text="Remarks"/>
+                    <TextView
+                        android:layout_width="230dp"
+                        android:layout_height="wrap_content"
+                        android:textColor="@android:color/white"
+                        android:layout_marginLeft="1600dp"
+                        android:textSize="15dp"
+                        android:layout_marginTop="-20dp"
+                        android:textStyle="bold"
+                        android:typeface="serif"
+                        android:text="Item Remarks"/>
+                </LinearLayout>
+
+
+                <ScrollView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp">
+
+                    <LinearLayout
+                        android:orientation="vertical"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent">
+
+                        <ListView
+                            android:layout_width="1800dp"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/listView"
+                            android:focusable="false"
+                            android:longClickable="false"
+                            android:headerDividersEnabled="false"
+                            android:footerDividersEnabled="false"
+                            android:focusableInTouchMode="false"
+                            android:fastScrollAlwaysVisible="false"
+                            android:fastScrollEnabled="false"
+                            android:nestedScrollingEnabled="false"
+                            android:minHeight="30dp"
+                            android:visibility="gone" />
+                    </LinearLayout>
+                </ScrollView>
+            </LinearLayout>
+        </HorizontalScrollView>
+
+
+    </LinearLayout>
+</LinearLayout>

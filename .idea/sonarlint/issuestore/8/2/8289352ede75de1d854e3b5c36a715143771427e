@@ -1,0 +1,19 @@
+
+p
+java:S1845·"RRename method "setRBM" to prevent any misunderstanding/clash with method "setrBM".(ÖË8Ø¦‰˜š1
+u
+java:S1845»"RRename method "getRBM" to prevent any misunderstanding/clash with method "getrBM".(ÜıÚ÷ıÿÿÿÿ8Ù¦‰˜š1
+…
+java:S1845¯"bRename method "setSTOIndentNo" to prevent any misunderstanding/clash with method "setsTOIndentNo".(½¼·£ÿÿÿÿÿ8Ù¦‰˜š1
+…
+java:S1845³"bRename method "getSTOIndentNo" to prevent any misunderstanding/clash with method "getsTOIndentNo".(¥îÈÙıÿÿÿÿ8Ù¦‰˜š1
+y
+java:S4144»"VUpdate this method so that its implementation is not identical to "getrBM" on line 46.(ÜıÚ÷ıÿÿÿÿ8Ú¦‰˜š1
+t
+java:S4144·"VUpdate this method so that its implementation is not identical to "setrBM" on line 50.(ÖË8Ú¦‰˜š1
+
+java:S4144³"^Update this method so that its implementation is not identical to "getsTOIndentNo" on line 54.(¥îÈÙıÿÿÿÿ8Ú¦‰˜š1
+
+java:S4144¯"^Update this method so that its implementation is not identical to "setsTOIndentNo" on line 58.(½¼·£ÿÿÿÿÿ8Ú¦‰˜š1
+W
+java:S1128"5Remove this unused import 'androidx.room.ColumnInfo'.(µá™Àıÿÿÿÿ8ğ¨ê¿š1

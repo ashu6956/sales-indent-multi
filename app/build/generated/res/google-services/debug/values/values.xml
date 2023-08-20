@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">307500911864-rj3uab89aov7t9huvf5vkvbd92lrmi46.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">307500911864</string>
+    <string name="google_api_key" translatable="false">AIzaSyA81ywuiYd7Y-Sb2FyZemGZijK1BwhGAtE</string>
+    <string name="google_app_id" translatable="false">1:307500911864:android:f199ec0979291f32c0ff0d</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA81ywuiYd7Y-Sb2FyZemGZijK1BwhGAtE</string>
+    <string name="google_storage_bucket" translatable="false">acsen-agriscience.appspot.com</string>
+    <string name="project_id" translatable="false">acsen-agriscience</string>
+</resources>

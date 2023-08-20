@@ -1,0 +1,189 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".dbm.DbmPendingFragment"
+    android:background="@android:color/white">
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:freezesText="true"
+        android:orientation="vertical"
+        android:focusable="false">
+
+        <HorizontalScrollView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp">
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="fill_parent"
+                    android:freezesText="true"
+                    android:orientation="vertical"
+                    android:id="@+id/Header"
+                    android:visibility="gone"
+                    android:background="#df1f2d7b">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Indent No."
+                        android:textColor="@android:color/white"
+                        android:layout_marginLeft="10dp"
+                        android:textStyle="bold"
+                        android:textSize="15dp"
+                        android:typeface="serif"
+                        android:layout_marginTop="5dp" />
+
+                    <TextView
+                        android:layout_width="170dp"
+                        android:layout_height="wrap_content"
+                        android:text="Cust Name"
+                        android:textColor="@android:color/white"
+                        android:layout_marginLeft="155dp"
+                        android:textStyle="bold"
+                        android:layout_marginTop="-21dp"
+                        android:textSize="15dp"
+                        android:typeface="serif" />
+
+                    <TextView
+                        android:layout_width="100dp"
+                        android:layout_height="wrap_content"
+                        android:text="ItemName"
+                        android:textColor="@android:color/white"
+                        android:layout_marginLeft="400dp"
+                        android:textStyle="bold"
+                        android:textSize="15dp"
+                        android:layout_marginTop="-22dp"
+                        android:typeface="serif" />
+
+                    <TextView
+                        android:layout_width="100dp"
+                        android:layout_height="wrap_content"
+                        android:text=" Packing Size"
+                        android:textColor="@android:color/white"
+                        android:layout_marginLeft="550dp"
+                        android:textStyle="bold"
+                        android:textSize="15dp"
+                        android:layout_marginTop="-25dp"
+                        android:typeface="serif" />
+
+                    <TextView
+                        android:layout_width="100dp"
+                        android:layout_height="wrap_content"
+                        android:text="Qty In Pkt"
+                        android:textColor="@android:color/white"
+                        android:layout_marginLeft="700dp"
+                        android:textStyle="bold"
+                        android:textSize="15dp"
+                        android:layout_marginTop="-21dp"
+                        android:typeface="serif"
+                        android:visibility="gone" />
+
+                    <TextView
+                        android:layout_width="160dp"
+                        android:layout_height="wrap_content"
+                        android:textColor="@android:color/white"
+                        android:layout_marginLeft="700dp"
+                        android:textSize="15dp"
+                        android:layout_marginTop="-22dp"
+                        android:text="Qty In Kgs"
+                        android:textStyle="bold"
+                        android:typeface="serif" />
+
+                    <TextView
+                        android:layout_width="100dp"
+                        android:layout_height="wrap_content"
+                        android:text="Indent Dt"
+                        android:textColor="@android:color/white"
+                        android:layout_marginLeft="850dp"
+                        android:textStyle="bold"
+                        android:textSize="15dp"
+                        android:layout_marginTop="-21dp"
+                        android:typeface="serif" />
+
+                    <TextView
+                        android:layout_width="160dp"
+                        android:layout_height="wrap_content"
+                        android:textColor="@android:color/white"
+                        android:layout_marginLeft="1000dp"
+                        android:textSize="15dp"
+                        android:layout_marginTop="-22dp"
+                        android:text="Cust Account"
+                        android:textStyle="bold"
+                        android:typeface="serif" />
+
+                    <TextView
+                        android:layout_width="160dp"
+                        android:layout_height="wrap_content"
+                        android:textColor="@android:color/white"
+                        android:layout_marginLeft="1150dp"
+                        android:textSize="15dp"
+                        android:layout_marginTop="-22dp"
+                        android:text="Status"
+                        android:textStyle="bold"
+                        android:typeface="serif" />
+
+                    <TextView
+                        android:layout_width="300dp"
+                        android:layout_height="wrap_content"
+                        android:textColor="@android:color/white"
+                        android:layout_marginLeft="1230dp"
+                        android:textSize="15dp"
+                        android:layout_marginTop="-20dp"
+                        android:textStyle="bold"
+                        android:typeface="serif"
+                        android:text="Remarks" />
+                    <TextView
+                        android:layout_width="300dp"
+                        android:layout_height="wrap_content"
+                        android:textColor="@android:color/white"
+                        android:layout_marginLeft="1400dp"
+                        android:textSize="15dp"
+                        android:layout_marginTop="-20dp"
+                        android:textStyle="bold"
+                        android:typeface="serif"
+                        android:text="Item Remarks" />
+                </LinearLayout>
+
+                <ScrollView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <LinearLayout
+                        android:orientation="vertical"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent">
+
+                        <ListView
+                            android:layout_width="1700dp"
+                            android:layout_height="fill_parent"
+                            android:id="@+id/listView"
+                            android:focusable="false"
+                            android:longClickable="false"
+                            android:headerDividersEnabled="false"
+                            android:footerDividersEnabled="false"
+                            android:focusableInTouchMode="false"
+                            android:fastScrollAlwaysVisible="false"
+                            android:fastScrollEnabled="false"
+                            android:nestedScrollingEnabled="false"
+                            android:minHeight="30dp"
+                            android:visibility="gone"
+
+                            android:dividerHeight="0dp"
+                            android:divider="@null"/>
+                    </LinearLayout>
+                </ScrollView>
+            </LinearLayout>
+        </HorizontalScrollView>
+
+
+    </LinearLayout>
+</LinearLayout>

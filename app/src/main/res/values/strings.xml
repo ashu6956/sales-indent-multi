@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ACSEN Agriscience</string>
+    <string name="toolbar_title_name">ACSEN Agriscience Pvt Ltd</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_tmsreen">TMScreenActivity</string>
+    <string name="title_activity_amsreen">AMScreenActivity</string>
+    <string name="title_activity_rbmscreen">RBMScreenActivity</string>
+    <string name="title_activity_dbmscreen">DBMScreenActivity</string>
+    <string name="title_activity_tmsales_indent">TMSalesIndentActivity</string>
+    <string name="title_activity_password_change">PasswordChange</string>
+    <string name="title_activity_rbmindent_approval_process">RBMIndentApprovalProcess</string>
+    <string name="title_activity_amindent_approval_process">AMIndentApprovalProcess</string>
+    <string name="title_activity_dbmindent_approval_process">DBMIndentApprovalProcess</string>
+    <string name="title_activity_rbmindent_selection">RBMIndentSelection</string>
+    <string name="title_activity_tmreport_view">TMReportViewActivity</string>
+    <string name="title_activity_amreport_view">AMReportViewActivity</string>
+    <string name="title_activity_rbmreport_view">RBMReportViewActivity</string>
+    <string name="title_activity_dbmreport_view">DBMReportViewActivity</string>
+
+
+    <!-- TODO: Firebase -->
+    <string name="FCM_PRE">fcm_pre</string>
+    <string name="FCM_TOKEN">fcm_token</string>
+
+</resources>

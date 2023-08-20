@@ -1,0 +1,14 @@
+
+n
+java:S1450"XRemove the "tabLayout" field and declare it as a local variable in the relevant methods.(¤×ä
+s
+java:S1450"XRemove the "viewPager" field and declare it as a local variable in the relevant methods.(É³ûÿÿÿÿ
+<	java:S131D""Add a default case to this switch.(¼œóÛüÿÿÿÿ
+C
+java:S1185_"(Remove this method to simply inherit it.(ëŒ³©øÿÿÿÿ
+e
+java:S1874i"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(œƒƒ©ùÿÿÿÿ
+c	java:S100m"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸÀê˜
+A
+java:S1172m"+Remove this unused method parameter "view".(ŸÀê˜
+V	java:S125o"<This block of commented-out lines of code should be removed.(“ƒÎûÿÿÿÿ

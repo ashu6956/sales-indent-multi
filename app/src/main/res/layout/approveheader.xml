@@ -1,0 +1,106 @@
+<HorizontalScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingRight="20dp">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:freezesText="true"
+        android:orientation="vertical"
+        android:paddingBottom="10dp"
+        android:paddingRight="400dp"
+        android:background="#ff70b7ff">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Indent No."
+        android:textColor="@android:color/black"
+        android:layout_marginLeft="30dp"
+        android:textStyle="bold"
+        android:textSize="15dp"
+        android:typeface="serif"
+        android:layout_marginTop="5dp" />
+
+    <TextView
+        android:layout_width="170dp"
+        android:layout_height="wrap_content"
+        android:text="Cust Name"
+        android:textColor="@android:color/black"
+        android:layout_marginLeft="155dp"
+        android:textStyle="bold"
+        android:layout_marginTop="-20dp"
+        android:textSize="15dp"
+        android:typeface="serif" />
+
+        <TextView
+            android:layout_width="170dp"
+            android:layout_height="wrap_content"
+            android:text="Despatch Type"
+            android:textColor="@android:color/black"
+            android:layout_marginLeft="300dp"
+            android:textStyle="bold"
+            android:layout_marginTop="-17dp"
+            android:textSize="15dp"
+            android:typeface="serif"
+            android:gravity="center" />
+
+        <TextView
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:text="Item Name"
+            android:textColor="@android:color/black"
+        android:layout_marginLeft="470dp"
+        android:textStyle="bold"
+        android:textSize="15dp"
+        android:layout_marginTop="-20dp"
+        android:typeface="serif" />
+
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:text="Qty In Bag"
+            android:textColor="@android:color/black"
+            android:layout_marginLeft="580dp"
+            android:textStyle="bold"
+            android:textSize="15dp"
+            android:layout_marginTop="-20dp"
+            android:typeface="serif" />
+
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:text="Qty In Pkt"
+            android:textColor="@android:color/black"
+            android:layout_marginLeft="680dp"
+            android:textStyle="bold"
+            android:textSize="15dp"
+            android:layout_marginTop="-20dp"
+            android:typeface="serif" />
+
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:text="Indent Dt"
+            android:textColor="@android:color/black"
+            android:layout_marginLeft="800dp"
+            android:textStyle="bold"
+            android:textSize="15dp"
+            android:layout_marginTop="-21dp"
+            android:typeface="serif" />
+
+        <TextView
+            android:layout_width="160dp"
+            android:layout_height="wrap_content"
+            android:textColor="@android:color/black"
+            android:layout_marginLeft="920dp"
+            android:textSize="15dp"
+            android:layout_marginTop="-20dp"
+            android:text="Cust Account"
+            android:textStyle="bold"
+            android:typeface="serif" />
+    </LinearLayout>
+
+</HorizontalScrollView>

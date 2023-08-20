@@ -1,0 +1,1204 @@
+
+|
+java:S2293ñ	"YReplace the type specification in this constructor call with the diamond operator ("<>").(­Ù—ıÿÿÿÿ8”ô›ªŸ1
+|
+java:S2293æ"YReplace the type specification in this constructor call with the diamond operator ("<>").(­Ù—ıÿÿÿÿ8šô›ªŸ1
+w
+java:S2293Œ"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬¦Â8Ÿô›ªŸ1
+w
+java:S2293ö"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬¦Â8¤ô›ªŸ1
+w
+java:S2293„"YReplace the type specification in this constructor call with the diamond operator ("<>").(±ãš„8ªô›ªŸ1
+w
+java:S2293â"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬¦Â8¯ô›ªŸ1
+w
+java:S2293Ô"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬¦Â8µô›ªŸ1
+w
+java:S2293ò"YReplace the type specification in this constructor call with the diamond operator ("<>").(±ãš„8ºô›ªŸ1
+t
+java:S1192¦"QDefine a constant instead of duplicating this literal "/SalesIndentData" 3 times.(ÉÄÎÙùÿÿÿÿ8Âô›ªŸ1
+q
+java:S1192´"NDefine a constant instead of duplicating this literal "Division_code" 7 times.(Ğé”Şıÿÿÿÿ8Èô›ªŸ1
+o
+java:S1192Œ"QDefine a constant instead of duplicating this literal "application/json" 3 times.(’èŸÔ8Íô›ªŸ1
+v
+java:S1192ã"XDefine a constant instead of duplicating this literal "No Internet Connection" 15 times.(ëÚÜç8Òô›ªŸ1
+~
+java:S1192Ë"[Define a constant instead of duplicating this literal "CSV file cannot be read : " 5 times.(ğ…Ç†ÿÿÿÿÿ8×ô›ªŸ1
+q
+java:S1192Å
+"NDefine a constant instead of duplicating this literal "/IndentMaster" 5 times.(Š°åãÿÿÿÿÿ8Ûô›ªŸ1
+j
+java:S1192¶"GDefine a constant instead of duplicating this literal "D_Code" 4 times.(ã†ì®ûÿÿÿÿ8Şô›ªŸ1
+m
+java:S1192¦"JDefine a constant instead of duplicating this literal "Checkfile" 5 times.(Á×ÒÑÿÿÿÿÿ8ãô›ªŸ1
+g
+java:S1192°"IDefine a constant instead of duplicating this literal "Po_name" 10 times.(ØÍ»8æô›ªŸ1
+œ
+java:S1192Õ"yDefine a constant instead of duplicating this literal "A new version of this app is available. Please update it" 3 times.(–¥‘ìùÿÿÿÿ8êô›ªŸ1
+f
+java:S1192±"HDefine a constant instead of duplicating this literal "Tm_name" 8 times.(Ò®ù8ğô›ªŸ1
+f
+java:S1192³"HDefine a constant instead of duplicating this literal "Site_ID" 8 times.(›Ÿ8öô›ªŸ1
+s
+java:S1192Û"UDefine a constant instead of duplicating this literal "market://details?id=" 3 times.(×í’–8úô›ªŸ1
+i
+java:S1192–"FDefine a constant instead of duplicating this literal "UTF-8" 3 times.(ƒ£¶àüÿÿÿÿ8ıô›ªŸ1
+k
+java:S1192Œ"MDefine a constant instead of duplicating this literal "Content-type" 3 times.(’èŸÔ8õ›ªŸ1
+h
+java:S1192²"JDefine a constant instead of duplicating this literal "Post_code" 8 times.(—û¦8†õ›ªŸ1
+y
+java:S1192Ô"VDefine a constant instead of duplicating this literal "Please Update the App" 3 times.(ÆÕ™»ùÿÿÿÿ8‹õ›ªŸ1
+l
+java:S1192¯"IDefine a constant instead of duplicating this literal "Po_code" 10 times.(ËªÄºøÿÿÿÿ8õ›ªŸ1
+š
+java:S1192ä"|Define a constant instead of duplicating this literal "Your device doesn't have WIFI or Data Plan internet access" 15 times.(€Ù‰Í8’õ›ªŸ1
+d
+java:S1192°"FDefine a constant instead of duplicating this literal "Error" 3 times.(è©¸Ö8—õ›ªŸ1
+’
+java:S1192İ"oDefine a constant instead of duplicating this literal "https://play.google.com/store/apps/details?id=" 3 times.(ƒ‡—âúÿÿÿÿ8›õ›ªŸ1
+o
+java:S1192µ"LDefine a constant instead of duplicating this literal "Action_Code" 4 times.(±šÖúÿÿÿÿ8¡õ›ªŸ1
+M
+java:S1066¾
+"/Merge this if statement with the enclosing one.(åç±À8ªõ›ªŸ1
+X
+java:S1141…"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8°õ›ªŸ1
+n	java:S117Ó	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß¡ö8´õ›ªŸ1
+s	java:S117Ô	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñºö®ıÿÿÿÿ8¸õ›ªŸ1
+n	java:S117Õ	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İÚÈü8»õ›ªŸ1
+n	java:S117Ö	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ßüÔ8¿õ›ªŸ1
+n	java:S117×	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çšüà8Ãõ›ªŸ1
+s	java:S117Ø	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñÄÜØûÿÿÿÿ8Çõ›ªŸ1
+n	java:S117Ù	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú¦¡Ò8Ìõ›ªŸ1
+n	java:S117È"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß¡ö8Ïõ›ªŸ1
+s	java:S117É"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñºö®ıÿÿÿÿ8Óõ›ªŸ1
+n	java:S117Ê"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İÚÈü8Öõ›ªŸ1
+n	java:S117Ë"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ßüÔ8Úõ›ªŸ1
+n	java:S117Ì"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çšüà8ßõ›ªŸ1
+s	java:S117Í"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñÄÜØûÿÿÿÿ8áõ›ªŸ1
+n	java:S117Î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú¦¡Ò8åõ›ªŸ1
+s	java:S117Ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖØ ¢ÿÿÿÿÿ8èõ›ªŸ1
+s	java:S117Ğ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Áøï±ıÿÿÿÿ8ìõ›ªŸ1
+s	java:S117Ñ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚´éÿÿÿÿÿ8ğõ›ªŸ1
+n	java:S117Ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õİ²Æ8óõ›ªŸ1
+m	java:S117Ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™¼’g8öõ›ªŸ1
+s	java:S117Ô"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Òğñúÿÿÿÿ8ûõ›ªŸ1
+s	java:S117Ö"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØŠ×óûÿÿÿÿ8€ö›ªŸ1
+s	java:S117×"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğøıøÿÿÿÿ8ƒö›ªŸ1
+n	java:S117Ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åš­¿8‡ö›ªŸ1
+s	java:S117Ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€úø…ıÿÿÿÿ8‹ö›ªŸ1
+n	java:S117Ú"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–Šå£8ö›ªŸ1
+m	java:S117Û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É–Ê8’ö›ªŸ1
+n	java:S117Á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜”ºã8—ö›ªŸ1
+n	java:S117Ä"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şªşş8šö›ªŸ1
+n	java:S117Å"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üÔ³†8ö›ªŸ1
+s	java:S117Æ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œèÅûÿÿÿÿ8Åö›ªŸ1
+m	java:S117Ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦™ö/8Èö›ªŸ1
+n	java:S117È"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑÈ°Æ8Ìö›ªŸ1
+s	java:S117É"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å©µŞûÿÿÿÿ8Ïö›ªŸ1
+s	java:S117Ë"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô¶ßúşÿÿÿÿ8Òö›ªŸ1
+s	java:S117Ì"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÎùùşÿÿÿÿ8Øö›ªŸ1
+s	java:S117Í"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô­½³ıÿÿÿÿ8Üö›ªŸ1
+s	java:S117î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òœò³ıÿÿÿÿ8àö›ªŸ1
+s	java:S117î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òœò³ıÿÿÿÿ8åö›ªŸ1
+s	java:S117î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òœò³ıÿÿÿÿ8éö›ªŸ1
+s	java:S117î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òœò³ıÿÿÿÿ8íö›ªŸ1
+s	java:S117î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òœò³ıÿÿÿÿ8òö›ªŸ1
+s	java:S117î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òœò³ıÿÿÿÿ8÷ö›ªŸ1
+s	java:S117î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òœò³ıÿÿÿÿ8üö›ªŸ1
+s	java:S117î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òœò³ıÿÿÿÿ8€÷›ªŸ1
+s	java:S117î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òœò³ıÿÿÿÿ8…÷›ªŸ1
+s	java:S117î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òœò³ıÿÿÿÿ8ˆ÷›ªŸ1
+n	java:S117õ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜”ºã8Œ÷›ªŸ1
+n	java:S117ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şªşş8÷›ªŸ1
+n	java:S117ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üÔ³†8”÷›ªŸ1
+s	java:S117ú"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œèÅûÿÿÿÿ8—÷›ªŸ1
+m	java:S117û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦™ö/8›÷›ªŸ1
+n	java:S117ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑÈ°Æ8Ÿ÷›ªŸ1
+s	java:S117ı"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å©µŞûÿÿÿÿ8¢÷›ªŸ1
+s	java:S117ÿ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô¶ßúşÿÿÿÿ8¥÷›ªŸ1
+s	java:S117€"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÎùùşÿÿÿÿ8¨÷›ªŸ1
+s	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô­½³ıÿÿÿÿ8¬÷›ªŸ1
+n	java:S117¦"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜”ºã8°÷›ªŸ1
+n	java:S117§"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼ûÂ­8³÷›ªŸ1
+n	java:S117ª"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şªşş8·÷›ªŸ1
+n	java:S117«"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üÔ³†8»÷›ªŸ1
+s	java:S117¬"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û³‰•üÿÿÿÿ8¿÷›ªŸ1
+s	java:S117­"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­¹Óéşÿÿÿÿ8Â÷›ªŸ1
+n	java:S117®"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êÛüê8Å÷›ªŸ1
+s	java:S117¯"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ºêıÿÿÿÿ8Ê÷›ªŸ1
+s	java:S117°"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œèÅûÿÿÿÿ8Î÷›ªŸ1
+m	java:S117±"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦™ö/8Ñ÷›ªŸ1
+n	java:S117²"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑÈ°Æ8Ö÷›ªŸ1
+s	java:S117³"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å©µŞûÿÿÿÿ8Ú÷›ªŸ1
+s	java:S117´"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô¶ßúşÿÿÿÿ8Ş÷›ªŸ1
+s	java:S117µ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÎùùşÿÿÿÿ8â÷›ªŸ1
+s	java:S117¶"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô­½³ıÿÿÿÿ8ç÷›ªŸ1
+s	java:S117·"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹Û¼îıÿÿÿÿ8ë÷›ªŸ1
+n	java:S117×"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó“è 8ï÷›ªŸ1
+n	java:S117×"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó“è 8ô÷›ªŸ1
+n	java:S117×"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó“è 8ù÷›ªŸ1
+n	java:S117×"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó“è 8ı÷›ªŸ1
+n	java:S117×"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó“è 8€ø›ªŸ1
+n	java:S117×"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó“è 8ƒø›ªŸ1
+n	java:S117×"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó“è 8‡ø›ªŸ1
+n	java:S117×"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó“è 8‹ø›ªŸ1
+n	java:S117×"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó“è 8ø›ªŸ1
+n	java:S117×"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó“è 8‘ø›ªŸ1
+n	java:S117×"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó“è 8”ø›ªŸ1
+n	java:S117×"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó“è 8™ø›ªŸ1
+n	java:S117×"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó“è 8ø›ªŸ1
+n	java:S117×"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó“è 8 ø›ªŸ1
+n	java:S117×"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó“è 8¤ø›ªŸ1
+n	java:S117×"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó“è 8©ø›ªŸ1
+n	java:S117Ş"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜”ºã8­ø›ªŸ1
+n	java:S117ß"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼ûÂ­8°ø›ªŸ1
+n	java:S117â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şªşş8´ø›ªŸ1
+n	java:S117ã"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üÔ³†8¸ø›ªŸ1
+s	java:S117ä"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û³‰•üÿÿÿÿ8»ø›ªŸ1
+s	java:S117å"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­¹Óéşÿÿÿÿ8¿ø›ªŸ1
+n	java:S117æ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êÛüê8Ãø›ªŸ1
+s	java:S117ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ºêıÿÿÿÿ8Èø›ªŸ1
+s	java:S117è"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œèÅûÿÿÿÿ8Íø›ªŸ1
+m	java:S117é"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦™ö/8Ñø›ªŸ1
+n	java:S117ê"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑÈ°Æ8Ôø›ªŸ1
+s	java:S117ë"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å©µŞûÿÿÿÿ8×ø›ªŸ1
+s	java:S117ì"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô¶ßúşÿÿÿÿ8Ûø›ªŸ1
+s	java:S117í"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÎùùşÿÿÿÿ8Şø›ªŸ1
+s	java:S117î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô­½³ıÿÿÿÿ8áø›ªŸ1
+s	java:S117ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹Û¼îıÿÿÿÿ8åø›ªŸ1
+s	java:S117Ê"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù—ù¹ùÿÿÿÿ8ëø›ªŸ1
+s	java:S117Ô"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ëĞ ÿÿÿÿÿ8ğø›ªŸ1
+F
+java:S1604Ö"(Make this anonymous inner class a lambda(ÒÎÇù8öø›ªŸ1
+K
+java:S1604÷"(Make this anonymous inner class a lambda(…ıøŒùÿÿÿÿ8ûø›ªŸ1
+F
+java:S1604¤"(Make this anonymous inner class a lambda(ÒÎÇù8ù›ªŸ1
+F
+java:S1604Å"(Make this anonymous inner class a lambda(ÒÎÇù8„ù›ªŸ1
+K
+java:S1604ñ"(Make this anonymous inner class a lambda(ÒÂûäşÿÿÿÿ8‰ù›ªŸ1
+F
+java:S1604"(Make this anonymous inner class a lambda(„ÑñŒ8ù›ªŸ1
+K
+java:S1604¿"(Make this anonymous inner class a lambda(îª¼üÿÿÿÿÿ8“ù›ªŸ1
+K
+java:S1604Õ"(Make this anonymous inner class a lambda(îª¼üÿÿÿÿÿ8–ù›ªŸ1
+F
+java:S1604È"(Make this anonymous inner class a lambda(Î¬¯”8™ù›ªŸ1
+F
+java:S1604Ô"(Make this anonymous inner class a lambda(Î¬¯”8œù›ªŸ1
+n
+java:S1301›	"KReplace this "switch" statement by "if" statements to increase readability.(×ö³–úÿÿÿÿ8¡ù›ªŸ1
+K
+java:S5411¼"(Use a primitive boolean expression here.(öÃº¨üÿÿÿÿ8¯ù›ªŸ1
+K
+java:S5411Ò"(Use a primitive boolean expression here.(öÃº¨üÿÿÿÿ8´ù›ªŸ1
+i
+java:S2184ã"FCast one of the operands of this multiplication operation to a "long".(á¨ì´ùÿÿÿÿ8Äù›ªŸ1
+d
+java:S2184ä"FCast one of the operands of this multiplication operation to a "long".(äÎĞá8Èù›ªŸ1
+P
+java:S1199‡"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8Ïù›ªŸ1
+P
+java:S1199æ"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8Ôù›ªŸ1
+P
+java:S1199Ä"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8Úù›ªŸ1
+o
+java:S2095 "LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ûµ†íıÿÿÿÿ8é£œªŸ1
+j
+java:S2095ó"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ØÙ«é8å£œªŸ1
+h
+java:S2095®"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(öÏ×ıøÿÿÿÿ
+j
+java:S2095à"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(åÌÈå8ì£œªŸ1
+o
+java:S2095‰"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(öÏ×ıøÿÿÿÿ8ğ£œªŸ1
+j
+java:S2095ö"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(åÌÈå8ö£œªŸ1
+o
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ûµ†íıÿÿÿÿ8ó£œªŸ1
+a
+java:S2583•"CChange this condition so that it does not always evaluate to "true"(Ú±üá8ü£œªŸ1
+a
+java:S2583ë"CChange this condition so that it does not always evaluate to "true"(Ú±üá8ù£œªŸ1
+t	java:S115v"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(µãÖÒşÿÿÿÿ
+o	java:S115w"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(–â—
+t	java:S115x"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‰˜ê•şÿÿÿÿ
+o	java:S115y"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ø»Ë¾
+n	java:S115z"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(í¹…y
+l	java:S116›"QRename this field "PoCode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚÖ³éüÿÿÿÿ
+n	java:S116›"SRename this field "Password" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚÖ³éüÿÿÿÿ
+m	java:S116œ"RRename this field "PoCodes" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙÄ¹¨ıÿÿÿÿ
+o	java:S116"TRename this field "Passwords" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â¬¤öşÿÿÿÿ
+t	java:S116Ÿ"YRename this field "POCodeTransfer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â‚Ğöúÿÿÿÿ
+o	java:S116 "YRename this field "PONameTransfer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê±å
+{	java:S116¡"`Rename this field "TerritoryNameTransfer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Àåòüÿÿÿÿ
+q	java:S116¢"[Rename this field "PostCodeTransfer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Êê·ä
+d	java:S116­"NRename this field "Gps" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßñï¿
+h	java:S116­"RRename this field "Network" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßñï¿
+p	java:S116²"URename this field "Farmarcode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù•ãşÿÿÿÿ
+r	java:S116³"WRename this field "Inspectioncd" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º°œşÿÿÿÿ
+n	java:S116´"SRename this field "Growercd" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™„´Ìúÿÿÿÿ
+p	java:S116´"URename this field "GrowerName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™„´Ìúÿÿÿÿ
+p	java:S116´"URename this field "FatherName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™„´Ìúÿÿÿÿ
+q	java:S116´"VRename this field "VillageName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™„´Ìúÿÿÿÿ
+l	java:S116´"QRename this field "FaCode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™„´Ìúÿÿÿÿ
+o	java:S116´"TRename this field "VarietyCd" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™„´Ìúÿÿÿÿ
+q	java:S116´"VRename this field "SowingDates" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™„´Ìúÿÿÿÿ
+q	java:S116´"VRename this field "Description" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™„´Ìúÿÿÿÿ
+r	java:S116´"WRename this field "Description1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™„´Ìúÿÿÿÿ
+t	java:S116´"YRename this field "InspectionDate" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™„´Ìúÿÿÿÿ
+u	java:S116´"ZRename this field "InspectionDate1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™„´Ìúÿÿÿÿ
+p	java:S116´"URename this field "Farmerarea" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™„´Ìúÿÿÿÿ
+q	java:S116´"VRename this field "Farmerarea1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™„´Ìúÿÿÿÿ
+m	java:S116·"RRename this field "PFOSCAN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê¾¸Şşÿÿÿÿ
+m	java:S116·"RRename this field "GetData" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê¾¸Şşÿÿÿÿ
+k	java:S116º"PRename this field "Check" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜ó¨Íÿÿÿÿÿ
+q	java:S116¾"VRename this field "Syncomplete" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éŸû­üÿÿÿÿ
+o	java:S116Å"TRename this field "PFOfileIn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñô€Áøÿÿÿÿ
+p	java:S116Æ"URename this field "PFOfileOut" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü²È‹şÿÿÿÿ
+n	java:S116Ç"XRename this field "PFOfilSynFile" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•¯â§
+f	java:S116É"PRename this field "Iroot" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇùŠÄ
+k	java:S116Ê"PRename this field "Oroot" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü›Šşşÿÿÿÿ
+k	java:S116Ô"URename this field "FielOrder1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ò ò
+k	java:S116Õ"URename this field "GroweCode1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚¶¨„
+k	java:S116Ö"URename this field "GroweName1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û¿
+n	java:S116×"SRename this field "FatName1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìæª‹ıÿÿÿÿ
+p	java:S116Ø"URename this field "VillgName1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨¨İÇşÿÿÿÿ
+g	java:S116Ù"QRename this field "FCode1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æó¤ç
+l	java:S116Ú"VRename this field "VarietCode1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ÿË‰
+k	java:S116û"URename this field "ListSelect" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®Ñ—û
+k	java:S116ü"URename this field "UserIdData" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—‚’
+i	java:S116ü"SRename this field "UnitData" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—‚’
+u	java:S116"ZRename this field "DeleteFileCheck" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢”Ã²ıÿÿÿÿ
+m	java:S116„"RRename this field "Empcode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æïïÿÿÿÿÿ
+q	java:S116…"VRename this field "FieldfileIn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Öİïüúÿÿÿÿ
+r	java:S116†"WRename this field "FieldfileOut" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æúóúÿÿÿÿ
+l	java:S116‡"VRename this field "PFOMoveFile" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚÜ’
+p	java:S116‰"ZRename this field "APPOMasterInput" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß Ò
+z	java:S116Š"dRename this field "APActivityTypeMasterInput" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òéˆÓ
+y	java:S116‹"cRename this field "APSubActivityMasterInput" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢Ç«Ô
+u	java:S116Œ"_Rename this field "APVillageMasterInput" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”âõë
+z	java:S116"_Rename this field "APEventCrateCodeFile" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅèĞúÿÿÿÿ
+…	java:S116"jRename this field "APEventRecorderPostSeasonalFile" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ÿ±¦øÿÿÿÿ
+v	java:S116’"[Rename this field "APEvenetDataFile" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şîåíúÿÿÿÿ
+p	java:S116“"ZRename this field "APEventCodeFile" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒõ¼±
+z	java:S116•"_Rename this field "FileEventDatMovefile" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬¿·Úøÿÿÿÿ
+‰	java:S116˜"nRename this field "APEventRecorderPostSeasonalMoveFile" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌºÇ°ûÿÿÿÿ
+m	java:S116š"WRename this field "ActivityType" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛÑÉ×
+n	java:S116š"XRename this field "PoCodeSpinner" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛÑÉ×
+s	java:S116š"]Rename this field "VillageNameSpineer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛÑÉ×
+j	java:S116š"TRename this field "Transdate" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛÑÉ×
+m	java:S116š"WRename this field "SupportingPo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛÑÉ×
+g	java:S116š"QRename this field "Remark" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛÑÉ×
+h	java:S116š"RRename this field "PoState" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛÑÉ×
+i	java:S116š"SRename this field "PoRegion" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛÑÉ×
+l	java:S116š"VRename this field "PoTerritory" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛÑÉ×
+k	java:S116š"URename this field "OpenStatus" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛÑÉ×
+o	java:S116š"YRename this field "ApprovalStatus" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛÑÉ×
+m	java:S116š"WRename this field "TalukMandals" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛÑÉ×
+l	java:S116"QRename this field "Checks" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şòÏúÿÿÿÿÿ
+w	java:S116Ÿ"\Rename this field "EventCreationCode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½ß¬Ÿıÿÿÿÿ
+o	java:S116¢"TRename this field "POCodeGet" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì–÷Çüÿÿÿÿ
+j	java:S116£"TRename this field "PONameGet" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ‹•£
+q	java:S116¤"[Rename this field "TerritoryNameGet" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Ãàô
+t	java:S116¥"^Rename this field "PostCodeTransferGet" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô‘ø
+m	java:S116¦"RRename this field "SiteGet" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕºÙúÿÿÿÿ
+m	java:S116¯"WRename this field "UploadCount1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÃÆ¸
+m	java:S116²"RRename this field "Pocodes" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø«ËÃÿÿÿÿÿ
+m	java:S116²"RRename this field "Ponames" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø«ËÃÿÿÿÿÿ
+m	java:S116²"RRename this field "Tmcodes" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø«ËÃÿÿÿÿÿ
+e	java:S116¸"ORename this field "FLAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öÙŸ˜
+p	java:S116¹"URename this field "Imagepath1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ÎªŠùÿÿÿÿ
+p	java:S116º"URename this field "Imagepath2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û„¦‘üÿÿÿÿ
+k	java:S116»"URename this field "Imagepath3" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²½•ì
+t	java:S116¾"YRename this field "ImageFileName1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼ŒÙÀÿÿÿÿÿ
+o	java:S116¿"YRename this field "ImageFileName2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï‚÷
+o	java:S116À"YRename this field "ImageFileName3" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ½ú
+r	java:S116Ã"WRename this field "EventCodeNew" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÖ­Œıÿÿÿÿ
+r	java:S116Ã"WRename this field "TransDateNew" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÖ­Œıÿÿÿÿ
+u	java:S116Ã"ZRename this field "ActivityTypeNew" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÖ­Œıÿÿÿÿ
+u	java:S116Ã"ZRename this field "ActivityNameNew" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÖ­Œıÿÿÿÿ
+p	java:S116Ã"URename this field "ProductNew" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÖ­Œıÿÿÿÿ
+o	java:S116Ã"TRename this field "PoCodeNew" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÖ­Œıÿÿÿÿ
+r	java:S116Ã"WRename this field "TerritoryNew" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÖ­Œıÿÿÿÿ
+w	java:S116Ã"\Rename this field "HostFarmerNameNew" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÖ­Œıÿÿÿÿ
+z	java:S116Ã"_Rename this field "NoofFarmerCoveredNew" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÖ­Œıÿÿÿÿ
+{	java:S116Ã"`Rename this field "NoofVillageCoveredNew" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÖ­Œıÿÿÿÿ
+{	java:S116Ã"`Rename this field "NoofDealersCoveredNew" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÖ­Œıÿÿÿÿ
+t	java:S116Ã"YRename this field "TalukMandalNew" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÖ­Œıÿÿÿÿ
+t	java:S116Ã"YRename this field "VillageNameNew" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÖ­Œıÿÿÿÿ
+s	java:S116Ã"XRename this field "FarmerNameNew" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÖ­Œıÿÿÿÿ
+u	java:S116Ã"ZRename this field "MobileNumberNew" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÖ­Œıÿÿÿÿ
+v	java:S116Ã"[Rename this field "ObserVationonNew" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÖ­Œıÿÿÿÿ
+r	java:S116Ã"WRename this field "SolutionsNew" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÖ­Œıÿÿÿÿ
+p	java:S116Ã"URename this field "VisitNoNew" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÖ­Œıÿÿÿÿ
+u	java:S116Ã"ZRename this field "CropCondtionNew" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÖ­Œıÿÿÿÿ
+o	java:S116Ã"TRename this field "StatusNew" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÖ­Œıÿÿÿÿ
+r	java:S116Ã"WRename this field "BudgetAmtNew" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÖ­Œıÿÿÿÿ
+v	java:S116Ã"[Rename this field "SupportingPosNew" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÖ­Œıÿÿÿÿ
+q	java:S116Ã"VRename this field "ExpensesNew" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÖ­Œıÿÿÿÿ
+w	java:S116Ã"\Rename this field "FarmerCoverageNew" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÖ­Œıÿÿÿÿ
+p	java:S116Ã"URename this field "RemarksNew" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÖ­Œıÿÿÿÿ
+t	java:S116Ã"YRename this field "GpsLocationNew" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÖ­Œıÿÿÿÿ
+q	java:S116Ã"VRename this field "LatitudeNew" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÖ­Œıÿÿÿÿ
+r	java:S116Ã"WRename this field "LongitudeNew" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÖ­Œıÿÿÿÿ
+o	java:S116Ã"TRename this field "Image1New" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÖ­Œıÿÿÿÿ
+o	java:S116Ã"TRename this field "Image2New" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÖ­Œıÿÿÿÿ
+o	java:S116Ã"TRename this field "Image3New" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÖ­Œıÿÿÿÿ
+u	java:S116Ã"ZRename this field "LoactionDateNew" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÖ­Œıÿÿÿÿ
+u	java:S116Ã"ZRename this field "LocationTimeNew" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÖ­Œıÿÿÿÿ
+s	java:S116Ã"XRename this field "StringDateNew" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÖ­Œıÿÿÿÿ
+q	java:S116Æ"[Rename this field "ISCustMasteInput" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÄ°µ
+q	java:S116Ç"\Rename this field "ISItemMasterInput" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“œÉ8
+r	java:S116È"\Rename this field "ISCropMasterInput" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öîğë
+w	java:S116É"\Rename this field "ISSiteMasterInput" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹äœ©üÿÿÿÿ
+w	java:S116Ê"\Rename this field "ISWarehouseMaster" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùàÔöûÿÿÿÿ
+p	java:S116Í"[Rename this field "ISHeaderDataFile" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ‹%
+t	java:S116Î"YRename this field "ISLineDataFile" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é„®Ãûÿÿÿÿ
+s	java:S116Ï"]Rename this field "ISLineDataTempFile" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ììˆ
+v	java:S116Ñ"[Rename this field "ISIndentCodeFile" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·±¨åıÿÿÿÿ
+y	java:S116Ó"^Rename this field "ISProductMasterFile" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û¾™ûÿÿÿÿ
+s	java:S116Ô"XRename this field "ISLoginMaster" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ¬“æÿÿÿÿÿ
+x	java:S116×"]Rename this field "IndentCreationCode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â½Œ”ûÿÿÿÿ
+v	java:S116×"[Rename this field "CustomerAccounts" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â½Œ”ûÿÿÿÿ
+r	java:S116×"WRename this field "CustomerName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â½Œ”ûÿÿÿÿ
+o	java:S116×"TRename this field "CropTypes" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â½Œ”ûÿÿÿÿ
+o	java:S116×"TRename this field "CropNames" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â½Œ”ûÿÿÿÿ
+m	java:S116×"RRename this field "Hybrids" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â½Œ”ûÿÿÿÿ
+j	java:S116×"ORename this field "Qty2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â½Œ”ûÿÿÿÿ
+j	java:S116Ú"ORename this field "Slno" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´¶šŞúÿÿÿÿ
+k	java:S116Ü"PRename this field "Sites" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©õûÿÿÿÿ
+p	java:S116Ü"URename this field "Warehouses" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©õûÿÿÿÿ
+r	java:S116Ü"WRename this field "ExpectedDate" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©õûÿÿÿÿ
+o	java:S116Ş"TRename this field "ItemNames" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”Í²ûÿÿÿÿ
+i	java:S116ä"TRename this field "IPAddress" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’õÎV
+m	java:S116ç"WRename this field "SiteTransfer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±‘Ğ‡
+q	java:S116é"VRename this field "DivisionGet" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç‚¿Ëşÿÿÿÿ
+n	java:S116ê"XRename this field "ProjectFolder" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğÒ…
+w	java:S116ë"\Rename this field "ResponseCheckLine" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯Ìà‚ıÿÿÿÿ
+k	java:S116í"URename this field "IndentName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şí©÷
+n	java:S116«"XRename this field "Getmasterpath" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚèÛ
+u	java:S116²"ZRename this field "SalesIndentPath" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹½»¡ùÿÿÿÿ
+t	java:S116µ"YRename this field "GetmasterCheck" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²İ©Øûÿÿÿÿ
+l	java:S116¹"VRename this field "GoTOTMCheck" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç¸ïó
+l	java:S116º"QRename this field "Acting" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³¬Ğ÷ıÿÿÿÿ
+k	java:S116»"PRename this field "DCode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥¶€Ïÿÿÿÿÿ
+r	java:S116¾"\Rename this field "StockTransferPath" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞÛó²
+u	java:S116Ä"_Rename this field "LAST_APP_VERSION_KEY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºŒö
+8
+java:S1170Ä"!Make this final field static too.(ºŒö
+¤
+java:S1186¸	"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(³ÆÌ¶øÿÿÿÿ8ª¤œªŸ1
+Ÿ
+java:S1186¾	"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Õ˜å¨8óİ›ªŸ1
+n
+java:S1845²"RRename field "Pocodes" to prevent any misunderstanding/clash with field "PoCodes".(ø«ËÃÿÿÿÿÿ
+
+java:S4144Ã"aUpdate this method so that its implementation is not identical to "POEventRecorder" on line 1056.(®çøõ8±¤œªŸ1
+B
+java:S1659›"&Declare "Password" on a separate line.(ÚÖ³éüÿÿÿÿ
+<
+java:S1659­"%Declare "Network" on a separate line.(ßñï¿
+c
+java:S1659´"GDeclare "GrowerName" and all following declarations on a separate line.(™„´Ìúÿÿÿÿ
+A
+java:S1659·"%Declare "GetData" on a separate line.(ê¾¸Şşÿÿÿÿ
+Z
+java:S1659Ü"CDeclare "update" and all following declarations on a separate line.(ÿßê
+9
+java:S1659ë""Declare "text" on a separate line.(¹¸å“
+=
+java:S1659ü"&Declare "UnitData" on a separate line.(—‚’
+_
+java:S1659š"HDeclare "subActivity" and all following declarations on a separate line.(ÛÑÉ×
+e
+java:S1659©"IDeclare "btnselectpic" and all following declarations on a separate line.(Ú°Ğ›şÿÿÿÿ
+`
+java:S1659²"DDeclare "Ponames" and all following declarations on a separate line.(ø«ËÃÿÿÿÿÿ
+e
+java:S1659Ã"IDeclare "TransDateNew" and all following declarations on a separate line.(ÀÖ­Œıÿÿÿÿ
+`
+java:S1659×"DDeclare "strDate" and all following declarations on a separate line.(Â½Œ”ûÿÿÿÿ
+c
+java:S1659Ü"GDeclare "Warehouses" and all following declarations on a separate line.(©õûÿÿÿÿ
+=
+java:S1659¸"&Declare "tvAmMenu" on a separate line.(·’¥Ÿ
+}
+java:S1450Ã"aRemove the "firebaseDefaultMap" field and declare it as a local variable in the relevant methods.(‘Ï•šùÿÿÿÿ
+t
+java:S1450´"^Remove the "upLoadServerUri" field and declare it as a local variable in the relevant methods.(Êææ+
+_	java:S107î"=Method has 12 parameters, which is greater than 7 authorized.(òœò³ıÿÿÿÿ8Â¤œªŸ1
+Z	java:S107×"=Method has 18 parameters, which is greater than 7 authorized.(ó“è 8Â¤œªŸ1
+\
+java:S1124¨"EReorder the modifiers to comply with the Java Language Specification.(¨öáº
+R
+java:S1874¹"6Remove this use of "ProgressDialog"; it is deprecated.(¥Ç›“ıÿÿÿÿ
+R
+java:S1874ß"6Remove this use of "ProgressDialog"; it is deprecated.(–Â±úÿÿÿÿ
+L
+java:S1874à"6Remove this use of "ProgressDialog"; it is deprecated.(…±=
+R
+java:S1874¬"6Remove this use of "ProgressDialog"; it is deprecated.(ÚµÊìúÿÿÿÿ
+W	java:S125å"<This block of commented-out lines of code should be removed.(•Ç†ıÿÿÿÿ
+R	java:S125î"<This block of commented-out lines of code should be removed.(èÚû’
+R	java:S125Œ"<This block of commented-out lines of code should be removed.(–ğ‡
+M
+java:S1874È"6Remove this use of "getPackageInfo"; it is deprecated.(Ñâù
+J
+java:S1874È"3Remove this use of "versionCode"; it is deprecated.(Ñâù
+W	java:S125ä"<This block of commented-out lines of code should be removed.(’ÃÚÈüÿÿÿÿ
+n
+java:S3776ê"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(¨Œşÿÿÿÿ
+O
+java:S1874ò"3Remove this use of "setDefaults"; it is deprecated.(»äºÿÿÿÿÿ
+U
+java:S1874ó"9Remove this use of "setConfigSettings"; it is deprecated.(©Úøûÿÿÿÿ
+V
+java:S1874ô"?Remove this use of "setDeveloperModeEnabled"; it is deprecated.(¥º‚é
+S
+java:S1874û"7Remove this use of "activateFetched"; it is deprecated.(×Ó¿Õûÿÿÿÿ
+R	java:S125ü"<This block of commented-out lines of code should be removed.(—€‰Ú
+N
+java:S1874—"2Remove this use of "setMessage"; it is deprecated.(”“Ëœıÿÿÿÿ
+V
+java:S1874™"@Remove this use of "setIndeterminateDrawable"; it is deprecated.(ñƒız
+I
+java:S1874™"3Remove this use of "getDrawable"; it is deprecated.(ñƒız
+R	java:S125›"<This block of commented-out lines of code should be removed.(êËÏÕ
+W	java:S125¡"<This block of commented-out lines of code should be removed.(å¾±¼şÿÿÿÿ
+A
+java:S1659¼"%Declare "strTime" on a separate line.(İƒ‚Úüÿÿÿÿ
+R	java:S125¸"<This block of commented-out lines of code should be removed.(ûâˆÉ
+X
+java:S1117¼"<Rename "strDate" which hides the field declared at line 343.(İƒ‚Úüÿÿÿÿ
+R	java:S125º"<This block of commented-out lines of code should be removed.(Âô‘ü
+X
+java:S1117¼"<Rename "strTime" which hides the field declared at line 343.(İƒ‚Úüÿÿÿÿ
+R	java:S125º"<This block of commented-out lines of code should be removed.(Âô‘ü
+H
+java:S1481¼",Remove this unused "strTime" local variable.(İƒ‚Úüÿÿÿÿ
+R	java:S125È"<This block of commented-out lines of code should be removed.(êŞ–—
+A
+java:S1659Ó"%Declare "strTime" on a separate line.(İƒ‚Úüÿÿÿÿ
+R	java:S125Ï"<This block of commented-out lines of code should be removed.(ûâˆÉ
+X
+java:S1117Ó"<Rename "strDate" which hides the field declared at line 343.(İƒ‚Úüÿÿÿÿ
+R	java:S125Ñ"<This block of commented-out lines of code should be removed.(Âô‘ü
+X
+java:S1117Ó"<Rename "strTime" which hides the field declared at line 343.(İƒ‚Úüÿÿÿÿ
+R	java:S125Ñ"<This block of commented-out lines of code should be removed.(Âô‘ü
+H
+java:S1481Ó",Remove this unused "strTime" local variable.(İƒ‚Úüÿÿÿÿ
+A
+java:S1659í"%Declare "strTime" on a separate line.(İƒ‚Úüÿÿÿÿ
+R	java:S125é"<This block of commented-out lines of code should be removed.(ûâˆÉ
+X
+java:S1117í"<Rename "strDate" which hides the field declared at line 343.(İƒ‚Úüÿÿÿÿ
+R	java:S125ë"<This block of commented-out lines of code should be removed.(Âô‘ü
+X
+java:S1117í"<Rename "strTime" which hides the field declared at line 343.(İƒ‚Úüÿÿÿÿ
+R	java:S125ë"<This block of commented-out lines of code should be removed.(Âô‘ü
+H
+java:S1481í",Remove this unused "strTime" local variable.(İƒ‚Úüÿÿÿÿ
+C
+java:S1602Ù",Remove useless curly braces around statement(öíÈ¡
+C
+java:S1602İ",Remove useless curly braces around statement(«•ô
+W	java:S125"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+R	java:S125ˆ"<This block of commented-out lines of code should be removed.(İØ¥¾
+R	java:S125”"<This block of commented-out lines of code should be removed.(şÛßÌ
+i	java:S100™"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ÌÀ¾øÿÿÿÿ
+R	java:S125 "<This block of commented-out lines of code should be removed.(şÛßÌ
+i	java:S100¥"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²Ğ‘›ÿÿÿÿÿ
+\
+java:S2147»"ECombine this catch with the one at line 823, which has the same body.(ï­£Ä
+V	java:S899ª";Do something with the "boolean" value returned by "delete".(ø’…şÿÿÿÿ
+j
+java:S4042ª"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(ø’…şÿÿÿÿ
+R	java:S125º"<This block of commented-out lines of code should be removed.(‰ë
+d	java:S100Å"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ãÈÕ
+R	java:S125à"<This block of commented-out lines of code should be removed.(ÁÚ’Š
+n
+java:S3776ê"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(Ùò²øÿÿÿÿ
+W	java:S125í"<This block of commented-out lines of code should be removed.(‰‹ûÿÿÿÿ
+k	java:S100”"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äİ—®8¡¥œªŸ1
+I
+java:S1172”"+Remove this unused method parameter "view".(äİ—®8£¥œªŸ1
+p	java:S100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’¦™úÿÿÿÿ8¦¥œªŸ1
+N
+java:S1172 "+Remove this unused method parameter "view".(’¦™úÿÿÿÿ8§¥œªŸ1
+^	java:S125§"<This block of commented-out lines of code should be removed.(÷ôıÏşÿÿÿÿ8©¥œªŸ1
+k	java:S100¸"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚ö°œ8ª¥œªŸ1
+^	java:S125º"<This block of commented-out lines of code should be removed.(Ã¬à úÿÿÿÿ8«¥œªŸ1
+k	java:S100Ã"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®çøõ8­¥œªŸ1
+I
+java:S1172Ã"+Remove this unused method parameter "view".(®çøõ8®¥œªŸ1
+^	java:S125Ê"<This block of commented-out lines of code should be removed.(ä¶“³şÿÿÿÿ8°¥œªŸ1
+•
+java:S5803á"wRemove this usage of "create", it is annotated with @VisibleForTesting and should not be accessed from production code.(º¹Ó8²¥œªŸ1
+š
+java:S5803â"|Remove this usage of "setPriority", it is annotated with @VisibleForTesting and should not be accessed from production code.(Áá·8³¥œªŸ1
+^	java:S125ì"<This block of commented-out lines of code should be removed.(‰¨‘Ìşÿÿÿÿ8¶¥œªŸ1
+Q
+java:S1874î"3Remove this use of "SettingsApi"; it is deprecated.(£î²Ò8·¥œªŸ1
+?	java:S131ö""Add a default case to this switch.(Û ‰¹8¹¥œªŸ1
+Y	java:S125õ"<This block of commented-out lines of code should be removed.(û„—®8º¥œªŸ1
+~
+java:S3252÷"[Use static access with "com.google.android.gms.common.api.CommonStatusCodes" for "SUCCESS".(Ì˜™áüÿÿÿÿ8º¥œªŸ1
+Š
+java:S3252ş"gUse static access with "com.google.android.gms.common.api.CommonStatusCodes" for "RESOLUTION_REQUIRED".(Âş†²ûÿÿÿÿ8»¥œªŸ1
+D	java:S131›	""Add a default case to this switch.(×ö³–úÿÿÿÿ8¾¥œªŸ1
+Y	java:S125š	"<This block of commented-out lines of code should be removed.(Ñõò˜8¿¥œªŸ1
+y
+java:S3923	"[Remove this conditional structure or edit its code blocks so that they're not all the same.(•öÀø8À¥œªŸ1
+^	java:S125 	"<This block of commented-out lines of code should be removed.(Éˆ¤îÿÿÿÿÿ8§ß›ªŸ1
+^	java:S125§	"<This block of commented-out lines of code should be removed.(£¤«½ûÿÿÿÿ8Â¥œªŸ1
+^	java:S125ª	"<This block of commented-out lines of code should be removed.(Àµ®ãüÿÿÿÿ8Ã¥œªŸ1
+Y	java:S125Ú	"<This block of commented-out lines of code should be removed.(…²õ…8É¥œªŸ1
+Y	java:S125ú	"<This block of commented-out lines of code should be removed.(ØË†·8Ë¥œªŸ1
+Y	java:S125‘
+"<This block of commented-out lines of code should be removed.(Ñæ‹ô8Ì¥œªŸ1
+p	java:S100¤
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ®Şõúÿÿÿÿ8Î¥œªŸ1
+u
+java:S3776¤
+"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Æ®Şõúÿÿÿÿ8Î¥œªŸ1
+]	java:S899Í
+";Do something with the "boolean" value returned by "delete".(æÂÈ»şÿÿÿÿ8Ğ¥œªŸ1
+q
+java:S4042Í
+"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(æÂÈ»şÿÿÿÿ8Ñ¥œªŸ1
+p	java:S100á
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™—¾âøÿÿÿÿ8Ò¥œªŸ1
+u
+java:S3776á
+"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(™—¾âøÿÿÿÿ8Ò¥œªŸ1
+]	java:S899ù
+";Do something with the "boolean" value returned by "delete".(æÂÈ»şÿÿÿÿ8Õ¥œªŸ1
+q
+java:S4042ù
+"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(æÂÈ»şÿÿÿÿ8Ö¥œªŸ1
+]	java:S899Œ";Do something with the "boolean" value returned by "delete".(æÂÈ»şÿÿÿÿ8Ø¥œªŸ1
+q
+java:S4042Œ"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(æÂÈ»şÿÿÿÿ8Ø¥œªŸ1
+]	java:S899";Do something with the "boolean" value returned by "delete".(æÂÈ»şÿÿÿÿ8Ú¥œªŸ1
+q
+java:S4042"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(æÂÈ»şÿÿÿÿ8Ú¥œªŸ1
+]	java:S899°";Do something with the "boolean" value returned by "delete".(æÂÈ»şÿÿÿÿ8İ¥œªŸ1
+q
+java:S4042°"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(æÂÈ»şÿÿÿÿ8Ş¥œªŸ1
+p	java:S100Á"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õô¦ úÿÿÿÿ8ß¥œªŸ1
+^	java:S125È"<This block of commented-out lines of code should be removed.(–ŒœÓøÿÿÿÿ8á¥œªŸ1
+Y	java:S125Ê"<This block of commented-out lines of code should be removed.(¸†úæ8á¥œªŸ1
+X	java:S125Î"<This block of commented-out lines of code should be removed.(ï×Ó^8ÿß›ªŸ1
+^	java:S125×"<This block of commented-out lines of code should be removed.(ô²€Íøÿÿÿÿ8ã¥œªŸ1
+^	java:S125Ú"<This block of commented-out lines of code should be removed.(òÜ¯‹øÿÿÿÿ8ä¥œªŸ1
+^	java:S125á"<This block of commented-out lines of code should be removed.(ÿÈÁ—ÿÿÿÿÿ8å¥œªŸ1
+^	java:S125ä"<This block of commented-out lines of code should be removed.(¹±šôúÿÿÿÿ8æ¥œªŸ1
+^	java:S125ì"<This block of commented-out lines of code should be removed.(‡‡‰Âüÿÿÿÿ8ç¥œªŸ1
+^	java:S125î"<This block of commented-out lines of code should be removed.(†“”üÿÿÿÿ8ç¥œªŸ1
+^	java:S125ò"<This block of commented-out lines of code should be removed.(åÎ–°üÿÿÿÿ8Šà›ªŸ1
+^	java:S125ù"<This block of commented-out lines of code should be removed.(Ù¥˜–ÿÿÿÿÿ8é¥œªŸ1
+^	java:S125ü"<This block of commented-out lines of code should be removed.(Ìë‚Èùÿÿÿÿ8é¥œªŸ1
+O
+java:S1874‚"1Remove this use of "AsyncTask"; it is deprecated.(ö¥¿8ê¥œªŸ1
+Y	java:S125ˆ"<This block of commented-out lines of code should be removed.(ÙŒç«8ì¥œªŸ1
+Y
+java:S1117";Rename "result" which hides the field declared at line 167.(àı¿Õ8í¥œªŸ1
+\
+java:S4719–"9Replace charset name argument with StandardCharsets.UTF_8(ƒ£¶àüÿÿÿÿ8î¥œªŸ1
+F	java:S108£")Either remove or fill this block of code.(›©¨»8ï¥œªŸ1
+M
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8ğ¥œªŸ1
+g
+java:S1874ª"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(­–ÀS8ğ¥œªŸ1
+R
+java:S1874µ"/Remove this use of "execute"; it is deprecated.(¬ÑÊÂøÿÿÿÿ8ò¥œªŸ1
+^	java:S125Ü"<This block of commented-out lines of code should be removed.(ÉùíËøÿÿÿÿ8÷¥œªŸ1
+d
+java:S2147³"FCombine this catch with the one at line 1710, which has the same body.(ï­£Ä8û¥œªŸ1
+Y	java:S125û"<This block of commented-out lines of code should be removed.(‘ñ˜8ü¥œªŸ1
+^	java:S125"<This block of commented-out lines of code should be removed.(¶‹óÒùÿÿÿÿ8ş¥œªŸ1
+^	java:S125˜"<This block of commented-out lines of code should be removed.(Äì’…ùÿÿÿÿ8€¦œªŸ1
+Y	java:S125š"<This block of commented-out lines of code should be removed.(€ïÊ8¦œªŸ1
+Y	java:S125¥"<This block of commented-out lines of code should be removed.(Ñæ‹ô8ƒ¦œªŸ1
+\
+java:S1858¦"9there's no need to call "toString()" on a string literal.(Á×ÒÑÿÿÿÿÿ8„¦œªŸ1
+Y	java:S125±"<This block of commented-out lines of code should be removed.(‰ë8…¦œªŸ1
+Y	java:S125»"<This block of commented-out lines of code should be removed.(Ñæ‹ô8‡¦œªŸ1
+k	java:S100Å"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ¦Ôˆ8ˆ¦œªŸ1
+O
+java:S1874È"1Remove this use of "AsyncTask"; it is deprecated.(ö¥¿8Š¦œªŸ1
+Y
+java:S1117Ô";Rename "result" which hides the field declared at line 167.(àı¿Õ8Œ¦œªŸ1
+\
+java:S4719Û"9Replace charset name argument with StandardCharsets.UTF_8(ƒ£¶àüÿÿÿÿ8¦œªŸ1
+F	java:S108è")Either remove or fill this block of code.(›©¨»8¦œªŸ1
+M
+java:S2093Õ"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8¦œªŸ1
+g
+java:S1874ï"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(­–ÀS8¦œªŸ1
+R
+java:S1874ú"/Remove this use of "execute"; it is deprecated.(¬ÑÊÂøÿÿÿÿ8’¦œªŸ1
+p	java:S100ş"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒïëÀúÿÿÿÿ8’¦œªŸ1
+u
+java:S3776ş"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ŒïëÀúÿÿÿÿ8“¦œªŸ1
+Y	java:S125‡"<This block of commented-out lines of code should be removed.(ÁÚ’Š8•¦œªŸ1
+O
+java:S1874"1Remove this use of "AsyncTask"; it is deprecated.(ö¥¿8—¦œªŸ1
+^	java:S125’"<This block of commented-out lines of code should be removed.(ƒí¥ùÿÿÿÿ8˜¦œªŸ1
+Y	java:S125•"<This block of commented-out lines of code should be removed.(‰ ãí8™¦œªŸ1
+^	java:S125š"<This block of commented-out lines of code should be removed.(”ËÏãşÿÿÿÿ8™¦œªŸ1
+Y
+java:S1117 ";Rename "result" which hides the field declared at line 167.(àı¿Õ8š¦œªŸ1
+\
+java:S4719§"9Replace charset name argument with StandardCharsets.UTF_8(ƒ£¶àüÿÿÿÿ8›¦œªŸ1
+Y	java:S125©"<This block of commented-out lines of code should be removed.(ñÇĞÜ8œ¦œªŸ1
+M
+java:S1481¬"/Remove this unused "lineNumber" local variable.(¥ÑÜå8¦œªŸ1
+F	java:S108·")Either remove or fill this block of code.(”ı¾8¦œªŸ1
+F	java:S108¼")Either remove or fill this block of code.(›©¨»8Ÿ¦œªŸ1
+M
+java:S2093¡"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8Ÿ¦œªŸ1
+g
+java:S1874Å"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(­–ÀS8 ¦œªŸ1
+R
+java:S1874à"/Remove this use of "execute"; it is deprecated.(¬ÑÊÂøÿÿÿÿ8¢¦œªŸ1
+k	java:S100î"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğÄå¿8¢¦œªŸ1
+k	java:S100†"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(© Ÿ8¤¦œªŸ1
+p
+java:S3776†"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(© Ÿ8¥¦œªŸ1
+W
+java:S1854Œ"9Remove this useless assignment to local variable "codes".(¬¦Â8¨¦œªŸ1
+H
+java:S1481Œ"*Remove this unused "codes" local variable.(¬¦Â8ª¦œªŸ1
+Y	java:S125™"<This block of commented-out lines of code should be removed.(±²ï8¬¦œªŸ1
+^	java:S125°"<This block of commented-out lines of code should be removed.(ÃôïÂşÿÿÿÿ8¯¦œªŸ1
+e
+java:S1858´"G"country" is an array of strings, there's no need to call "toString()".(ˆš°¤8°¦œªŸ1
+j
+java:S1858µ"G"country" is an array of strings, there's no need to call "toString()".(´úßúÿÿÿÿ8°¦œªŸ1
+j
+java:S1858¶"G"country" is an array of strings, there's no need to call "toString()".(ë™‹şÿÿÿÿ8°¦œªŸ1
+e
+java:S1858·"G"country" is an array of strings, there's no need to call "toString()".(ìˆ´Ô8°¦œªŸ1
+e
+java:S1858¸"G"country" is an array of strings, there's no need to call "toString()".(Â¶öü8²¦œªŸ1
+e
+java:S1858¹"G"country" is an array of strings, there's no need to call "toString()".(åÄìä8²¦œªŸ1
+j
+java:S1858º"G"country" is an array of strings, there's no need to call "toString()".(—œ¨şÿÿÿÿ8³¦œªŸ1
+e
+java:S1858»"G"country" is an array of strings, there's no need to call "toString()".(ú‚ÿÑ8³¦œªŸ1
+j
+java:S1858¼"G"country" is an array of strings, there's no need to call "toString()".(˜îáüÿÿÿÿ8´¦œªŸ1
+e
+java:S1858½"G"country" is an array of strings, there's no need to call "toString()".(ûïƒŞ8µ¦œªŸ1
+j
+java:S1858¾"G"country" is an array of strings, there's no need to call "toString()".(òÉ«Œøÿÿÿÿ8¶¦œªŸ1
+e
+java:S1858¿"G"country" is an array of strings, there's no need to call "toString()".(ÜêæÑ8¶¦œªŸ1
+^	java:S125Ç"<This block of commented-out lines of code should be removed.(î•†±úÿÿÿÿ8·¦œªŸ1
+[	java:S106Ë"9Replace this use of System.out or System.err by a logger.(ğ…Ç†ÿÿÿÿÿ8¸¦œªŸ1
+\
+java:S1858à"9there's no need to call "toString()" on a string literal.(Á×ÒÑÿÿÿÿÿ8º¦œªŸ1
+p	java:S100ó"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰çÃÜşÿÿÿÿ8»¦œªŸ1
+W
+java:S1854ö"9Remove this useless assignment to local variable "codes".(¬¦Â8¼¦œªŸ1
+H
+java:S1481ö"*Remove this unused "codes" local variable.(¬¦Â8¾¦œªŸ1
+e
+java:S1858’"G"country" is an array of strings, there's no need to call "toString()".(ˆš°¤8Á¦œªŸ1
+j
+java:S1858“"G"country" is an array of strings, there's no need to call "toString()".(´úßúÿÿÿÿ8Ã¦œªŸ1
+j
+java:S1858”"G"country" is an array of strings, there's no need to call "toString()".(ë™‹şÿÿÿÿ8Ä¦œªŸ1
+e
+java:S1858•"G"country" is an array of strings, there's no need to call "toString()".(ìˆ´Ô8Ä¦œªŸ1
+e
+java:S1858–"G"country" is an array of strings, there's no need to call "toString()".(Â¶öü8Å¦œªŸ1
+e
+java:S1858—"G"country" is an array of strings, there's no need to call "toString()".(åÄìä8Æ¦œªŸ1
+j
+java:S1858˜"G"country" is an array of strings, there's no need to call "toString()".(—œ¨şÿÿÿÿ8Ç¦œªŸ1
+e
+java:S1858™"G"country" is an array of strings, there's no need to call "toString()".(ú‚ÿÑ8É¦œªŸ1
+j
+java:S1858š"G"country" is an array of strings, there's no need to call "toString()".(˜îáüÿÿÿÿ8Ê¦œªŸ1
+e
+java:S1858›"G"country" is an array of strings, there's no need to call "toString()".(ûïƒŞ8Ê¦œªŸ1
+j
+java:S1858œ"G"country" is an array of strings, there's no need to call "toString()".(òÉ«Œøÿÿÿÿ8Ì¦œªŸ1
+e
+java:S1858"G"country" is an array of strings, there's no need to call "toString()".(ÜêæÑ8Í¦œªŸ1
+[	java:S106¨"9Replace this use of System.out or System.err by a logger.(ğ…Ç†ÿÿÿÿÿ8Ï¦œªŸ1
+s
+java:S1858Á"U"IndentCreationCode" is already a string, there's no need to call "toString()" on it.(˜”ºã8Ñ¦œªŸ1
+m
+java:S1858Â"J"strDate" is already a string, there's no need to call "toString()" on it.(çù˜ãüÿÿÿÿ8Ñ¦œªŸ1
+m
+java:S1858Ã"J"strTime" is already a string, there's no need to call "toString()" on it.(ãá²ûÿÿÿÿ8Ò¦œªŸ1
+q
+java:S1858Ä"S"CustomerAccounts" is already a string, there's no need to call "toString()" on it.(şªşş8Ó¦œªŸ1
+m
+java:S1858Å"O"CustomerName" is already a string, there's no need to call "toString()" on it.(üÔ³†8Ô¦œªŸ1
+v
+java:S1858Æ"S"TerritoryNameGet" is already a string, there's no need to call "toString()" on it.(œèÅûÿÿÿÿ8Ö¦œªŸ1
+g
+java:S1858Ç"J"PoState" is already a string, there's no need to call "toString()" on it.(¦™ö/8×¦œªŸ1
+i
+java:S1858È"K"PoRegion" is already a string, there's no need to call "toString()" on it.(ÑÈ°Æ8Ø¦œªŸ1
+o
+java:S1858É"L"POCodeGet" is already a string, there's no need to call "toString()" on it.(Å©µŞûÿÿÿÿ8Ù¦œªŸ1
+k
+java:S1858Ë"H"Sites" is already a string, there's no need to call "toString()" on it.(ô¶ßúşÿÿÿÿ8Ú¦œªŸ1
+p
+java:S1858Ì"M"Warehouses" is already a string, there's no need to call "toString()" on it.(ûÎùùşÿÿÿÿ8Û¦œªŸ1
+r
+java:S1858Í"O"ExpectedDate" is already a string, there's no need to call "toString()" on it.(Ô­½³ıÿÿÿÿ8Ü¦œªŸ1
+^	java:S125í"<This block of commented-out lines of code should be removed.(¢ÚÒ©ÿÿÿÿÿ8Ş¦œªŸ1
+O
+java:S1874ï"1Remove this use of "AsyncTask"; it is deprecated.(ó«ÖÖ8ß¦œªŸ1
+]
+java:S1854ó"@Remove this useless assignment to local variable "paramAddress".(ãùâB8à¦œªŸ1
+d
+java:S1854ò"ARemove this useless assignment to local variable "paramUsername".(Ş¾ø²ıÿÿÿÿ8á¦œªŸ1
+]
+java:S1854¥":Remove this useless assignment to local variable "entity".( °ÒÛüÿÿÿÿ8á¦œªŸ1
+U
+java:S1481ò"2Remove this unused "paramUsername" local variable.(Ş¾ø²ıÿÿÿÿ8â¦œªŸ1
+N
+java:S1481ó"1Remove this unused "paramAddress" local variable.(ãùâB8ë¦œªŸ1
+s
+java:S1858õ"U"IndentCreationCode" is already a string, there's no need to call "toString()" on it.(˜”ºã8ï¦œªŸ1
+m
+java:S1858ö"J"strDate" is already a string, there's no need to call "toString()" on it.(çù˜ãüÿÿÿÿ8ø¦œªŸ1
+m
+java:S1858÷"J"strTime" is already a string, there's no need to call "toString()" on it.(ãá²ûÿÿÿÿ8ı¦œªŸ1
+q
+java:S1858ø"S"CustomerAccounts" is already a string, there's no need to call "toString()" on it.(şªşş8‚§œªŸ1
+m
+java:S1858ù"O"CustomerName" is already a string, there's no need to call "toString()" on it.(üÔ³†8†§œªŸ1
+v
+java:S1858ú"S"TerritoryNameGet" is already a string, there's no need to call "toString()" on it.(œèÅûÿÿÿÿ8ˆ§œªŸ1
+g
+java:S1858û"J"PoState" is already a string, there's no need to call "toString()" on it.(¦™ö/8‰§œªŸ1
+i
+java:S1858ü"K"PoRegion" is already a string, there's no need to call "toString()" on it.(ÑÈ°Æ8Š§œªŸ1
+o
+java:S1858ı"L"POCodeGet" is already a string, there's no need to call "toString()" on it.(Å©µŞûÿÿÿÿ8‹§œªŸ1
+k
+java:S1858ÿ"H"Sites" is already a string, there's no need to call "toString()" on it.(ô¶ßúşÿÿÿÿ8Œ§œªŸ1
+p
+java:S1858€"M"Warehouses" is already a string, there's no need to call "toString()" on it.(ûÎùùşÿÿÿÿ8§œªŸ1
+r
+java:S1858"O"ExpectedDate" is already a string, there's no need to call "toString()" on it.(Ô­½³ıÿÿÿÿ8§œªŸ1
+d
+java:S2147ª"FCombine this catch with the one at line 2216, which has the same body.(ï­£Ä8§œªŸ1
+Y	java:S125–"<This block of commented-out lines of code should be removed.(³§…Ó8‘§œªŸ1
+^	java:S125˜"<This block of commented-out lines of code should be removed.(¾ËÉ¡øÿÿÿÿ8‘§œªŸ1
+^	java:S125š"<This block of commented-out lines of code should be removed.(ÊºŒ©øÿÿÿÿ8“§œªŸ1
+Y	java:S125"<This block of commented-out lines of code should be removed.(«ø”«8”§œªŸ1
+N
+java:S1481¥"+Remove this unused "entity" local variable.( °ÒÛüÿÿÿÿ8•§œªŸ1
+K	java:S108¨")Either remove or fill this block of code.(‡¤“Óûÿÿÿÿ8•§œªŸ1
+F	java:S108ª")Either remove or fill this block of code.(ï­£Ä8–§œªŸ1
+g
+java:S1874´"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(­–ÀS8–§œªŸ1
+R
+java:S1874µ"5Remove this use of "onPostExecute"; it is deprecated.(úñ†8—§œªŸ1
+W
+java:S1858¾"9there's no need to call "toString()" on a string literal.(ÛĞØª8˜§œªŸ1
+]	java:S899À";Do something with the "boolean" value returned by "delete".(¨Šùøÿÿÿÿ8š§œªŸ1
+q
+java:S4042À"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(¨Šùøÿÿÿÿ8š§œªŸ1
+Y	java:S125¿"<This block of commented-out lines of code should be removed.(ß‚´¨8›§œªŸ1
+Y	java:S125Á"<This block of commented-out lines of code should be removed.(Şå¦”8›§œªŸ1
+Y	java:S125Õ"<This block of commented-out lines of code should be removed.(›8§œªŸ1
+R
+java:S1874Ö"/Remove this use of "execute"; it is deprecated.(šˆíñûÿÿÿÿ8Ÿ§œªŸ1
+p	java:S100Û"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õˆ–Šûÿÿÿÿ8Ÿ§œªŸ1
+u
+java:S3776Û"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(õˆ–Šûÿÿÿÿ8 §œªŸ1
+W
+java:S1854â"9Remove this useless assignment to local variable "codes".(¬¦Â8¡§œªŸ1
+H
+java:S1481â"*Remove this unused "codes" local variable.(¬¦Â8¢§œªŸ1
+Y	java:S125ï"<This block of commented-out lines of code should be removed.(±²ï8¤§œªŸ1
+^	java:S125†"<This block of commented-out lines of code should be removed.(ÃôïÂşÿÿÿÿ8§§œªŸ1
+^	java:S125‰"<This block of commented-out lines of code should be removed.(—à¹©øÿÿÿÿ8¨§œªŸ1
+e
+java:S1858Œ"G"country" is an array of strings, there's no need to call "toString()".(ˆš°¤8ª§œªŸ1
+j
+java:S1858"G"country" is an array of strings, there's no need to call "toString()".(Ö Á†üÿÿÿÿ8«§œªŸ1
+j
+java:S1858"G"country" is an array of strings, there's no need to call "toString()".(¨şªŠÿÿÿÿÿ8¬§œªŸ1
+e
+java:S1858"G"country" is an array of strings, there's no need to call "toString()".(Ó³ßÜ8®§œªŸ1
+j
+java:S1858"G"country" is an array of strings, there's no need to call "toString()".(¼¥‘øÿÿÿÿ8®§œªŸ1
+e
+java:S1858‘"G"country" is an array of strings, there's no need to call "toString()".(©ÿüø8°§œªŸ1
+e
+java:S1858’"G"country" is an array of strings, there's no need to call "toString()".(’Ú‚ô8±§œªŸ1
+j
+java:S1858“"G"country" is an array of strings, there's no need to call "toString()".(›œ™Èıÿÿÿÿ8²§œªŸ1
+d
+java:S1858”"G"country" is an array of strings, there's no need to call "toString()".(¿‘ç'8³§œªŸ1
+j
+java:S1858•"G"country" is an array of strings, there's no need to call "toString()".(½Èïèıÿÿÿÿ8´§œªŸ1
+j
+java:S1858–"G"country" is an array of strings, there's no need to call "toString()".(Ö¢æßøÿÿÿÿ8µ§œªŸ1
+j
+java:S1858—"G"country" is an array of strings, there's no need to call "toString()".(ºÇ²şÿÿÿÿ8·§œªŸ1
+e
+java:S1858˜"G"country" is an array of strings, there's no need to call "toString()".(İª£Ê8¸§œªŸ1
+j
+java:S1858™"G"country" is an array of strings, there's no need to call "toString()".(”şÆµûÿÿÿÿ8¸§œªŸ1
+e
+java:S1858š"G"country" is an array of strings, there's no need to call "toString()".(ÅàÕø8º§œªŸ1
+e
+java:S1858›"G"country" is an array of strings, there's no need to call "toString()".(Ûê‹Ü8»§œªŸ1
+e
+java:S1858œ"G"country" is an array of strings, there's no need to call "toString()".(Ûä©µ8¼§œªŸ1
+j
+java:S1858"G"country" is an array of strings, there's no need to call "toString()".(Šºéİşÿÿÿÿ8¾§œªŸ1
+^	java:S125¥"<This block of commented-out lines of code should be removed.(î•†±úÿÿÿÿ8¿§œªŸ1
+[	java:S106©"9Replace this use of System.out or System.err by a logger.(ğ…Ç†ÿÿÿÿÿ8Á§œªŸ1
+\
+java:S1858¾"9there's no need to call "toString()" on a string literal.(Á×ÒÑÿÿÿÿÿ8Å§œªŸ1
+k	java:S100Ñ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡Ñ…î8Ç§œªŸ1
+W
+java:S1854Ô"9Remove this useless assignment to local variable "codes".(¬¦Â8É§œªŸ1
+H
+java:S1481Ô"*Remove this unused "codes" local variable.(¬¦Â8Ë§œªŸ1
+e
+java:S1858ñ"G"country" is an array of strings, there's no need to call "toString()".(ˆš°¤8Î§œªŸ1
+j
+java:S1858ò"G"country" is an array of strings, there's no need to call "toString()".(Ö Á†üÿÿÿÿ8Ñ§œªŸ1
+j
+java:S1858ó"G"country" is an array of strings, there's no need to call "toString()".(¨şªŠÿÿÿÿÿ8Ò§œªŸ1
+e
+java:S1858ô"G"country" is an array of strings, there's no need to call "toString()".(Ó³ßÜ8Ó§œªŸ1
+j
+java:S1858õ"G"country" is an array of strings, there's no need to call "toString()".(¼¥‘øÿÿÿÿ8Ô§œªŸ1
+e
+java:S1858ö"G"country" is an array of strings, there's no need to call "toString()".(©ÿüø8Õ§œªŸ1
+e
+java:S1858÷"G"country" is an array of strings, there's no need to call "toString()".(’Ú‚ô8×§œªŸ1
+j
+java:S1858ø"G"country" is an array of strings, there's no need to call "toString()".(›œ™Èıÿÿÿÿ8Ø§œªŸ1
+d
+java:S1858ù"G"country" is an array of strings, there's no need to call "toString()".(¿‘ç'8Ù§œªŸ1
+j
+java:S1858ú"G"country" is an array of strings, there's no need to call "toString()".(½Èïèıÿÿÿÿ8Ú§œªŸ1
+j
+java:S1858û"G"country" is an array of strings, there's no need to call "toString()".(Ö¢æßøÿÿÿÿ8Ü§œªŸ1
+j
+java:S1858ü"G"country" is an array of strings, there's no need to call "toString()".(ºÇ²şÿÿÿÿ8İ§œªŸ1
+e
+java:S1858ı"G"country" is an array of strings, there's no need to call "toString()".(İª£Ê8ß§œªŸ1
+j
+java:S1858ş"G"country" is an array of strings, there's no need to call "toString()".(”şÆµûÿÿÿÿ8ß§œªŸ1
+e
+java:S1858ÿ"G"country" is an array of strings, there's no need to call "toString()".(ÅàÕø8à§œªŸ1
+e
+java:S1858€"G"country" is an array of strings, there's no need to call "toString()".(Ûê‹Ü8à§œªŸ1
+e
+java:S1858"G"country" is an array of strings, there's no need to call "toString()".(Ûä©µ8á§œªŸ1
+j
+java:S1858‚"G"country" is an array of strings, there's no need to call "toString()".(Šºéİşÿÿÿÿ8â§œªŸ1
+[	java:S106"9Replace this use of System.out or System.err by a logger.(ğ…Ç†ÿÿÿÿÿ8ã§œªŸ1
+s
+java:S1858¦"U"IndentCreationCode" is already a string, there's no need to call "toString()" on it.(˜”ºã8ç§œªŸ1
+e
+java:S1858§"G"Slno" is already a string, there's no need to call "toString()" on it.(¼ûÂ­8è§œªŸ1
+m
+java:S1858¨"J"strDate" is already a string, there's no need to call "toString()" on it.(çù˜ãüÿÿÿÿ8é§œªŸ1
+m
+java:S1858©"J"strTime" is already a string, there's no need to call "toString()" on it.(ãá²ûÿÿÿÿ8ê§œªŸ1
+q
+java:S1858ª"S"CustomerAccounts" is already a string, there's no need to call "toString()" on it.(şªşş8ë§œªŸ1
+m
+java:S1858«"O"CustomerName" is already a string, there's no need to call "toString()" on it.(üÔ³†8ì§œªŸ1
+o
+java:S1858¬"L"CropNames" is already a string, there's no need to call "toString()" on it.(û³‰•üÿÿÿÿ8ï§œªŸ1
+o
+java:S1858­"L"CropTypes" is already a string, there's no need to call "toString()" on it.(­¹Óéşÿÿÿÿ8ğ§œªŸ1
+h
+java:S1858®"J"Hybrids" is already a string, there's no need to call "toString()" on it.(êÛüê8ñ§œªŸ1
+j
+java:S1858¯"G"Qty2" is already a string, there's no need to call "toString()" on it.(•ºêıÿÿÿÿ8ò§œªŸ1
+v
+java:S1858°"S"TerritoryNameGet" is already a string, there's no need to call "toString()" on it.(œèÅûÿÿÿÿ8ó§œªŸ1
+g
+java:S1858±"J"PoState" is already a string, there's no need to call "toString()" on it.(¦™ö/8ô§œªŸ1
+i
+java:S1858²"K"PoRegion" is already a string, there's no need to call "toString()" on it.(ÑÈ°Æ8õ§œªŸ1
+o
+java:S1858³"L"POCodeGet" is already a string, there's no need to call "toString()" on it.(Å©µŞûÿÿÿÿ8÷§œªŸ1
+k
+java:S1858´"H"Sites" is already a string, there's no need to call "toString()" on it.(ô¶ßúşÿÿÿÿ8ø§œªŸ1
+p
+java:S1858µ"M"Warehouses" is already a string, there's no need to call "toString()" on it.(ûÎùùşÿÿÿÿ8ø§œªŸ1
+r
+java:S1858¶"O"ExpectedDate" is already a string, there's no need to call "toString()" on it.(Ô­½³ıÿÿÿÿ8ú§œªŸ1
+o
+java:S1858·"L"ItemNames" is already a string, there's no need to call "toString()" on it.(‹Û¼îıÿÿÿÿ8ü§œªŸ1
+^	java:S125Ö"<This block of commented-out lines of code should be removed.(¢ÚÒ©ÿÿÿÿÿ8€¨œªŸ1
+O
+java:S1874Ø"1Remove this use of "AsyncTask"; it is deprecated.(ó«ÖÖ8‚¨œªŸ1
+]
+java:S1854Ü"@Remove this useless assignment to local variable "paramAddress".(ãùâB8ƒ¨œªŸ1
+d
+java:S1854Û"ARemove this useless assignment to local variable "paramUsername".(Ş¾ø²ıÿÿÿÿ8„¨œªŸ1
+]
+java:S1854˜":Remove this useless assignment to local variable "entity".( °ÒÛüÿÿÿÿ8…¨œªŸ1
+U
+java:S1481Û"2Remove this unused "paramUsername" local variable.(Ş¾ø²ıÿÿÿÿ8‡¨œªŸ1
+N
+java:S1481Ü"1Remove this unused "paramAddress" local variable.(ãùâB8ˆ¨œªŸ1
+s
+java:S1858Ş"U"IndentCreationCode" is already a string, there's no need to call "toString()" on it.(˜”ºã8‰¨œªŸ1
+e
+java:S1858ß"G"Slno" is already a string, there's no need to call "toString()" on it.(¼ûÂ­8‰¨œªŸ1
+m
+java:S1858à"J"strDate" is already a string, there's no need to call "toString()" on it.(çù˜ãüÿÿÿÿ8‹¨œªŸ1
+m
+java:S1858á"J"strTime" is already a string, there's no need to call "toString()" on it.(ãá²ûÿÿÿÿ8Œ¨œªŸ1
+q
+java:S1858â"S"CustomerAccounts" is already a string, there's no need to call "toString()" on it.(şªşş8¨œªŸ1
+m
+java:S1858ã"O"CustomerName" is already a string, there's no need to call "toString()" on it.(üÔ³†8¨œªŸ1
+o
+java:S1858ä"L"CropNames" is already a string, there's no need to call "toString()" on it.(û³‰•üÿÿÿÿ8¨œªŸ1
+o
+java:S1858å"L"CropTypes" is already a string, there's no need to call "toString()" on it.(­¹Óéşÿÿÿÿ8‘¨œªŸ1
+h
+java:S1858æ"J"Hybrids" is already a string, there's no need to call "toString()" on it.(êÛüê8’¨œªŸ1
+j
+java:S1858ç"G"Qty2" is already a string, there's no need to call "toString()" on it.(•ºêıÿÿÿÿ8“¨œªŸ1
+v
+java:S1858è"S"TerritoryNameGet" is already a string, there's no need to call "toString()" on it.(œèÅûÿÿÿÿ8”¨œªŸ1
+g
+java:S1858é"J"PoState" is already a string, there's no need to call "toString()" on it.(¦™ö/8•¨œªŸ1
+i
+java:S1858ê"K"PoRegion" is already a string, there's no need to call "toString()" on it.(ÑÈ°Æ8–¨œªŸ1
+o
+java:S1858ë"L"POCodeGet" is already a string, there's no need to call "toString()" on it.(Å©µŞûÿÿÿÿ8˜¨œªŸ1
+k
+java:S1858ì"H"Sites" is already a string, there's no need to call "toString()" on it.(ô¶ßúşÿÿÿÿ8™¨œªŸ1
+p
+java:S1858í"M"Warehouses" is already a string, there's no need to call "toString()" on it.(ûÎùùşÿÿÿÿ8š¨œªŸ1
+r
+java:S1858î"O"ExpectedDate" is already a string, there's no need to call "toString()" on it.(Ô­½³ıÿÿÿÿ8›¨œªŸ1
+o
+java:S1858ï"L"ItemNames" is already a string, there's no need to call "toString()" on it.(‹Û¼îıÿÿÿÿ8œ¨œªŸ1
+d
+java:S2147"FCombine this catch with the one at line 2587, which has the same body.(ï­£Ä8 ¨œªŸ1
+Y	java:S125‰"<This block of commented-out lines of code should be removed.(ÕÌ8¡¨œªŸ1
+Y	java:S125‹"<This block of commented-out lines of code should be removed.(ŞÃŞ‚8£¨œªŸ1
+^	java:S125"<This block of commented-out lines of code should be removed.(ÊºŒ©øÿÿÿÿ8¤¨œªŸ1
+X	java:S125"<This block of commented-out lines of code should be removed.(å·ò:8¤¨œªŸ1
+X	java:S125’"<This block of commented-out lines of code should be removed.(Ê³ı38¦¨œªŸ1
+N
+java:S1481˜"+Remove this unused "entity" local variable.( °ÒÛüÿÿÿÿ8¨¨œªŸ1
+K	java:S108›")Either remove or fill this block of code.(‡¤“Óûÿÿÿÿ8¨¨œªŸ1
+F	java:S108")Either remove or fill this block of code.(ï­£Ä8©¨œªŸ1
+g
+java:S1874§"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(­–ÀS8ª¨œªŸ1
+R
+java:S1874¨"5Remove this use of "onPostExecute"; it is deprecated.(úñ†8¬¨œªŸ1
+W
+java:S1858±"9there's no need to call "toString()" on a string literal.(ÛĞØª8®¨œªŸ1
+X	java:S899³";Do something with the "boolean" value returned by "delete".(è¸ìÅ8®¨œªŸ1
+l
+java:S4042³"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(è¸ìÅ8¯¨œªŸ1
+Y	java:S125²"<This block of commented-out lines of code should be removed.(ß‚´¨8¯¨œªŸ1
+Y	java:S125´"<This block of commented-out lines of code should be removed.(Şå¦”8±¨œªŸ1
+Y	java:S125È"<This block of commented-out lines of code should be removed.(›8²¨œªŸ1
+M
+java:S1874É"/Remove this use of "execute"; it is deprecated.(™ù—Š8³¨œªŸ1
+^	java:S125è"<This block of commented-out lines of code should be removed.(œƒƒ©ùÿÿÿÿ8µ¨œªŸ1
+m
+java:S1874”"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(œƒƒ©ùÿÿÿÿ8¶¨œªŸ1
+X
+java:S1874–"5Remove this use of "onBackPressed"; it is deprecated.(‘Ñàÿÿÿÿÿ8·¨œªŸ1
+M
+java:S1874"/Remove this use of "Handler"; it is deprecated.(„ÑñŒ8¸¨œªŸ1
+T
+java:S1874¿"1Remove this use of "setButton"; it is deprecated.(îª¼üÿÿÿÿÿ8¼¨œªŸ1
+Ÿ
+java:S1186À"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¦Œœ¢8½¨œªŸ1
+Y	java:S125Ï"<This block of commented-out lines of code should be removed.(†Ó­˜8Á¨œªŸ1
+T
+java:S1874Õ"1Remove this use of "setButton"; it is deprecated.(îª¼üÿÿÿÿÿ8Ã¨œªŸ1
+Ÿ
+java:S1186Ö"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¦Œœ¢8Ä¨œªŸ1
+L
+java:S1874ğ"/Remove this use of "execute"; it is deprecated.(áÒ8Ç¨œªŸ1
+m	java:S116ø"QRename this field "Client" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢£î
+8È¨œªŸ1
+n	java:S116ù"RRename this field "Content" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Çî—8È¨œªŸ1
+r	java:S116ú"PRename this field "Error" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ı·»ûÿÿÿÿ8É¨œªŸ1
+Ÿ
+java:S1186ı"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ËĞƒ8Ê¨œªŸ1
+s
+java:S1450ù"VRemove the "Content" field and declare it as a local variable in the relevant methods.(Çî—8Ê¨œªŸ1
+w
+java:S1450ú"TRemove the "Error" field and declare it as a local variable in the relevant methods.(¸ı·»ûÿÿÿÿ8Ë¨œªŸ1
+O
+java:S1874ö"1Remove this use of "AsyncTask"; it is deprecated.(ç„ï8Ì¨œªŸ1
+h
+java:S1874ı"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(ËĞƒ8Ì¨œªŸ1
+X
+java:S1161ı":Add the "@Override" annotation above this method signature(ËĞƒ8Í¨œªŸ1
+Q
+java:S1874".Remove this use of "cancel"; it is deprecated.(ÛÕÓÿıÿÿÿÿ8Î¨œªŸ1
+Q
+java:S1874“".Remove this use of "cancel"; it is deprecated.(ÛÕÓÿıÿÿÿÿ8Ğ¨œªŸ1
+m
+java:S1874™"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(‘®™çÿÿÿÿÿ8Ñ¨œªŸ1
+]
+java:S1161™":Add the "@Override" annotation above this method signature(‘®™çÿÿÿÿÿ8Ò¨œªŸ1
+k	java:S100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸÀê˜8Ó¨œªŸ1
+I
+java:S1172 "+Remove this unused method parameter "view".(ŸÀê˜8Ô¨œªŸ1
+k	java:S100©"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚æÆä8Ö¨œªŸ1
+`
+java:S1854®"=Remove this useless assignment to local variable "longitude".(´¯Êşÿÿÿÿ8×¨œªŸ1
+Y
+java:S1854­"<Remove this useless assignment to local variable "latitude".(¿å—{8×¨œªŸ1
+J
+java:S1481­"-Remove this unused "latitude" local variable.(¿å—{8Ù¨œªŸ1
+Q
+java:S1481®".Remove this unused "longitude" local variable.(´¯Êşÿÿÿÿ8Ù¨œªŸ1
+Y	java:S125¯"<This block of commented-out lines of code should be removed.(ş¥ û8Û¨œªŸ1
+^	java:S125±"<This block of commented-out lines of code should be removed.(¼üÇÒüÿÿÿÿ8Ü¨œªŸ1
+^	java:S125´"<This block of commented-out lines of code should be removed.(˜°Ÿıÿÿÿÿ8Ü¨œªŸ1
+^	java:S125¶"<This block of commented-out lines of code should be removed.(§´‚—úÿÿÿÿ8İ¨œªŸ1
+^	java:S125¸"<This block of commented-out lines of code should be removed.(˜¡İƒúÿÿÿÿ8Ş¨œªŸ1
+j	java:S100Ş"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×Õô8â¨œªŸ1
+[
+java:S1854ä"=Remove this useless assignment to local variable "longitude".(É¾®Ë8ã¨œªŸ1
+Z
+java:S1854ã"<Remove this useless assignment to local variable "latitude".(É³¼Ø8å¨œªŸ1
+K
+java:S1481ã"-Remove this unused "latitude" local variable.(É³¼Ø8å¨œªŸ1
+L
+java:S1481ä".Remove this unused "longitude" local variable.(É¾®Ë8æ¨œªŸ1
+X	java:S125æ"<This block of commented-out lines of code should be removed.(ë­£78ç¨œªŸ1
+^	java:S125è"<This block of commented-out lines of code should be removed.(¢¸÷Şıÿÿÿÿ8è¨œªŸ1
+Y	java:S125ë"<This block of commented-out lines of code should be removed.(”Åæ¦8é¨œªŸ1
+p	java:S100ğ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Üøòçıÿÿÿÿ8ê¨œªŸ1
+N
+java:S1172ğ"+Remove this unused method parameter "view".(Üøòçıÿÿÿÿ8ë¨œªŸ1
+k	java:S100È"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ•Ëõ8ó¨œªŸ1
+\
+java:S1858Ê"9there's no need to call "toString()" on a string literal.(ù—ù¹ùÿÿÿÿ8õ¨œªŸ1
+k	java:S100Ò"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­âÌº8ö¨œªŸ1
+\
+java:S1858Ô"9there's no need to call "toString()" on a string literal.(±ëĞ ÿÿÿÿÿ8÷¨œªŸ1
+p	java:S100ë"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»¤İşøÿÿÿÿ8ø¨œªŸ1
+M
+java:S1481÷"/Remove this unused "lineNumber" local variable.(¥ÑÜå8ú¨œªŸ1
+e
+java:S1858"G"country" is an array of strings, there's no need to call "toString()".(üŠø8û¨œªŸ1
+j
+java:S1858‚"G"country" is an array of strings, there's no need to call "toString()".(„ Î•øÿÿÿÿ8ü¨œªŸ1
+j
+java:S1858ƒ"G"country" is an array of strings, there's no need to call "toString()".(È›ßóüÿÿÿÿ8ü¨œªŸ1
+e
+java:S1858„"G"country" is an array of strings, there's no need to call "toString()".(”²Éâ8ş¨œªŸ1
+e
+java:S1858…"G"country" is an array of strings, there's no need to call "toString()".(ŒƒÃ¡8ş¨œªŸ1
+j
+java:S1858†"G"country" is an array of strings, there's no need to call "toString()".(é«ô™úÿÿÿÿ8ÿ¨œªŸ1
+e
+java:S1858‡"G"country" is an array of strings, there's no need to call "toString()".(ÇŞø¾8€©œªŸ1
+j
+java:S1858ˆ"G"country" is an array of strings, there's no need to call "toString()".(â”Ãÿÿÿÿÿÿ8‚©œªŸ1
+[	java:S106"9Replace this use of System.out or System.err by a logger.(ğ…Ç†ÿÿÿÿÿ8ƒ©œªŸ1
+^	java:S125"<This block of commented-out lines of code should be removed.(¶‚¸·ûÿÿÿÿ8„©œªŸ1
+R
+java:S1068t"0Remove this unused "TAG_RESULTS1" private field.(ÀŞ´şÿÿÿÿ8…©œªŸ1
+I
+java:S1068v"'Remove this unused "T2k" private field.(µãÖÒşÿÿÿÿ8…©œªŸ1
+D
+java:S1068w"'Remove this unused "T3k" private field.(–â—8†©œªŸ1
+I
+java:S1068x"'Remove this unused "T4k" private field.(‰˜ê•şÿÿÿÿ8†©œªŸ1
+D
+java:S1068y"'Remove this unused "T5k" private field.(ø»Ë¾8‡©œªŸ1
+C
+java:S1068z"'Remove this unused "T6k" private field.(í¹…y8‡©œªŸ1
+J
+java:S1068‘"'Remove this unused "T20" private field.(üô¦øÿÿÿÿ8ˆ©œªŸ1
+E
+java:S1068’"'Remove this unused "T21" private field.(˜éÄÖ8ˆ©œªŸ1
+J
+java:S1068“"'Remove this unused "T22" private field.(ó¤¡ùÿÿÿÿ8‰©œªŸ1
+J
+java:S1068”"'Remove this unused "T23" private field.(¤—Õèúÿÿÿÿ8‰©œªŸ1
+E
+java:S1068•"'Remove this unused "T24" private field.(ÁŠã®8Š©œªŸ1
+J
+java:S1068–"'Remove this unused "T25" private field.( ®ûåûÿÿÿÿ8‹©œªŸ1
+E
+java:S1068—"'Remove this unused "T26" private field.(˜§8Œ©œªŸ1
+E
+java:S1068˜"'Remove this unused "T27" private field.(Ó¥ª8Œ©œªŸ1
+L
+java:S1068®".Remove this unused "datePicker" private field.(Ï÷Î¿8©œªŸ1
+S
+java:S1068©"0Remove this unused "uploadButton" private field.(Ú°Ğ›şÿÿÿÿ8©œªŸ1
+S
+java:S1068©"0Remove this unused "btnselectpic" private field.(Ú°Ğ›şÿÿÿÿ8©œªŸ1
+U
+java:S1068©"2Remove this unused "btnselectaudio" private field.(Ú°Ğ›şÿÿÿÿ8©œªŸ1
+U
+java:S1068©"2Remove this unused "btnselectvideo" private field.(Ú°Ğ›şÿÿÿÿ8©œªŸ1
+K
+java:S1068ª"-Remove this unused "imageview" private field.(ˆÕ‘Ã8©œªŸ1
+Y
+java:S1068«"6Remove this unused "serverResponseCode" private field.(¹¼À¬şÿÿÿÿ8‘©œªŸ1
+M
+java:S1068¬"*Remove this unused "dialog" private field.(ÚµÊìúÿÿÿÿ8’©œªŸ1
+P
+java:S1068´"3Remove this unused "upLoadServerUri" private field.(Êææ+8’©œªŸ1
+K
+java:S1068µ"-Remove this unused "filepath1" private field.(–³Î8“©œªŸ1
+K
+java:S1068¶"-Remove this unused "filepath2" private field.(òí²¶8”©œªŸ1
+K
+java:S1068·"-Remove this unused "filepath3" private field.(Ø¿×á8•©œªŸ1
+R
+java:S1068ª"/Remove this unused "dbGetmaster" private field.(”öëçûÿÿÿÿ8•©œªŸ1
+S
+java:S1068®"0Remove this unused "cScanDetails" private field.(’‡”†øÿÿÿÿ8–©œªŸ1
+V
+java:S1068¿"3Remove this unused "dbStockTransfer" private field.(¶íØÈúÿÿÿÿ8—©œªŸ1
+H
+java:S1068ù"+Remove this unused "Content" private field.(Çî—8—©œªŸ1
+L
+java:S1068ú")Remove this unused "Error" private field.(¸ı·»ûÿÿÿÿ8™©œªŸ1
+R
+java:S1144¥"/Remove this unused private "TMMenuSave" method.(²Ğ‘›ÿÿÿÿÿ8š©œªŸ1
+N
+java:S1144Å"0Remove this unused private "TMMenuCheck" method.(¶ãÈÕ8š©œªŸ1
+O
+java:S1144¤
+",Remove this unused private "GetSyn5" method.(Æ®Şõúÿÿÿÿ8›©œªŸ1
+W
+java:S1144ş"4Remove this unused private "SynNetWorkCheck" method.(ŒïëÀúÿÿÿÿ8›©œªŸ1
+N
+java:S1144©"0Remove this unused private "GpsLocation" method.(‚æÆä8œ©œªŸ1
+[
+java:S1144È"=Remove this unused private "DeleteSalesIndentApprove" method.(Ÿ•Ëõ8©œªŸ1
+_
+java:S1144Ò"ARemove this unused private "DeleteSalesIndentApproveTemp" method.(­âÌº8©œªŸ1

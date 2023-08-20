@@ -1,0 +1,26 @@
+
+V	java:S125"<This block of commented-out lines of code should be removed.(ÈÀŞ¡üÿÿÿÿ
+=	java:S131í""Add a default case to this switch.(¼œóÛüÿÿÿÿ
+D
+java:S1185Š"(Remove this method to simply inherit it.(ëŒ³©øÿÿÿÿ
+R	java:S125"<This block of commented-out lines of code should be removed.(Ú°à¬
+N
+java:S1135€"2Complete the task associated to this TODO comment.(àøö×ûÿÿÿÿ
+N
+java:S1135‰"2Complete the task associated to this TODO comment.(àøö×ûÿÿÿÿ
+N
+java:S1135"2Complete the task associated to this TODO comment.(àøö×ûÿÿÿÿ
+f
+java:S1874Í	"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(œƒƒ©ùÿÿÿÿ
+W	java:S125	"<This block of commented-out lines of code should be removed.(œƒƒ©ùÿÿÿÿ
+W	java:S125±	"<This block of commented-out lines of code should be removed.(œƒƒ©ùÿÿÿÿ
+d	java:S100²
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸÀê˜
+B
+java:S1172²
+"+Remove this unused method parameter "view".(ŸÀê˜
+R	java:S125â	"<This block of commented-out lines of code should be removed.(¤ŒüÃ
+W	java:S125·
+"<This block of commented-out lines of code should be removed.(“ƒÎûÿÿÿÿ
+W	java:S125Æ
+"<This block of commented-out lines of code should be removed.(½¢íêúÿÿÿÿ

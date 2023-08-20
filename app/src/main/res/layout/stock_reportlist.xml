@@ -1,0 +1,233 @@
+<HorizontalScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingRight="20dp"
+    android:background="@drawable/my_button_bg">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:freezesText="true"
+        android:orientation="vertical"
+        android:id="@+id/DS"
+        android:showDividers="middle">
+
+        <TextView
+            android:id="@+id/text_st_no"
+            android:layout_width="170dp"
+            android:layout_height="wrap_content"
+            android:typeface="serif"
+            android:textSize="12sp"
+            android:textColor="@android:color/black"
+            android:text="U01"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginStart="10dp"
+            tools:ignore="HardcodedText" />
+
+        <TextView
+            android:id="@+id/text_from_ware"
+            android:layout_width="170dp"
+            android:layout_height="wrap_content"
+            android:typeface="serif"
+            android:textSize="12sp"
+            android:textColor="@android:color/black"
+            android:text="U01"
+            android:layout_marginTop="-15dp"
+            android:layout_marginLeft="160dp"
+            android:layout_marginStart="160dp"
+            tools:ignore="HardcodedText" />
+
+        <TextView
+            android:id="@+id/text_to_ware"
+            android:layout_width="170dp"
+            android:layout_height="wrap_content"
+            android:typeface="serif"
+            android:textSize="12sp"
+            android:textColor="@android:color/black"
+            android:layout_marginLeft="155dp"
+            android:text="USER"
+            android:layout_marginTop="-15dp"
+            android:layout_marginStart="320dp"
+            tools:ignore="HardcodedText"
+            android:ems="10"
+            android:inputType="textMultiLine"
+
+            />
+
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/text_crop_type"
+            android:textColor="@android:color/black"
+            android:layout_marginLeft="330dp"
+            android:textSize="12sp"
+            android:text="Tomato"
+            android:typeface="serif"
+            android:layout_marginTop="-15dp"
+            android:layout_marginStart="480dp"
+            tools:ignore="HardcodedText" />
+
+        <TextView
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/text_pack"
+        android:hint="Packing Size"
+        android:textSize="12sp"
+        android:typeface="serif"
+        android:inputType="number"
+        android:textColor="@android:color/black"
+        android:layout_marginLeft="580dp"
+        android:gravity="end"
+        android:background="#ffffffff"
+        android:layout_marginTop="-15dp"
+        android:visibility="visible"
+        tools:ignore="HardcodedText,RtlCompat"
+        android:layout_marginStart="580dp" />
+
+        <!--<EditText-->
+        <!--android:layout_width="100dp"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:id="@+id/editText51"-->
+        <!--android:hint="Qty In Pkt"-->
+        <!--android:textSize="12sp"-->
+        <!--android:typeface="serif"-->
+        <!--android:inputType="numberDecimal"-->
+        <!--android:textColor="@android:color/black"-->
+        <!--android:layout_marginLeft="680dp"-->
+        <!--android:layout_marginTop="-30dp"-->
+        <!--android:enabled="false"-->
+        <!--android:gravity="end"-->
+        <!--android:visibility="gone"-->
+        <!--tools:ignore="HardcodedText"-->
+        <!--android:layout_marginStart="680dp" />-->
+
+        <EditText
+            android:layout_width="130dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/edit_qty"
+            android:maxLength="6"
+            android:hint="10"
+            android:textSize="12sp"
+            android:typeface="serif"
+            android:inputType="numberDecimal"
+            android:textColor="@android:color/black"
+            android:layout_marginLeft="750dp"
+            android:layout_marginTop="-15dp"
+            android:enabled="false"
+            android:gravity="center"
+            android:background="#ffffffff"
+            tools:ignore="HardcodedText"
+            android:layout_marginStart="750dp" />
+
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/text_exp_date"
+            android:textColor="@android:color/black"
+            android:layout_marginLeft="900dp"
+            android:textSize="12sp"
+            android:layout_marginTop="-15dp"
+            android:text="03/09/18"
+            android:typeface="serif"
+            android:layout_marginStart="900dp"
+            tools:ignore="HardcodedText" />
+
+        <!--<TextView-->
+        <!--android:layout_width="170dp"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:id="@+id/textView17"-->
+        <!--android:textColor="@android:color/black"-->
+        <!--android:layout_marginLeft="1000dp"-->
+        <!--android:textSize="12sp"-->
+        <!--android:hint="Cust Account"-->
+        <!--android:layout_marginTop="-15dp"-->
+        <!--android:typeface="serif"-->
+        <!--android:visibility="gone"-->
+        <!--android:layout_marginStart="1000dp"-->
+        <!--tools:ignore="HardcodedText" />-->
+
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/text_status"
+            android:textColor="@android:color/black"
+            android:layout_marginLeft="1000dp"
+            android:textSize="12sp"
+            android:hint="Approved"
+            android:typeface="serif"
+            android:layout_marginTop="-15dp"
+            android:layout_marginStart="1000dp"
+            tools:ignore="HardcodedText" />
+
+        <LinearLayout
+            android:layout_width="480dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="1130dp"
+            android:layout_marginTop="-15dp"
+            android:orientation="horizontal">
+            <EditText
+                android:layout_width="160dp"
+                android:layout_height="wrap_content"
+                android:inputType="textCapSentences|textCapWords|textPersonName|textCapCharacters|textMultiLine"
+                android:id="@+id/text_remarks"
+                android:digits="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890.,%^#$*-+/?}{[]!|\ "
+                android:hint="Remarks"
+                android:textSize="12dp"
+                android:ems="10"
+                android:typeface="serif"
+                android:textColor="@android:color/black"
+
+                />
+            <EditText
+                android:id="@+id/item_remarks"
+                android:layout_width="160dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:hint="item Remarks"
+                android:typeface="serif"
+                android:ems="10"
+                android:textSize="12dp"
+                android:inputType="textCapSentences|textCapWords|textPersonName|textCapCharacters|textMultiLine"
+                android:textColor="@android:color/black"
+                />
+
+        </LinearLayout>
+
+<!--        <EditText-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:inputType="textCapSentences|textCapWords|textPersonName|textCapCharacters"-->
+<!--            android:ems="10"-->
+<!--            android:digits="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890.,%^#$*-+/?}{[]!|\ "-->
+<!--            android:id="@+id/text_remarks"-->
+<!--            android:layout_marginLeft="1100dp"-->
+<!--            android:hint="Remarks"-->
+<!--            android:textSize="12sp"-->
+<!--            android:typeface="serif"-->
+<!--            android:textColor="@android:color/black"-->
+<!--            android:layout_marginTop="-15dp"-->
+<!--            android:layout_marginStart="1100dp"-->
+<!--            tools:ignore="HardcodedText,LabelFor" />-->
+
+<!--        <EditText-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:inputType="textCapSentences|textCapWords|textPersonName|textCapCharacters"-->
+<!--            android:ems="10"-->
+<!--            android:digits="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890.,%^#$*-+/?}{[]!|\ "-->
+<!--            android:id="@+id/text_item_remarks"-->
+<!--            android:layout_marginLeft="1200dp"-->
+<!--            android:hint="Item Remarks"-->
+<!--            android:textSize="12sp"-->
+<!--            android:typeface="serif"-->
+<!--            android:textColor="@android:color/black"-->
+<!--            android:layout_marginTop="-15dp"-->
+<!--            android:layout_marginStart="1300dp"-->
+<!--            tools:ignore="HardcodedText,LabelFor" />-->
+
+    </LinearLayout>
+
+</HorizontalScrollView>

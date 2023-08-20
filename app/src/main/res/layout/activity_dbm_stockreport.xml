@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".stodbm.DbmStockReportActivity">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:freezesText="true"
+        android:orientation="vertical"
+        android:focusable="false">
+
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">
+
+            <ImageButton
+                android:layout_width="125dp"
+                android:layout_height="80dp"
+                android:background="@drawable/rasiseedslogo"
+                android:visibility="gone" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Rasi Seeds (P) Ltd."
+                android:textStyle="bold"
+                android:textColor="#ff269040"
+                android:gravity="end"
+                android:textSize="20dp"
+                android:freezesText="true"
+                android:layout_marginTop="-40dp"
+                android:layout_gravity="right"
+                android:typeface="serif"
+                android:visibility="gone" />
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="fill_parent"
+                android:layout_height="50dp"
+                android:background="#eaa80a3c">
+
+                <ImageButton
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:onClick="CloseActivity"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="5dp"
+                    android:background="@drawable/hmicon" />
+
+                <TextView
+                    android:layout_width="200dp"
+                    android:layout_height="wrap_content"
+                    android:text="STOCK REPORT"
+                    android:id="@+id/textView33"
+                    android:textSize="16dp"
+                    android:textColor="@android:color/white"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:autoText="false"
+                    android:typeface="serif"
+                    android:textStyle="bold"
+                    android:layout_marginTop="-30dp" />
+
+                <ImageButton
+                    android:layout_width="40dp"
+                    android:layout_height="35dp"
+                    android:background="@drawable/cast_abc_scrubber_primary_mtrl_alpha"
+                    android:onClick="CloseActivity"
+                    android:layout_gravity="right"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="-33dp" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <com.google.android.material.tabs.TabLayout
+            android:id="@+id/tabslayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#eaa80a3c"
+            app:tabGravity="fill"
+            app:tabMode="fixed"
+            app:tabTextAppearance="@style/MyCustomTextAppearance"
+            app:tabSelectedTextColor="#FFF"
+            app:tabTextColor="#000" />
+
+        <com.agriscience.salesindent.salesindent.widgets.FCViewPager
+            android:id="@+id/viewpager"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:layout_behavior="@string/appbar_scrolling_view_behavior"/>
+
+        <!--<HorizontalScrollView-->
+            <!--android:layout_width="1200dp"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:id="@+id/horizontalScrollView"-->
+
+
+            <!--&gt;-->
+
+            <!--<LinearLayout-->
+                <!--android:orientation="vertical"-->
+                <!--android:layout_width="880dp"-->
+                <!--android:layout_height="fill_parent">-->
+
+                <!--<LinearLayout-->
+                    <!--android:layout_width="880dp"-->
+                    <!--android:layout_height="fill_parent"-->
+                    <!--android:freezesText="true"-->
+                    <!--android:orientation="vertical"-->
+                    <!--android:background="#df1f2d7b"-->
+                    <!--android:id="@+id/Header"-->
+                    <!--android:visibility="visible">-->
+
+                    <!--<TextView-->
+                        <!--android:layout_width="wrap_content"-->
+                        <!--android:layout_height="wrap_content"-->
+                        <!--android:text="From Warehouse"-->
+                        <!--android:id="@+id/textView10"-->
+                        <!--android:textColor="@android:color/white"-->
+                        <!--android:layout_marginLeft="2dp"-->
+                        <!--android:textStyle="bold"-->
+                        <!--android:textSize="15dp"-->
+                        <!--android:typeface="serif"-->
+                        <!--android:layout_marginTop="5dp" />-->
+
+                    <!--<TextView-->
+                        <!--android:id="@+id/textView12"-->
+                        <!--android:layout_width="168dp"-->
+                        <!--android:layout_height="wrap_content"-->
+                        <!--android:layout_marginLeft="155dp"-->
+                        <!--android:layout_marginTop="-22dp"-->
+                        <!--android:text="To Warehouse"-->
+                        <!--android:textColor="@android:color/white"-->
+                        <!--android:textSize="15dp"-->
+                        <!--android:textStyle="bold"-->
+                        <!--android:typeface="serif" />-->
+
+                    <!--<TextView-->
+                        <!--android:id="@+id/textView13"-->
+                        <!--android:layout_width="100dp"-->
+                        <!--android:layout_height="wrap_content"-->
+                        <!--android:layout_marginLeft="310dp"-->
+                        <!--android:layout_marginTop="-21dp"-->
+                        <!--android:text="Hybrid"-->
+                        <!--android:textColor="@android:color/white"-->
+                        <!--android:textSize="15dp"-->
+                        <!--android:textStyle="bold"-->
+                        <!--android:typeface="serif" />-->
+
+                    <!--<TextView-->
+                        <!--android:layout_width="160dp"-->
+                        <!--android:layout_height="wrap_content"-->
+                        <!--android:id="@+id/textView39"-->
+                        <!--android:textColor="@android:color/white"-->
+                        <!--android:layout_marginLeft="430dp"-->
+                        <!--android:textSize="15dp"-->
+                        <!--android:layout_marginTop="-22dp"-->
+                        <!--android:text="Qty In Kg/Pkts"-->
+                        <!--android:textStyle="bold"-->
+                        <!--android:typeface="serif" />-->
+
+                    <!--<TextView-->
+                        <!--android:layout_width="100dp"-->
+                        <!--android:layout_height="wrap_content"-->
+                        <!--android:text="Date"-->
+                        <!--android:id="@+id/textView18"-->
+                        <!--android:textColor="@android:color/white"-->
+                        <!--android:layout_marginLeft="560dp"-->
+                        <!--android:textStyle="bold"-->
+                        <!--android:textSize="15dp"-->
+                        <!--android:layout_marginTop="-20dp"-->
+                        <!--android:typeface="serif" />-->
+
+                    <!--<TextView-->
+                        <!--android:layout_width="160dp"-->
+                        <!--android:layout_height="wrap_content"-->
+                        <!--android:id="@+id/textView40"-->
+                        <!--android:textColor="@android:color/white"-->
+                        <!--android:layout_marginLeft="670dp"-->
+                        <!--android:textSize="15dp"-->
+                        <!--android:layout_marginTop="-20dp"-->
+                        <!--android:text="Status"-->
+                        <!--android:textStyle="bold"-->
+                        <!--android:typeface="serif" />-->
+
+                    <!--&lt;!&ndash;<TextView&ndash;&gt;-->
+                    <!--&lt;!&ndash;android:layout_width="160dp"&ndash;&gt;-->
+                    <!--&lt;!&ndash;android:layout_height="wrap_content"&ndash;&gt;-->
+                    <!--&lt;!&ndash;android:id="@+id/textView41"&ndash;&gt;-->
+                    <!--&lt;!&ndash;android:textColor="@android:color/white"&ndash;&gt;-->
+                    <!--&lt;!&ndash;android:layout_marginLeft="780dp"&ndash;&gt;-->
+                    <!--&lt;!&ndash;android:textSize="15dp"&ndash;&gt;-->
+                    <!--&lt;!&ndash;android:layout_marginTop="-20dp"&ndash;&gt;-->
+                    <!--&lt;!&ndash;android:text="Reject"&ndash;&gt;-->
+                    <!--&lt;!&ndash;android:textStyle="bold"&ndash;&gt;-->
+                    <!--&lt;!&ndash;android:typeface="serif" />&ndash;&gt;-->
+
+                    <!--<TextView-->
+                        <!--android:layout_width="300dp"-->
+                        <!--android:layout_height="wrap_content"-->
+                        <!--android:id="@+id/textView43"-->
+                        <!--android:textColor="@android:color/white"-->
+                        <!--android:layout_marginLeft="780dp"-->
+                        <!--android:textSize="15dp"-->
+                        <!--android:layout_marginTop="-20dp"-->
+                        <!--android:textStyle="bold"-->
+                        <!--android:typeface="serif"-->
+                        <!--android:text="Remarks" />-->
+                <!--</LinearLayout>-->
+
+
+                <!--<ScrollView-->
+                    <!--android:layout_width="wrap_content"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:id="@+id/scrollView3"-->
+                    <!--android:layout_marginTop="10dp">-->
+
+                    <!--<LinearLayout-->
+                        <!--android:orientation="vertical"-->
+                        <!--android:layout_width="fill_parent"-->
+                        <!--android:layout_height="fill_parent">-->
+
+                        <!--<ListView-->
+                            <!--android:layout_width="1700dp"-->
+                            <!--android:layout_height="wrap_content"-->
+                            <!--android:id="@+id/listView"-->
+                            <!--android:focusable="false"-->
+                            <!--android:longClickable="false"-->
+                            <!--android:headerDividersEnabled="false"-->
+                            <!--android:footerDividersEnabled="false"-->
+                            <!--android:focusableInTouchMode="false"-->
+                            <!--android:fastScrollAlwaysVisible="false"-->
+                            <!--android:fastScrollEnabled="false"-->
+                            <!--android:nestedScrollingEnabled="false"-->
+                            <!--android:minHeight="30dp"-->
+                            <!--android:visibility="visible" />-->
+                    <!--</LinearLayout>-->
+                <!--</ScrollView>-->
+            <!--</LinearLayout>-->
+        <!--</HorizontalScrollView>-->
+
+
+    </LinearLayout>
+
+</LinearLayout>

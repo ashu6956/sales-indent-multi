@@ -1,0 +1,205 @@
+<HorizontalScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingRight="20dp"
+    android:background="@drawable/my_button_bg">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:freezesText="true"
+        android:orientation="vertical"
+        android:id="@+id/DS"
+        android:paddingRight="400dp"
+        android:paddingBottom="10dp">
+
+    <CheckBox
+        android:id="@+id/cbSalesIndent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:text="CheckBox"
+        android:typeface="serif" />
+
+    <TextView
+        android:id="@+id/textView89"
+        android:layout_width="160dp"
+        android:layout_height="40dp"
+        android:layout_alignBaseline="@+id/cbSalesIndent"
+        android:layout_alignBottom="@+id/cbSalesIndent"
+        android:layout_toRightOf="@+id/cbSalesIndent"
+        android:typeface="serif"
+        android:textSize="13dp"
+        android:textColor="@android:color/black"
+        android:layout_marginLeft="170dp"
+        android:hint="Cust.Name"
+        android:layout_marginTop="-27dp" />
+
+        <TextView
+        android:id="@+id/code"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/cbSalesIndent"
+        android:layout_alignBottom="@+id/cbSalesIndent"
+        android:layout_toRightOf="@+id/cbSalesIndent"
+        android:text="TextView"
+        android:typeface="serif"
+        android:textSize="15dp"
+        android:textColor="@android:color/black"
+        android:layout_marginLeft="120dp"
+        android:layout_marginTop="-20dp"
+        android:visibility="gone" />
+
+        <TextView
+            android:layout_width="180dp"
+            android:layout_height="40dp"
+            android:id="@+id/textView15"
+            android:textColor="@android:color/black"
+            android:layout_marginLeft="350dp"
+            android:textSize="13dp"
+            android:hint="Item Name"
+            android:typeface="serif"
+            android:layout_marginTop="-38dp" />
+
+        <AutoCompleteTextView
+            android:layout_width="150dp"
+            android:layout_height="45dp"
+            android:id="@+id/autoCompleteTextView2"
+            android:layout_marginLeft="600dp"
+            android:layout_marginTop="-50dp"
+            android:hint="Packing Size"
+            android:textIsSelectable="false"
+            android:textSize="15dp"
+            android:textColor="#ff000000"
+            android:typeface="serif" />
+
+        <EditText
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/editText51"
+        android:layout_below="@+id/cbSalesIndent"
+        android:layout_alignParentRight="false"
+        android:layout_alignParentEnd="false"
+        android:hint="Qty In Pkt"
+        android:textSize="15dp"
+        android:typeface="serif"
+            android:layout_alignParentLeft="true"
+        android:textColor="@android:color/black"
+        android:layout_marginLeft="780dp"
+            android:layout_marginTop="-36dp"
+            android:enabled="false"
+            android:inputType="number"
+            android:visibility="gone"/>
+
+        <EditText
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/etQtyInKgPkts"
+            android:layout_below="@+id/cbSalesIndent"
+            android:layout_alignParentRight="false"
+            android:layout_alignParentEnd="false"
+            android:hint="Qty In KG/Pkts"
+            android:textSize="15dp"
+            android:typeface="serif"
+            android:maxLength="6"
+            android:inputType="numberDecimal"
+            android:layout_alignParentLeft="true"
+            android:textColor="@android:color/black"
+            android:layout_marginLeft="830dp"
+            android:layout_marginTop="-36dp"
+            android:enabled="false" />
+
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView16"
+            android:textColor="@android:color/black"
+            android:layout_marginLeft="1000dp"
+            android:textSize="15dp"
+            android:layout_marginTop="-28dp"
+            android:hint="Indent Dt"
+            android:typeface="serif" />
+
+        <TextView
+            android:layout_width="160dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView17"
+            android:textColor="@android:color/black"
+            android:layout_marginLeft="1120dp"
+            android:textSize="15dp"
+            android:hint="Cust Account"
+            android:layout_marginTop="-23dp"
+            android:typeface="serif" />
+
+        <CheckBox
+            android:id="@+id/checkBox"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:text="Approve"
+            android:typeface="serif"
+            android:layout_marginLeft="1230dp"
+            android:layout_marginTop="-25dp" />
+
+        <CheckBox
+            android:id="@+id/checkBox4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:text="Reject"
+            android:typeface="serif"
+            android:layout_marginLeft="1325dp"
+            android:layout_marginTop="-32dp" />
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="textCapSentences|textCapWords|textPersonName|textCapCharacters|textMultiLine"
+            android:ems="10"
+            android:id="@+id/editText6"
+            android:layout_marginLeft="1425dp"
+            android:layout_marginTop="-32dp"
+            android:hint="Remarks"
+            android:textSize="15dp"
+            android:typeface="serif"
+            android:digits="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890.,%^#$*-+/?}{[]!|\ "
+            android:textColor="@android:color/black" />
+
+        <TextView
+            android:id="@+id/item_remarks"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="textCapSentences|textCapWords|textPersonName|textCapCharacters|textMultiLine"
+            android:ems="10"
+            android:layout_marginLeft="1605dp"
+            android:layout_marginTop="-32dp"
+            android:hint="Item Remarks"
+            android:textSize="15dp"
+            android:typeface="serif"
+            android:textColor="@android:color/black"/>
+
+
+
+        <TextView
+        android:id="@+id/textView11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/cbSalesIndent"
+        android:layout_alignBottom="@+id/cbSalesIndent"
+        android:layout_toRightOf="@+id/cbSalesIndent"
+        android:text="TextView"
+        android:typeface="serif"
+        android:textSize="15dp"
+        android:textColor="@android:color/black"
+        android:layout_marginLeft="80dp"
+        android:visibility="gone" />
+    </LinearLayout>
+
+</HorizontalScrollView>

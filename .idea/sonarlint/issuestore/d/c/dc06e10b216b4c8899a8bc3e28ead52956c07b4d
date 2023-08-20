@@ -1,0 +1,201 @@
+
+o
+java:S2293B"YReplace the type specification in this constructor call with the diamond operator ("<>").(—™Æê
+t
+java:S2293C"YReplace the type specification in this constructor call with the diamond operator ("<>").(‹ø›¯ÿÿÿÿÿ
+t
+java:S2293D"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŞÌ¨öûÿÿÿÿ
+o
+java:S2293E"YReplace the type specification in this constructor call with the diamond operator ("<>").(½›ì
+t
+java:S2293F"YReplace the type specification in this constructor call with the diamond operator ("<>").(‚›Áøÿÿÿÿ
+t
+java:S2293G"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÙË¢ıÿÿÿÿ
+t
+java:S2293H"YReplace the type specification in this constructor call with the diamond operator ("<>").(…„ûøÿÿÿÿ
+t
+java:S2293I"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ïôˆ´üÿÿÿÿ
+o
+java:S2293J"YReplace the type specification in this constructor call with the diamond operator ("<>").(ø»û”
+t
+java:S2293K"YReplace the type specification in this constructor call with the diamond operator ("<>").(œÕ—êüÿÿÿÿ
+t
+java:S2293L"YReplace the type specification in this constructor call with the diamond operator ("<>").( …Ãøÿÿÿÿ
+u
+java:S2293µ"YReplace the type specification in this constructor call with the diamond operator ("<>").(­Ù—ıÿÿÿÿ
+n
+java:S1192ì"WDefine a constant instead of duplicating this literal "No Internet Connection" 3 times.(“«Éû
+’
+java:S1192í"{Define a constant instead of duplicating this literal "Your device doesn't have WIFI or Data Plan internet access" 3 times.(€Ù‰Í
+l	java:S117˜"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñºö®ıÿÿÿÿ
+g	java:S117™"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İÚÈü
+g	java:S117š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ßüÔ
+g	java:S117›"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çšüà
+l	java:S117œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñÄÜØûÿÿÿÿ
+g	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú¦¡Ò
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖØ ¢ÿÿÿÿÿ
+l	java:S117Ÿ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Áøï±ıÿÿÿÿ
+l	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚´éÿÿÿÿÿ
+g	java:S117¡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õİ²Æ
+f	java:S117¢"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™¼’g
+D
+java:S1604 "(Make this anonymous inner class a lambda(îª¼üÿÿÿÿÿ
+D
+java:S5411"(Use a primitive boolean expression here.(öÃº¨üÿÿÿÿ
+i	java:S1167"TRename this field "POCodeGet" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î›É¿
+i	java:S1167"TRename this field "PONameGet" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î›É¿
+p	java:S1167"[Rename this field "TerritoryNameGet" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î›É¿
+s	java:S1167"^Rename this field "PostCodeTransferGet" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î›É¿
+g	java:S1167"RRename this field "SiteGet" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î›É¿
+k	java:S1167"VRename this field "DivisionGet" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î›É¿
+m	java:S1167"XRename this field "ProjectFolder" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î›É¿
+j	java:S1167"URename this field "FullIPData" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î›É¿
+k	java:S1168"VRename this field "TAG_RESULTS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦“—“
+e	java:S1168"PRename this field "Check" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦“—“
+f	java:S1168"QRename this field "Acting" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦“—“
+e	java:S1168"PRename this field "DCode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦“—“
+h	java:S116:"TRename this field "IPAddress" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’õÎV
+i	java:S116k"TRename this field "arr_st_no" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù¥Ò
+r	java:S116l"XRename this field "arr_from_ware" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…ş½ûùÿÿÿÿ
+p	java:S116m"VRename this field "arr_to_ware" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆµÏıÿÿÿÿ
+r	java:S116n"XRename this field "arr_crop_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§Œ«úÿÿÿÿ
+r	java:S116o"XRename this field "arr_crop_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶¶Ìùÿÿÿÿ
+g	java:S116p"RRename this field "arr_qty" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß·µ™
+q	java:S116q"WRename this field "arr_exp_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½Æáıÿÿÿÿ
+j	java:S116r"URename this field "arr_status" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ‰¸à
+p	java:S116s"VRename this field "arr_remarks" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åòŞûÿÿÿÿ
+l	java:S116t"WRename this field "packing_size" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı…ƒÉ
+l	java:S116u"WRename this field "item_remarks" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô‚Ğì
+\
+java:S16597"FDeclare "PONameGet" and all following declarations on a separate line.(î›É¿
+V	java:S125;"<This block of commented-out lines of code should be removed.(•Ç†ıÿÿÿÿ
+Q
+java:S1874?"6Remove this use of "ProgressDialog"; it is deprecated.(–Â±úÿÿÿÿ
+M
+java:S1874"6Remove this use of "ProgressDialog"; it is deprecated.(âëßæ
+N
+java:S1874‘"2Remove this use of "setMessage"; it is deprecated.(”“Ëœıÿÿÿÿ
+V
+java:S1874“"@Remove this use of "setIndeterminateDrawable"; it is deprecated.(ñƒız
+I
+java:S1874“"3Remove this use of "getDrawable"; it is deprecated.(ñƒız
+Y	java:S125œ"<This block of commented-out lines of code should be removed.(¤åñ¼8¡“‹š1
+^	java:S125¢"<This block of commented-out lines of code should be removed.(©Øù¯úÿÿÿÿ8Ä÷‘Šš1
+\
+java:S1155ª">Use isEmpty() to check whether the collection is empty or not.(»‡İ8Ğ»‘‹š1
+N
+java:S1135Ë"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+\
+java:S1155Ì">Use isEmpty() to check whether the collection is empty or not.(ÊÀá8Ô»‘‹š1
+N
+java:S1135×"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+U
+java:S1135İ"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8È÷‘Šš1
+Y	java:S125‘"<This block of commented-out lines of code should be removed.(‚úµ¼8Ê÷‘Šš1
+k	java:S116œ"URename this field "text_st_no" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»³ÕÒ
+j	java:S116"TRename this field "text_from" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±Š½ç
+m	java:S116"RRename this field "text_to" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çú‡ºüÿÿÿÿ
+o	java:S116Ÿ"TRename this field "text_crop" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´Ñ÷äùÿÿÿÿ
+i	java:S116 "SRename this field "edit_qty" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¸øÀ
+n	java:S116¡"XRename this field "text_exp_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ë
+j	java:S116¢"VRename this field "text_status" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®Àh
+r	java:S116£"WRename this field "text_remarks" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æñ üÿÿÿÿ
+r	java:S116£"WRename this field "item_remarks" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æñ üÿÿÿÿ
+o	java:S116¤"YRename this field "text_pack_size" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğú¥ú
+c	java:S116¥"MRename this field "DS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ä—…
+F
+java:S1659£"*Declare "item_remarks" on a separate line.(Æñ üÿÿÿÿ
+n
+java:S3776¬"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(ÀÃ¯ÿúÿÿÿÿ
+H
+java:S1874¼"1Remove this use of "AsyncTask"; it is deprecated.(ö¥¿
+U
+java:S4719Ë"9Replace charset name argument with StandardCharsets.UTF_8(ƒ£¶àüÿÿÿÿ
+F
+java:S2093Å"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+`
+java:S1874à"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(­–ÀS
+K
+java:S1874ô"/Remove this use of "execute"; it is deprecated.(¬ÑÊÂøÿÿÿÿ
+?
+java:S2114„"(Remove or correct this "removeAll" call.(á³ùï
+?
+java:S2114…"(Remove or correct this "removeAll" call.(Íî«ª
+?
+java:S2114†"(Remove or correct this "removeAll" call.(öÀ“
+D
+java:S2114‡"(Remove or correct this "removeAll" call.(‰ºûÿÿÿÿ
+D
+java:S2114ˆ"(Remove or correct this "removeAll" call.(ü’°Êıÿÿÿÿ
+?
+java:S2114‰"(Remove or correct this "removeAll" call.(øçŸ‹
+?
+java:S2114Š"(Remove or correct this "removeAll" call.(«Û°Ê
+D
+java:S2114‹"(Remove or correct this "removeAll" call.(µõåüÿÿÿÿ
+?
+java:S2114Œ"(Remove or correct this "removeAll" call.(ÈšÕÈ
+?
+java:S2114"(Remove or correct this "removeAll" call.(–Öõü
+D
+java:S2114"(Remove or correct this "removeAll" call.(Ñ¹éøüÿÿÿÿ
+W	java:S125£"<This block of commented-out lines of code should be removed.(ÍªÙÒıÿÿÿÿ
+Q	java:S125Â"<This block of commented-out lines of code should be removed.(ÇªÊ+
+W	java:S125„"<This block of commented-out lines of code should be removed.(Àµ®ãüÿÿÿÿ
+M
+java:S1874 "1Remove this use of "setButton"; it is deprecated.(îª¼üÿÿÿÿÿ
+˜
+java:S1186¡"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¦Œœ¢
+N
+java:S1135­"2Complete the task associated to this TODO comment.(àøö×ûÿÿÿÿ
+U
+java:S1135¶"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8Ù÷‘Šš1
+U
+java:S1135¼"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8Ù÷‘Šš1
+W	java:S125Ã"<This block of commented-out lines of code should be removed.(øœ¡Ÿûÿÿÿÿ
+W	java:S125ê"<This block of commented-out lines of code should be removed.(Ó°æàşÿÿÿÿ
+r	java:S116õ"URename this field "text_st_no" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»³ÕÒ8Ú÷‘Šš1
+q	java:S116ö"TRename this field "text_from" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±Š½ç8Ú÷‘Šš1
+t	java:S116÷"RRename this field "text_to" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çú‡ºüÿÿÿÿ8Ú÷‘Šš1
+v	java:S116ø"TRename this field "text_crop" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´Ñ÷äùÿÿÿÿ8Ü÷‘Šš1
+p	java:S116ù"SRename this field "edit_qty" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¸øÀ8Ü÷‘Šš1
+u	java:S116ú"XRename this field "text_exp_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ë8Ü÷‘Šš1
+q	java:S116û"VRename this field "text_status" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®Àh8Ü÷‘Šš1
+v	java:S116ü"YRename this field "text_pack_size" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğú¥ú8Ü÷‘Šš1
+y	java:S116ı"WRename this field "text_remarks" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æñ üÿÿÿÿ8Ü÷‘Šš1
+y	java:S116ı"WRename this field "item_remarks" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æñ üÿÿÿÿ8Ü÷‘Šš1
+j	java:S116ş"MRename this field "DS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ä—…8Ü÷‘Šš1
+M
+java:S1659ı"*Declare "item_remarks" on a separate line.(Æñ üÿÿÿÿ8Ü÷‘Šš1
+B
+java:S1068Z"'Remove this unused "T13" private field.(õ×ü’ÿÿÿÿÿ
+B
+java:S1068["'Remove this unused "T14" private field.(¸‰ÛÃşÿÿÿÿ
+=
+java:S1068\"'Remove this unused "T15" private field.(ô…”Í
+=
+java:S1068]"'Remove this unused "T16" private field.(ÅŠä„
+=
+java:S1068^"'Remove this unused "T17" private field.(¬ŸÕ´
+B
+java:S1068_"'Remove this unused "T18" private field.(İò™ñıÿÿÿÿ
+B
+java:S1068`"'Remove this unused "T19" private field.(ê‰­¨øÿÿÿÿ
+B
+java:S1068a"'Remove this unused "T20" private field.(üô¦øÿÿÿÿ
+=
+java:S1068b"'Remove this unused "T21" private field.(˜éÄÖ
+B
+java:S1068c"'Remove this unused "T22" private field.(ó¤¡ùÿÿÿÿ
+B
+java:S1068d"'Remove this unused "T23" private field.(¤—Õèúÿÿÿÿ
+=
+java:S1068e"'Remove this unused "T24" private field.(ÁŠã®
+B
+java:S1068f"'Remove this unused "T25" private field.( ®ûåûÿÿÿÿ
+=
+java:S1068g"'Remove this unused "T26" private field.(˜§
+=
+java:S1068h"'Remove this unused "T27" private field.(Ó¥ª
+O
+java:S1144¬",Remove this unused private "getData" method.(ÀÃ¯ÿúÿÿÿÿ8Ç“‹š1

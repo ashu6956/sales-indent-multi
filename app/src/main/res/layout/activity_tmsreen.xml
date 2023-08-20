@@ -1,0 +1,263 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".tm.TMScreenActivity"
+    android:background="@android:color/white">
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:freezesText="true"
+        android:orientation="vertical"
+        android:focusable="false">
+
+
+        <ImageButton
+            android:layout_width="130dp"
+            android:layout_height="100dp"
+            android:background="@drawable/acsenlogo" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/toolbar_title_name"
+            android:textStyle="bold"
+            android:textColor="#ff269040"
+            android:gravity="end"
+            android:textSize="17dp"
+            android:layout_marginEnd="8dp"
+            android:freezesText="true"
+            android:layout_marginTop="-70dp"
+            android:layout_gravity="right"
+            android:typeface="serif" />
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="#ffce0786"
+            android:layout_marginTop="40dp" >
+
+            <TextView
+                android:layout_width="800dp"
+                android:layout_height="fill_parent"
+                android:id="@+id/textView65"
+                android:textStyle="bold"
+                android:textSize="15dp"
+                android:textColor="#ffffffff"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:typeface="serif" />
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/snackbar_text"
+            android:gravity="center"
+            android:layout_marginTop="5dp"
+            android:typeface="serif" />
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">
+
+            <ImageButton
+                android:layout_width="120dp"
+                android:layout_height="117dp"
+                android:layout_marginTop="20dp"
+                android:onClick="GetSyn5"
+                android:layout_gravity="left"
+                android:background="@drawable/fileget"
+                android:layout_marginLeft="10dp"
+                android:visibility="gone" />
+
+            <ImageButton
+                android:layout_width="120dp"
+                android:layout_height="100dp"
+                android:layout_marginLeft="20dp"
+                android:layout_gravity="right"
+                android:layout_marginTop="-110dp"
+                android:background="@drawable/upload"
+                android:onClick="Syn"
+                android:layout_marginRight="10dp"
+                android:visibility="gone" />
+
+            <ImageButton
+                android:layout_width="100dp"
+                android:layout_height="80dp"
+                android:background="@drawable/getplan"
+                android:layout_gravity="right"
+                android:layout_marginRight="40dp"
+                android:layout_marginTop="-85dp"
+                android:visibility="gone" />
+
+            <ImageButton
+                android:layout_width="120dp"
+                android:layout_height="117dp"
+                android:onClick="TMSalesPlanActivity"
+                android:layout_marginTop="100dp"
+                android:background="@drawable/salesindent"
+                android:layout_marginLeft="10dp"
+                android:visibility="gone" />
+
+            <ImageButton
+                android:layout_width="120dp"
+                android:layout_height="117dp"
+                android:background="@drawable/exits"
+                android:onClick="CloseActivity"
+                android:layout_gravity="right"
+                android:layout_marginTop="-110dp"
+                android:layout_marginRight="10dp"
+                android:visibility="gone" />
+
+            <Button
+                android:layout_width="200dp"
+                android:layout_height="match_parent"
+                android:text="Get Master"
+                android:textStyle="bold"
+                android:textColor="@android:color/black"
+                android:textSize="15dp"
+                android:background="@android:drawable/btn_default"
+                android:layout_gravity="center"
+                android:layout_marginTop="60dp"
+                android:onClick="GetSyn5"
+                android:visibility="gone" />
+
+            <Button
+                android:layout_width="200dp"
+                android:layout_height="match_parent"
+                android:text="Get Event"
+                android:textStyle="bold"
+                android:textColor="@android:color/black"
+                android:textSize="15dp"
+                android:background="@android:drawable/btn_default"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp"
+                android:visibility="gone" />
+
+            <Button
+                android:layout_width="200dp"
+                android:layout_height="match_parent"
+                android:text="Build Event"
+                android:textStyle="bold"
+                android:textColor="@android:color/black"
+                android:textSize="15dp"
+                android:background="@android:drawable/btn_default"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp"
+                android:onClick="POBuildActivity"
+                android:visibility="gone" />
+
+            <Button
+                android:layout_width="200dp"
+                android:layout_height="match_parent"
+                android:text="Event Record"
+                android:textStyle="bold"
+                android:textColor="@android:color/black"
+                android:textSize="15dp"
+                android:background="@android:drawable/btn_default"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp"
+                android:onClick="POEventRecorder"
+                android:visibility="gone" />
+
+            <Button
+                android:layout_width="200dp"
+                android:layout_height="match_parent"
+                android:text="Upload Data"
+                android:textStyle="bold"
+                android:textColor="@android:color/black"
+                android:textSize="15dp"
+                android:background="@android:drawable/btn_default"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp"
+                android:onClick="BuildEventDataSyn"
+                android:visibility="gone" />
+
+            <Button
+                android:layout_width="200dp"
+                android:layout_height="match_parent"
+                android:text="Exit"
+                android:textStyle="bold"
+                android:textColor="@android:color/black"
+                android:textSize="15dp"
+                android:background="@android:drawable/btn_default"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp"
+                android:onClick="CloseActivity"
+                android:visibility="gone" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:id="@+id/textView47"
+                android:visibility="gone" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:id="@+id/textView48"
+                android:visibility="gone" />
+
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="MENU"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            android:textColor="@android:color/white"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:autoText="false"
+            android:typeface="serif"
+            android:layout_marginTop="25dp"
+            android:background="#ff6437c2"
+            android:visibility="gone" />
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent">
+
+            <com.agriscience.salesindent.ExpandableHeightGridView
+                android:id="@+id/grid"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:horizontalSpacing="1dp"
+                android:isScrollContainer="false"
+                android:numColumns="auto_fit"
+                android:background="#ff000000"
+                android:stretchMode="columnWidth"
+                android:verticalSpacing="1dp" />
+
+            <!--<GridView-->
+                <!--android:id="@+id/grid"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:horizontalSpacing="1dp"-->
+                <!--android:numColumns="auto_fit"-->
+                <!--android:stretchMode="columnWidth"-->
+                <!--android:verticalSpacing="1dp"-->
+                <!--android:background="#ff000000" />-->
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            android:textColor="@android:color/white"
+            android:layout_gravity="center"
+            android:typeface="serif"
+            android:gravity="center"
+            android:background="#ffce0786" />
+
+
+    </LinearLayout>
+</LinearLayout>

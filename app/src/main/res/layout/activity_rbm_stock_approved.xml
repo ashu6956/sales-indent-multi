@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".storbm.RbmStockApproved">
+
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+
+        >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:id="@+id/Header"
+                android:layout_width="match_parent"
+                android:layout_height="fill_parent"
+                android:background="#df1f2d7b"
+                android:freezesText="true"
+                android:orientation="vertical"
+                android:visibility="gone">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="15dp"
+                    android:layout_marginLeft="2dp"
+                    android:layout_marginTop="5dp"
+                    android:text="Stock.No"
+                    android:textColor="@android:color/white"
+                    android:textSize="15sp"
+                    android:textStyle="bold"
+                    android:typeface="serif"
+                    tools:ignore="HardcodedText" />
+
+                <TextView
+                    android:layout_width="170dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="145dp"
+                    android:layout_marginLeft="145dp"
+                    android:layout_marginTop="-21dp"
+                    android:text="From Plant"
+                    android:textColor="@android:color/white"
+                    android:textSize="15sp"
+                    android:textStyle="bold"
+                    android:typeface="serif"
+                    tools:ignore="HardcodedText" />
+
+                <TextView
+                    android:layout_width="170dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="315dp"
+                    android:layout_marginTop="-22dp"
+                    android:text="To Plant"
+                    android:textColor="@android:color/white"
+                    android:textSize="15sp"
+                    android:textStyle="bold"
+                    android:typeface="serif"
+                    tools:ignore="HardcodedText" />
+
+                <TextView
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="480dp"
+                    android:layout_marginTop="-21dp"
+                    android:text="Item Name"
+                    android:textColor="@android:color/white"
+                    android:textSize="15sp"
+                    android:textStyle="bold"
+                    android:typeface="serif"
+                    tools:ignore="HardcodedText" />
+
+                <TextView
+                    android:id="@+id/textView"
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="630dp"
+                    android:layout_marginTop="-22dp"
+                    android:text="Packing Size"
+                    android:textColor="@android:color/white"
+                    android:textSize="15sp"
+                    android:textStyle="bold"
+                    android:typeface="serif"
+                    tools:ignore="HardcodedText" />
+
+                <TextView
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="780dp"
+                    android:layout_marginTop="-22dp"
+                    android:text="Qty In Kg/Pkts"
+                    android:textColor="@android:color/white"
+                    android:textSize="15sp"
+                    android:textStyle="bold"
+                    android:typeface="serif"
+                    tools:ignore="HardcodedText" />
+
+                <TextView
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="900dp"
+                    android:layout_marginTop="-20dp"
+                    android:text="Req.Date"
+                    android:textColor="@android:color/white"
+                    android:textSize="15sp"
+                    android:textStyle="bold"
+                    android:typeface="serif"
+                    tools:ignore="HardcodedText" />
+
+                <TextView
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="1000dp"
+                    android:layout_marginTop="-20dp"
+                    android:text="Status"
+                    android:textColor="@android:color/white"
+                    android:textSize="15sp"
+                    android:textStyle="bold"
+                    android:typeface="serif"
+                    tools:ignore="HardcodedText" />
+
+                <!--<TextView-->
+                <!--android:layout_width="160dp"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:id="@+id/textView41"-->
+                <!--android:textColor="@android:color/white"-->
+                <!--android:layout_marginLeft="780dp"-->
+                <!--android:textSize="15dp"-->
+                <!--android:layout_marginTop="-20dp"-->
+                <!--android:text="Reject"-->
+                <!--android:textStyle="bold"-->
+                <!--android:typeface="serif" />-->
+
+                <TextView
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="1150dp"
+                    android:layout_marginTop="-20dp"
+                    android:text="Remarks"
+                    android:textColor="@android:color/white"
+                    android:textSize="15sp"
+                    android:textStyle="bold"
+                    android:typeface="serif"
+                    tools:ignore="HardcodedText" />
+
+                <TextView
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="1330dp"
+                    android:layout_marginTop="-20dp"
+                    android:text="Item Remarks"
+                    android:textColor="@android:color/white"
+                    android:textSize="15sp"
+                    android:textStyle="bold"
+                    android:typeface="serif"
+                    tools:ignore="HardcodedText" />
+
+
+            </LinearLayout>
+
+
+            <ScrollView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp">
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <ListView
+                        android:id="@+id/listView"
+                        android:layout_width="1500dp"
+                        android:layout_height="wrap_content"
+                        android:divider="@null"
+                        android:dividerHeight="0dp"
+                        android:fastScrollAlwaysVisible="false"
+                        android:fastScrollEnabled="false"
+                        android:focusable="false"
+                        android:focusableInTouchMode="false"
+                        android:footerDividersEnabled="false"
+                        android:headerDividersEnabled="false"
+                        android:longClickable="false"
+                        android:minHeight="30dp"
+                        android:nestedScrollingEnabled="false"
+
+                        android:visibility="visible"
+                        tools:ignore="NestedScrolling,UnusedAttribute" />
+                </LinearLayout>
+            </ScrollView>
+        </LinearLayout>
+    </HorizontalScrollView>
+
+</LinearLayout>

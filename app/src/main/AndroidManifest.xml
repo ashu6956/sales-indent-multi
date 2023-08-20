@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.agriscience.salesindent"
+    android:targetSandboxVersion="1"
+    tools:targetApi="o">
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.access_mock_location" />
+    <uses-permission
+        android:name="android.permission.WRITE_SETTINGS"
+        tools:ignore="ProtectedPermissions" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission android:name="android.permission.READ_PROFILE" />
+    <uses-permission android:name="android.permission.READ_CALENDAR" />
+    <uses-permission android:name="android.permission.WRITE_CALENDAR" />
+    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
+    <uses-permission
+        android:name="android.permission.INSTALL_PACKAGES"
+        tools:ignore="ProtectedPermissions" />
+    <uses-permission
+        android:name="android.permission.READ_PRIVILEGED_PHONE_STATE"
+        tools:ignore="ProtectedPermissions" />
+
+    <application
+        android:name=".MyApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/saleslogos"
+        android:label="@string/app_name"
+        android:networkSecurityConfig="@xml/network_security_config"
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true">
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:authorities="${applicationId}.provider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/provider_paths" />
+        </provider>
+        <uses-library
+            android:name="org.apache.http.legacy"
+            android:required="false" />
+
+        <activity
+            android:name=".SplashEmptyActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".LoginActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+
+        <receiver
+            android:name=".ConnectivityReceiver"
+            android:enabled="true"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name=".tm.TMScreenActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:label="@string/title_activity_tmsreen"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name=".am.AMScreenActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:label="@string/title_activity_amsreen"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name=".rbm.RBMScreenActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:label="@string/title_activity_rbmscreen"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name=".dbm.DBMScreenActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:label="@string/title_activity_dbmscreen"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name=".tm.TMSalesIndentActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:label="@string/title_activity_tmsales_indent"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name=".PasswordChange"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:label="@string/title_activity_password_change"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name=".rbm.RBMIndentApprovalProcess"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:label="@string/title_activity_rbmindent_approval_process"
+            android:windowSoftInputMode="adjustPan" />
+
+        <activity
+            android:name=".am.AMIndentApprovalProcess"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:label="@string/title_activity_amindent_approval_process"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name=".dbm.DBMIndentApprovalProcess"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:label="@string/title_activity_dbmindent_approval_process"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name=".rbm.RBMIndentSelection"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:label="@string/title_activity_rbmindent_selection"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name=".tm.TMReportViewActivity"
+            android:label="@string/title_activity_tmreport_view" />
+
+        <activity
+            android:name=".am.AMReportViewActivity"
+            android:label="@string/title_activity_amreport_view" />
+        <activity
+            android:name=".rbm.RBMReportViewActivity"
+            android:label="@string/title_activity_rbmreport_view" />
+        <activity
+            android:name=".dbm.DBMReportViewActivity"
+            android:label="@string/title_activity_dbmreport_view" />
+
+        <service
+            android:name=".firebase.myfirebaseinstanceidservice"
+            android:exported="true"
+            tools:ignore="ExportedService">
+            <intent-filter>
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+            </intent-filter>
+        </service>
+        <service
+            android:name=".firebase.myfirebasemessagingservice"
+            android:enabled="true"
+            android:exported="true"
+            tools:ignore="ExportedService">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+
+        <receiver
+            android:name=".firebase.NotificationDeleteReceiver"
+            android:exported="true" />
+
+        <activity android:name=".rbm.RbmApprovedFragment" />
+        <activity android:name=".rbm.RbmRejectedFragment" />
+        <activity android:name=".rbm.RbmAutoApproveFragment" />
+        <activity android:name=".rbm.RbmPendingFragment" />
+        <activity android:name=".dbm.DbmApprovedFragment" />
+        <activity android:name=".dbm.DbmRejectedFragment" />
+        <activity android:name=".dbm.DbmAutoApprovedFragment" />
+        <activity android:name=".dbm.DbmPendingFragment" />
+        <activity android:name=".tm.TmApprovedFragment" />
+        <activity android:name=".tm.TmRejectedFragment" />
+        <activity android:name=".tm.tmauto_approve" />
+        <activity android:name=".tm.TmPendingFragment" />
+        <activity
+            android:name=".storbm.StockTransferCreateActivity"
+            android:windowSoftInputMode="adjustResize"></activity>
+        <activity android:name=".storbm.RbmStockReport" />
+        <activity android:name=".stodbm.DbmStockApprovalActivity" />
+        <activity android:name=".stodbm.DbmStockReportActivity" />
+        <activity android:name=".stodbm.DbmStockApproved" />
+        <activity android:name=".stodbm.DbmStockRejected" />
+        <activity android:name=".stodbm.DbmStockPending" />
+        <activity android:name=".storbm.RbmStockApproved" />
+        <activity android:name=".storbm.RbmStockRejected" />
+        <activity android:name=".storbm.RbmStockPending" />
+    </application>
+
+</manifest>

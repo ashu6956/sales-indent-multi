@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\AndroidApplicationDevelopmentProject\SalesIndent\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="D:\AndroidApplicationDevelopmentProject\SalesIndent\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-33f7daa28b78f4508aae6f8f5ec6f11ced61a6cb.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApplicationDevelopmentProject\SalesIndent\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="D:\AndroidApplicationDevelopmentProject\SalesIndent\app\build\intermediates\pre-dexed\debug\classes-be9ae7b8c340e2e018954e505a411c42e5b4c0a2.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\pre-dexed\debug\classes-d8c77727b6bb8e26443bca83b96f4943d3c793e2.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApplicationDevelopmentProject\SalesIndent\app\build\intermediates\exploded-aar\com.toptoche.searchablespinner\searchablespinnerlibrary\1.3.1\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="dbfaa66636f1fadb6cff4080a3a271e97f288340">
+        <dex dex="D:\AndroidApplicationDevelopmentProject\SalesIndent\app\build\intermediates\pre-dexed\debug\classes-84cc333df60a44e3716146658249e7fcbf6dd33a.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\pre-dexed\debug\classes-7bf847a7429c1b0d1293d8d4c75e368f1407087a.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApplicationDevelopmentProject\SalesIndent\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="D:\AndroidApplicationDevelopmentProject\SalesIndent\app\build\intermediates\pre-dexed\debug\classes-1720dc05473298490d640b1b6446d62452dd0e37.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\pre-dexed\debug\classes-7bf847a7429c1b0d1293d8d4c75e368f1407087a.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\pre-dexed\debug\classes-8424dc9811cffe5e25f4f21e748c4f103b0bf4c1.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApplicationDevelopmentProject\SalesIndent\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="D:\AndroidApplicationDevelopmentProject\SalesIndent\app\build\intermediates\pre-dexed\debug\classes-466a298be63b5e4dcf2706964bc08d8a33fbaa02.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\pre-dexed\debug\classes-a8a996ca28cb298f9afb5a6aeebf4f073c552b92.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\pre-dexed\debug\classes-917d8382815fabe063ab5b472582a695b1311a36.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApplicationDevelopmentProject\SalesIndent\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="D:\AndroidApplicationDevelopmentProject\SalesIndent\app\build\intermediates\pre-dexed\debug\classes-912e1c350543275a1de9f9ef53e41cc389735cae.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\pre-dexed\debug\classes-a8a996ca28cb298f9afb5a6aeebf4f073c552b92.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\pre-dexed\debug\classes-917d8382815fabe063ab5b472582a695b1311a36.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\pre-dexed\debug\classes-5991f6de4d2ea0f4d81b5b657f12a46bcab564ab.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\pre-dexed\debug\classes-eb9d78460a1f5a85d362a67fa08fb397e3c4a6e1.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\pre-dexed\debug\classes-eb9d78460a1f5a85d362a67fa08fb397e3c4a6e1.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\pre-dexed\debug\classes-5991f6de4d2ea0f4d81b5b657f12a46bcab564ab.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApplicationDevelopmentProject\SalesIndent\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="D:\AndroidApplicationDevelopmentProject\SalesIndent\app\build\intermediates\pre-dexed\debug\classes-b921e5b3331b130ae7408714ebdf8a9fc5a7748d.jar" />
+    </item>
+    <item
+        jar="C:\Users\KANAGARAJ.M\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="D:\AndroidApplicationDevelopmentProject\SalesIndent\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-cc1a718f5c43d349e8200023d4967cdcfc506788.jar" />
+    </item>
+    <item
+        jar="C:\Users\KANAGARAJ.M\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-cc1a718f5c43d349e8200023d4967cdcfc506788.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\pre-dexed\debug\classes-3a78b3998f7b6b880587e6cb9b1d3d7bdd6043c8.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\pre-dexed\debug\classes-3a78b3998f7b6b880587e6cb9b1d3d7bdd6043c8.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApplicationDevelopmentProject\SalesIndent\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="D:\AndroidApplicationDevelopmentProject\SalesIndent\app\build\intermediates\pre-dexed\debug\classes-18e0301cd0c66cafa76e678400294235ff8b8269.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\pre-dexed\debug\classes-d18589374a99e3fd72a34a7c15aee1cbd0420330.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\pre-dexed\debug\classes-d18589374a99e3fd72a34a7c15aee1cbd0420330.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\pre-dexed\debug\classes-30b2037ab83672fba5ff7f62f84557be934e4abc.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\pre-dexed\debug\classes-30b2037ab83672fba5ff7f62f84557be934e4abc.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\pre-dexed\debug\classes-7bd765e70ee023e20f57b3f442f7d2c5bd7a9af6.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApplicationDevelopmentProject\SalesIndent\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="D:\AndroidApplicationDevelopmentProject\SalesIndent\app\build\intermediates\pre-dexed\debug\classes-cfe9b9c30b4e29e0559e5e720122b5694c69af4a.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\pre-dexed\debug\classes-5ddbfb439b4b9301662c6e49b6bd4ae8264c435c.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\pre-dexed\debug\classes-5ddbfb439b4b9301662c6e49b6bd4ae8264c435c.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\pre-dexed\debug\classes-7bd765e70ee023e20f57b3f442f7d2c5bd7a9af6.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApplicationDevelopmentProject\SalesIndent\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="D:\AndroidApplicationDevelopmentProject\SalesIndent\app\build\intermediates\pre-dexed\debug\classes-ea71c292ff88155ee7e6e09ea2edd05d089d387f.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\pre-dexed\debug\classes-cf7c23346ce2a11048053720d6e69d935bdb8f52.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\pre-dexed\debug\classes-cf7c23346ce2a11048053720d6e69d935bdb8f52.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\pre-dexed\debug\classes-855f4483bc77340b85f4f19b632e552fea74ce38.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\pre-dexed\debug\classes-855f4483bc77340b85f4f19b632e552fea74ce38.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApplicationDevelopmentProject\SalesIndent\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="D:\AndroidApplicationDevelopmentProject\SalesIndent\app\build\intermediates\pre-dexed\debug\classes-a4e18a97f1908cb29b2a8138edc849b0132bde24.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\pre-dexed\debug\classes-f1df8d27aae49d38aac2a88361c4de93a08afdc8.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\pre-dexed\debug\classes-c001ed800e19eaedf628c953e05fbfde27e28e59.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\pre-dexed\debug\classes-f1df8d27aae49d38aac2a88361c4de93a08afdc8.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\exploded-aar\com.github.d-max\spots-dialog\0.4\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f82b3f786bf4937ed1a1cc9a9a811e154813ba9a">
+        <dex dex="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\pre-dexed\debug\classes-ab34ded9f1c3f46d8a0315c5280eb2c6246776d2.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\exploded-aar\com.github.d-max\spots-dialog\0.4\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f82b3f786bf4937ed1a1cc9a9a811e154813ba9a">
+        <dex dex="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\pre-dexed\debug\classes-ab34ded9f1c3f46d8a0315c5280eb2c6246776d2.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\pre-dexed\debug\classes-c001ed800e19eaedf628c953e05fbfde27e28e59.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApplicationDevelopmentProject\SalesIndent\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="D:\AndroidApplicationDevelopmentProject\SalesIndent\app\build\intermediates\pre-dexed\debug\classes-ff93c63e74d65d0dc95d7fdad732964c13261449.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\pre-dexed\debug\classes-9a9d5a5ec8bf89400f6b541b9f140ee770bc44ba.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApplicationDevelopmentProject\SalesIndent\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="D:\AndroidApplicationDevelopmentProject\SalesIndent\app\build\intermediates\pre-dexed\debug\classes-ddb527c95f53bac077ca2ad48ddbc9e201997160.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\pre-dexed\debug\classes-9a9d5a5ec8bf89400f6b541b9f140ee770bc44ba.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApplicationDevelopmentProject\SalesIndent\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="D:\AndroidApplicationDevelopmentProject\SalesIndent\app\build\intermediates\pre-dexed\debug\classes-5c71bac4cc9b3669da869da08caf59e842585809.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\pre-dexed\debug\classes-ae39591329e22fcc572e9696a763dbbcea2c7679.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApplicationDevelopmentProject\SalesIndent\app\build\intermediates\exploded-aar\com.github.d-max\spots-dialog\0.4\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f82b3f786bf4937ed1a1cc9a9a811e154813ba9a">
+        <dex dex="D:\AndroidApplicationDevelopmentProject\SalesIndent\app\build\intermediates\pre-dexed\debug\classes-8bce6c154a6eee2ed2b0da1136848d58b3e3fb46.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\pre-dexed\debug\classes-ae39591329e22fcc572e9696a763dbbcea2c7679.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApplicationDevelopmentProject\SalesIndent\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="D:\AndroidApplicationDevelopmentProject\SalesIndent\app\build\intermediates\pre-dexed\debug\classes-b3c8ad18b24bcd6dcf226bc16bff6482f28c4559.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApplicationDevelopmentProject\SalesIndent\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="D:\AndroidApplicationDevelopmentProject\SalesIndent\app\build\intermediates\pre-dexed\debug\classes-130dd25b14d31cdc5d0c63aa698fbc0124ef7a9f.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\pre-dexed\debug\classes-c389595b422872b894bfa459fcf02169bd9e27cc.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\pre-dexed\debug\classes-c389595b422872b894bfa459fcf02169bd9e27cc.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\exploded-aar\com.android.support\design\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\pre-dexed\debug\classes-20bec967d89e74fffaac67bbeef7ccfefd846e48.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\exploded-aar\com.toptoche.searchablespinner\searchablespinnerlibrary\1.3.1\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="dbfaa66636f1fadb6cff4080a3a271e97f288340">
+        <dex dex="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\pre-dexed\debug\classes-8fe9f26257a647b679027965b41771d414f8c41c.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApplicationDevelopmentProject\SalesIndent\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="D:\AndroidApplicationDevelopmentProject\SalesIndent\app\build\intermediates\pre-dexed\debug\classes-bfc552a6aef8978b8c75b1491d545018bbc09af8.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApplicationDevelopmentProject\SalesIndent\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="D:\AndroidApplicationDevelopmentProject\SalesIndent\app\build\intermediates\pre-dexed\debug\classes-3f28237c129ca34485e13dc59c13784a501a7b2c.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApplicationDevelopmentProject\SalesIndent\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="D:\AndroidApplicationDevelopmentProject\SalesIndent\app\build\intermediates\pre-dexed\debug\classes-e10b13b05fe0ee20e1a1814c715768e7b169377d.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\exploded-aar\com.toptoche.searchablespinner\searchablespinnerlibrary\1.3.1\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dbfaa66636f1fadb6cff4080a3a271e97f288340">
+        <dex dex="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\pre-dexed\debug\classes-8fe9f26257a647b679027965b41771d414f8c41c.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\pre-dexed\debug\classes-c5e5173db81e9677b6011cdc36cd1b2bb3f49877.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\pre-dexed\debug\classes-41c11c9c1d2852faf7fce19c36e5331766297252.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-c8a4d6c8f7a53ef914316eed75eecf4fae66c0fd.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\pre-dexed\debug\classes-41c11c9c1d2852faf7fce19c36e5331766297252.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApplicationDevelopmentProject\SalesIndent\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="D:\AndroidApplicationDevelopmentProject\SalesIndent\app\build\intermediates\pre-dexed\debug\classes-8707952169e971da285e0c333227a4cacd3798e5.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-c8a4d6c8f7a53ef914316eed75eecf4fae66c0fd.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\pre-dexed\debug\classes-c5e5173db81e9677b6011cdc36cd1b2bb3f49877.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApplicationDevelopmentProject\SalesIndent\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="D:\AndroidApplicationDevelopmentProject\SalesIndent\app\build\intermediates\pre-dexed\debug\classes-d88a1a0891130ab5094e0706c1cdfc82689fb175.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\exploded-aar\com.android.support\design\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\pre-dexed\debug\classes-20bec967d89e74fffaac67bbeef7ccfefd846e48.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\pre-dexed\debug\classes-8424dc9811cffe5e25f4f21e748c4f103b0bf4c1.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApplicationDevelopmentProject\SalesIndent\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="D:\AndroidApplicationDevelopmentProject\SalesIndent\app\build\intermediates\pre-dexed\debug\classes-5850b8fad2245d23fabff221049f023b01bcb340.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApplicationDevelopmentProject\SalesIndent\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="D:\AndroidApplicationDevelopmentProject\SalesIndent\app\build\intermediates\pre-dexed\debug\classes-2c026db83ba51b9ce6668af7416702b3885c5d96.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="D:\AndroidApplicationDevelopmentProject\SalesIndent-HVG\app\build\intermediates\pre-dexed\debug\classes-d8c77727b6bb8e26443bca83b96f4943d3c793e2.jar" />
+    </item>
+
+</items>

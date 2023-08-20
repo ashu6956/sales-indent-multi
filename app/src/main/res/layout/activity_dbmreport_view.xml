@@ -1,0 +1,273 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".salesindent.dbm.DBMReportViewActivity"
+    android:background="@android:color/white">
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:freezesText="true"
+        android:orientation="vertical"
+        android:focusable="false">
+
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">
+
+            <ImageButton
+                android:layout_width="125dp"
+                android:layout_height="80dp"
+                android:background="@drawable/rasiseedslogo"
+                android:visibility="gone" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Rasi Seeds (P) Ltd."
+                android:textStyle="bold"
+                android:textColor="#ff269040"
+                android:gravity="end"
+                android:textSize="20dp"
+                android:freezesText="true"
+                android:layout_marginTop="-40dp"
+                android:layout_gravity="right"
+                android:typeface="serif"
+                android:visibility="gone" />
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="fill_parent"
+                android:layout_height="50dp"
+                android:background="#eaa80a3c">
+
+                <ImageButton
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:onClick="CloseActivity"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="5dp"
+                    android:background="@drawable/hmicon" />
+
+                <TextView
+                    android:layout_width="200dp"
+                    android:layout_height="wrap_content"
+                    android:text="INDENT STATUS"
+                    android:id="@+id/textView33"
+                    android:textSize="16dp"
+                    android:textColor="@android:color/white"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:autoText="false"
+                    android:typeface="serif"
+                    android:textStyle="bold"
+                    android:layout_marginTop="-30dp" />
+
+                <ImageButton
+                    android:layout_width="40dp"
+                    android:layout_height="35dp"
+                    android:background="@drawable/cast_abc_scrubber_primary_mtrl_alpha"
+                    android:onClick="CloseActivity"
+                    android:layout_gravity="right"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="-33dp" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <com.google.android.material.tabs.TabLayout
+            android:id="@+id/tabslayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#eaa80a3c"
+            app:tabGravity="fill"
+            app:tabMode="fixed"
+            app:tabTextAppearance="@style/MyCustomTextAppearance"
+            app:tabSelectedTextColor="#FFF"
+            app:tabTextColor="#000" />
+
+        <com.agriscience.salesindent.salesindent.widgets.FCViewPager
+            android:id="@+id/viewpager"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:layout_behavior="@string/appbar_scrolling_view_behavior"/>
+
+        <!--<HorizontalScrollView-->
+            <!--android:layout_width="fill_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:id="@+id/horizontalScrollView"-->
+            <!--android:layout_marginTop="20dp">-->
+
+            <!--<LinearLayout-->
+                <!--android:orientation="vertical"-->
+                <!--android:layout_width="fill_parent"-->
+                <!--android:layout_height="fill_parent">-->
+
+                <!--<LinearLayout-->
+                    <!--android:layout_width="wrap_content"-->
+                    <!--android:layout_height="fill_parent"-->
+                    <!--android:freezesText="true"-->
+                    <!--android:orientation="vertical"-->
+                    <!--android:id="@+id/Header"-->
+                    <!--android:visibility="gone"-->
+                    <!--android:background="#df1f2d7b">-->
+
+                    <!--<TextView-->
+                        <!--android:layout_width="wrap_content"-->
+                        <!--android:layout_height="wrap_content"-->
+                        <!--android:text="Indent No."-->
+                        <!--android:id="@+id/textView10"-->
+                        <!--android:textColor="@android:color/white"-->
+                        <!--android:layout_marginLeft="10dp"-->
+                        <!--android:textStyle="bold"-->
+                        <!--android:textSize="15dp"-->
+                        <!--android:typeface="serif"-->
+                        <!--android:layout_marginTop="5dp" />-->
+
+                    <!--<TextView-->
+                        <!--android:layout_width="170dp"-->
+                        <!--android:layout_height="wrap_content"-->
+                        <!--android:text="Cust Name"-->
+                        <!--android:id="@+id/textView12"-->
+                        <!--android:textColor="@android:color/white"-->
+                        <!--android:layout_marginLeft="155dp"-->
+                        <!--android:textStyle="bold"-->
+                        <!--android:layout_marginTop="-21dp"-->
+                        <!--android:textSize="15dp"-->
+                        <!--android:typeface="serif" />-->
+
+                    <!--<TextView-->
+                        <!--android:layout_width="100dp"-->
+                        <!--android:layout_height="wrap_content"-->
+                        <!--android:text="Hybrid"-->
+                        <!--android:id="@+id/textView13"-->
+                        <!--android:textColor="@android:color/white"-->
+                        <!--android:layout_marginLeft="400dp"-->
+                        <!--android:textStyle="bold"-->
+                        <!--android:textSize="15dp"-->
+                        <!--android:layout_marginTop="-22dp"-->
+                        <!--android:typeface="serif" />-->
+
+                    <!--<TextView-->
+                        <!--android:layout_width="100dp"-->
+                        <!--android:layout_height="wrap_content"-->
+                        <!--android:text=" Packing Size"-->
+                        <!--android:id="@+id/textView38"-->
+                        <!--android:textColor="@android:color/white"-->
+                        <!--android:layout_marginLeft="550dp"-->
+                        <!--android:textStyle="bold"-->
+                        <!--android:textSize="15dp"-->
+                        <!--android:layout_marginTop="-25dp"-->
+                        <!--android:typeface="serif" />-->
+
+                    <!--<TextView-->
+                        <!--android:layout_width="100dp"-->
+                        <!--android:layout_height="wrap_content"-->
+                        <!--android:text="Qty In Pkt"-->
+                        <!--android:id="@+id/textView81"-->
+                        <!--android:textColor="@android:color/white"-->
+                        <!--android:layout_marginLeft="700dp"-->
+                        <!--android:textStyle="bold"-->
+                        <!--android:textSize="15dp"-->
+                        <!--android:layout_marginTop="-21dp"-->
+                        <!--android:typeface="serif"-->
+                        <!--android:visibility="gone" />-->
+
+                    <!--<TextView-->
+                        <!--android:layout_width="160dp"-->
+                        <!--android:layout_height="wrap_content"-->
+                        <!--android:id="@+id/textView39"-->
+                        <!--android:textColor="@android:color/white"-->
+                        <!--android:layout_marginLeft="700dp"-->
+                        <!--android:textSize="15dp"-->
+                        <!--android:layout_marginTop="-22dp"-->
+                        <!--android:text="Qty In Kg/Pkt"-->
+                        <!--android:textStyle="bold"-->
+                        <!--android:typeface="serif" />-->
+
+                    <!--<TextView-->
+                        <!--android:layout_width="100dp"-->
+                        <!--android:layout_height="wrap_content"-->
+                        <!--android:text="Indent Dt"-->
+                        <!--android:id="@+id/textView18"-->
+                        <!--android:textColor="@android:color/white"-->
+                        <!--android:layout_marginLeft="850dp"-->
+                        <!--android:textStyle="bold"-->
+                        <!--android:textSize="15dp"-->
+                        <!--android:layout_marginTop="-21dp"-->
+                        <!--android:typeface="serif" />-->
+
+                    <!--<TextView-->
+                        <!--android:layout_width="160dp"-->
+                        <!--android:layout_height="wrap_content"-->
+                        <!--android:id="@+id/textView19"-->
+                        <!--android:textColor="@android:color/white"-->
+                        <!--android:layout_marginLeft="1000dp"-->
+                        <!--android:textSize="15dp"-->
+                        <!--android:layout_marginTop="-22dp"-->
+                        <!--android:text="Cust Account"-->
+                        <!--android:textStyle="bold"-->
+                        <!--android:typeface="serif" />-->
+
+                    <!--<TextView-->
+                        <!--android:layout_width="160dp"-->
+                        <!--android:layout_height="wrap_content"-->
+                        <!--android:id="@+id/textView40"-->
+                        <!--android:textColor="@android:color/white"-->
+                        <!--android:layout_marginLeft="1150dp"-->
+                        <!--android:textSize="15dp"-->
+                        <!--android:layout_marginTop="-22dp"-->
+                        <!--android:text="Status"-->
+                        <!--android:textStyle="bold"-->
+                        <!--android:typeface="serif" />-->
+
+                    <!--<TextView-->
+                        <!--android:layout_width="300dp"-->
+                        <!--android:layout_height="wrap_content"-->
+                        <!--android:id="@+id/textView43"-->
+                        <!--android:textColor="@android:color/white"-->
+                        <!--android:layout_marginLeft="1250dp"-->
+                        <!--android:textSize="15dp"-->
+                        <!--android:layout_marginTop="-20dp"-->
+                        <!--android:textStyle="bold"-->
+                        <!--android:typeface="serif"-->
+                        <!--android:text="Remarks" />-->
+                <!--</LinearLayout>-->
+
+
+                <!--<ScrollView-->
+                    <!--android:layout_width="match_parent"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:id="@+id/scrollView3">-->
+
+                    <!--<LinearLayout-->
+                        <!--android:orientation="vertical"-->
+                        <!--android:layout_width="fill_parent"-->
+                        <!--android:layout_height="fill_parent">-->
+
+                        <!--<ListView-->
+                            <!--android:layout_width="1700dp"-->
+                            <!--android:layout_height="fill_parent"-->
+                            <!--android:id="@+id/listView"-->
+                            <!--android:focusable="false"-->
+                            <!--android:longClickable="false"-->
+                            <!--android:headerDividersEnabled="false"-->
+                            <!--android:footerDividersEnabled="false"-->
+                            <!--android:focusableInTouchMode="false"-->
+                            <!--android:fastScrollAlwaysVisible="false"-->
+                            <!--android:fastScrollEnabled="false"-->
+                            <!--android:nestedScrollingEnabled="false"-->
+                            <!--android:minHeight="30dp"-->
+                            <!--android:visibility="gone" />-->
+                    <!--</LinearLayout>-->
+                <!--</ScrollView>-->
+            <!--</LinearLayout>-->
+        <!--</HorizontalScrollView>-->
+
+
+    </LinearLayout>
+</LinearLayout>

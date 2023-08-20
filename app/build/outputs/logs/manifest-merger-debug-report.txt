@@ -1,0 +1,992 @@
+-- Merging decision tree log ---
+provider#androidx.core.content.FileProvider
+INJECTED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:42:9-50:20
+	android:grantUriPermissions
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:46:13-47
+	android:authorities
+		INJECTED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:44:13-60
+	android:exported
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:45:13-37
+	android:name
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:43:13-62
+manifest
+ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:2:1-202:12
+INJECTED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:2:1-202:12
+INJECTED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:2:1-202:12
+INJECTED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:2:1-202:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\6bf08c6244f3845adf5f2129c16ed9c0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\d69fd1e464e61a54ed4d9277b377cd02\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.d-max:spots-dialog:0.4] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\b969b4e03a8284783022e32906ae5c63\AndroidManifest.xml:2:1-14:12
+MERGED from [com.toptoche.searchablespinner:searchablespinnerlibrary:1.3.1] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\bb08cee0ba261c4f0eab4c66fc9517ed\AndroidManifest.xml:2:1-17:12
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\ba9b213ce2937d4b2d984370d29a6678\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-core:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\6f41def012cb07d5d11e8acb39c183c4\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-messaging:20.1.5] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\e71bd3f25f275d29c1c9d39146ff65aa\AndroidManifest.xml:17:1-44:12
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\4e114651a6444e972e5e2d82ca18e2cc\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\74cb88a4cb6ad7595254070f1386e9df\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-config:19.1.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\eb0e79850ffe1598734857058ed8f10f\AndroidManifest.xml:17:1-38:12
+MERGED from [androidx.room:room-runtime:2.5.1] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\8a59fdb381b98820e1332603a0f1ba9d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.firebase:firebase-analytics:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\6f89febce156c17cc9c93fc3ba5b20a4\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\6347dbdd1e05a8e1dd80e10f947377e9\AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\cbb48096eab1b8f01cd296a0be2b6c63\AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.android.gms:play-services-measurement:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\1dee0f1489424a62a62b613c9dd3acc2\AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\b2e8a9355e2624ccb8be5ac789ad4164\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\e2dd42e22fc271c720fb40308d8dae4f\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\d3827ecaa4302d729f2a9ca25c5c19ab\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\e97b04a9b7d91fa23a4a7a1f81531ce8\AndroidManifest.xml:15:1-34:12
+MERGED from [com.google.firebase:firebase-installations:16.2.1] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\11b85633d03c3730a9b885ea8ed36fcd\AndroidManifest.xml:2:1-23:12
+MERGED from [com.google.firebase:firebase-abt:19.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\0dbd896d7dde1103dab5bc5a2d6630e9\AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\851f757c6a5923838970b0f9a2bb96ef\AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\0154e515e0c30c82838f114847c79f99\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\56d7864359940c10e95ad0814c91c2d3\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\24fd617668687b8212878098f2355896\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\3c7555a777a3b4388c18fb38c306c3c9\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\7461220cd3b6a820826978df73fba9ed\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\77e9095cdded4e471f2935c54280deda\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\8b09794abb354b44be1c3c811c314c2b\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-base:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\c9d0680a402c1b3998910667b31c3923\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\75e469f6eb02ff5e315b065c91fd6ade\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\9881b740834375146d1b780d76d66557\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\a5c7ae1e85bdd669d0978e1591cba841\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\ae4a90abe77cd5d4b478922768d9db78\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\1ce3e8ee8ac25e16578a6c78baac70ca\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\3b8c0b942318f26a562edd0934a10ca0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\4e2a35dfde68733b602af9c0092e5110\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\d27c916bc1b66f174445555ffd194656\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\4accba1452d7ca565f5d3ecea836d484\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\5a9e58bc1baf052eea3395b5fbd0c867\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\0bd94102bbabc3ec10990c2f2279844f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\6e0d7ce61d34416d3bef1c72dba2222a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\ef19e635fbdc566031c47d5be0b81a8d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\b750620204583654bd8127a071008976\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\f07c5c0977035b1a18368714af3bd894\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\b24632518bf0c397a43f6d645f4261b2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\b0822a3ad9509963276a3351b1cffb6a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\9d97e6fc82ccc29d5719eb8bce38e362\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\3d4171a9baab1cbdc697279bd7ea13b5\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\f5f0010087caee3d8ddb61c48ca304e4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\643582e9fc3d28797826111d475b4463\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\3883f0c31549c0d88386f89c09525786\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\5d316e4c1bef98c8714827f032c73c38\AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\2f01584f74469de16d46954c55994a32\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-encoders-json:16.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\3cf45bfe60c0caefdaf13e619aa3293d\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\08565a58483f1e7fca0605b159422578\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\3d1c38b38021776d39b247f86e683f4e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.1] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\049d44a965349a0f75f8b2f0e535e361\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.3.1] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\6ba1ee02d38cc6e30ae77eb44dc80484\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.3.1] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\c623b3d68ca1dce4d5b1a0819dc7dab6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\41fc5406036e766f20b1353f569cf115\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\64745beebb8404856adae16b68f652f9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\1a3880325435872e28fa63a4bfdd1ace\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\065b1fa9ac67ebe0ad0a3df5e4a6fe64\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\c84c18e37ca3308656efc7445706b82d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\b0d1f923d509d64836eaef9ecd906cc2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.datatransport:transport-api:2.2.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\10ceafd20317d633d525d569d7fe274b\AndroidManifest.xml:15:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\65989cdb264c74bab5ec9026eb01c525\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:2:1-202:12
+INJECTED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:2:1-202:12
+INJECTED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:2:1-202:12
+	package
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:4:5-42
+		INJECTED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:2:1-202:12
+		INJECTED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:2:1-202:12
+		INJECTED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:2:11-69
+	tools:targetApi
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:6:5-24
+	android:targetSandboxVersion
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:5:5-37
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:9:22-77
+uses-permission#android.permission.INTERNET
+ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:10:5-67
+MERGED from [com.google.firebase:firebase-config:19.1.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\eb0e79850ffe1598734857058ed8f10f\AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-config:19.1.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\eb0e79850ffe1598734857058ed8f10f\AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\6347dbdd1e05a8e1dd80e10f947377e9\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\6347dbdd1e05a8e1dd80e10f947377e9\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\cbb48096eab1b8f01cd296a0be2b6c63\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\cbb48096eab1b8f01cd296a0be2b6c63\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\1dee0f1489424a62a62b613c9dd3acc2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\1dee0f1489424a62a62b613c9dd3acc2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\e2dd42e22fc271c720fb40308d8dae4f\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\e2dd42e22fc271c720fb40308d8dae4f\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-installations:16.2.1] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\11b85633d03c3730a9b885ea8ed36fcd\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:16.2.1] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\11b85633d03c3730a9b885ea8ed36fcd\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\8b09794abb354b44be1c3c811c314c2b\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\8b09794abb354b44be1c3c811c314c2b\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\3883f0c31549c0d88386f89c09525786\AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\3883f0c31549c0d88386f89c09525786\AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:10:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:14:5-79
+MERGED from [com.google.firebase:firebase-config:19.1.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\eb0e79850ffe1598734857058ed8f10f\AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-config:19.1.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\eb0e79850ffe1598734857058ed8f10f\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\6347dbdd1e05a8e1dd80e10f947377e9\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\6347dbdd1e05a8e1dd80e10f947377e9\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\cbb48096eab1b8f01cd296a0be2b6c63\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\cbb48096eab1b8f01cd296a0be2b6c63\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\1dee0f1489424a62a62b613c9dd3acc2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\1dee0f1489424a62a62b613c9dd3acc2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\e2dd42e22fc271c720fb40308d8dae4f\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\e2dd42e22fc271c720fb40308d8dae4f\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-installations:16.2.1] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\11b85633d03c3730a9b885ea8ed36fcd\AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:16.2.1] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\11b85633d03c3730a9b885ea8ed36fcd\AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\8b09794abb354b44be1c3c811c314c2b\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\8b09794abb354b44be1c3c811c314c2b\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\3883f0c31549c0d88386f89c09525786\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\3883f0c31549c0d88386f89c09525786\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\5d316e4c1bef98c8714827f032c73c38\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\5d316e4c1bef98c8714827f032c73c38\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:14:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:15:5-75
+	android:name
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:15:22-72
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:16:22-73
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:17:5-76
+	android:name
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:17:22-73
+uses-permission#android.permission.access_mock_location
+ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:18:5-79
+	android:name
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:18:22-76
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:19:5-21:47
+	tools:ignore
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:21:9-44
+	android:name
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:20:9-57
+uses-permission#android.permission.READ_CONTACTS
+ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:22:5-72
+	android:name
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:22:22-69
+uses-permission#android.permission.READ_PROFILE
+ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:23:5-71
+	android:name
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:23:22-68
+uses-permission#android.permission.READ_CALENDAR
+ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:24:5-72
+	android:name
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:24:22-69
+uses-permission#android.permission.WRITE_CALENDAR
+ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:25:5-73
+	android:name
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:25:22-70
+uses-permission#android.permission.REQUEST_INSTALL_PACKAGES
+ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:26:5-83
+	android:name
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:26:22-80
+uses-permission#android.permission.INSTALL_PACKAGES
+ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:27:5-29:47
+	tools:ignore
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:29:9-44
+	android:name
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:28:9-59
+uses-permission#android.permission.READ_PRIVILEGED_PHONE_STATE
+ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:30:5-32:47
+	tools:ignore
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:32:9-44
+	android:name
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:31:9-70
+application
+ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:34:5-200:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\6bf08c6244f3845adf5f2129c16ed9c0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\6bf08c6244f3845adf5f2129c16ed9c0\AndroidManifest.xml:22:5-20
+MERGED from [com.github.d-max:spots-dialog:0.4] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\b969b4e03a8284783022e32906ae5c63\AndroidManifest.xml:12:5-20
+MERGED from [com.github.d-max:spots-dialog:0.4] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\b969b4e03a8284783022e32906ae5c63\AndroidManifest.xml:12:5-20
+MERGED from [com.toptoche.searchablespinner:searchablespinnerlibrary:1.3.1] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\bb08cee0ba261c4f0eab4c66fc9517ed\AndroidManifest.xml:11:5-15:19
+MERGED from [com.toptoche.searchablespinner:searchablespinnerlibrary:1.3.1] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\bb08cee0ba261c4f0eab4c66fc9517ed\AndroidManifest.xml:11:5-15:19
+MERGED from [com.google.firebase:firebase-core:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\6f41def012cb07d5d11e8acb39c183c4\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\6f41def012cb07d5d11e8acb39c183c4\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-messaging:20.1.5] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\e71bd3f25f275d29c1c9d39146ff65aa\AndroidManifest.xml:22:5-42:19
+MERGED from [com.google.firebase:firebase-messaging:20.1.5] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\e71bd3f25f275d29c1c9d39146ff65aa\AndroidManifest.xml:22:5-42:19
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\4e114651a6444e972e5e2d82ca18e2cc\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\4e114651a6444e972e5e2d82ca18e2cc\AndroidManifest.xml:7:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\74cb88a4cb6ad7595254070f1386e9df\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\74cb88a4cb6ad7595254070f1386e9df\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-config:19.1.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\eb0e79850ffe1598734857058ed8f10f\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-config:19.1.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\eb0e79850ffe1598734857058ed8f10f\AndroidManifest.xml:28:5-36:19
+MERGED from [androidx.room:room-runtime:2.5.1] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\8a59fdb381b98820e1332603a0f1ba9d\AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.room:room-runtime:2.5.1] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\8a59fdb381b98820e1332603a0f1ba9d\AndroidManifest.xml:23:5-29:19
+MERGED from [com.google.firebase:firebase-analytics:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\6f89febce156c17cc9c93fc3ba5b20a4\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\6f89febce156c17cc9c93fc3ba5b20a4\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\6347dbdd1e05a8e1dd80e10f947377e9\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\6347dbdd1e05a8e1dd80e10f947377e9\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\cbb48096eab1b8f01cd296a0be2b6c63\AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\cbb48096eab1b8f01cd296a0be2b6c63\AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.android.gms:play-services-measurement:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\1dee0f1489424a62a62b613c9dd3acc2\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\1dee0f1489424a62a62b613c9dd3acc2\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\b2e8a9355e2624ccb8be5ac789ad4164\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\b2e8a9355e2624ccb8be5ac789ad4164\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\e2dd42e22fc271c720fb40308d8dae4f\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\e2dd42e22fc271c720fb40308d8dae4f\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\d3827ecaa4302d729f2a9ca25c5c19ab\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\d3827ecaa4302d729f2a9ca25c5c19ab\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\e97b04a9b7d91fa23a4a7a1f81531ce8\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\e97b04a9b7d91fa23a4a7a1f81531ce8\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-installations:16.2.1] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\11b85633d03c3730a9b885ea8ed36fcd\AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.firebase:firebase-installations:16.2.1] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\11b85633d03c3730a9b885ea8ed36fcd\AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.firebase:firebase-abt:19.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\0dbd896d7dde1103dab5bc5a2d6630e9\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-abt:19.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\0dbd896d7dde1103dab5bc5a2d6630e9\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\851f757c6a5923838970b0f9a2bb96ef\AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\851f757c6a5923838970b0f9a2bb96ef\AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\56d7864359940c10e95ad0814c91c2d3\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\56d7864359940c10e95ad0814c91c2d3\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\24fd617668687b8212878098f2355896\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\24fd617668687b8212878098f2355896\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\3c7555a777a3b4388c18fb38c306c3c9\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\3c7555a777a3b4388c18fb38c306c3c9\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\7461220cd3b6a820826978df73fba9ed\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\7461220cd3b6a820826978df73fba9ed\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\77e9095cdded4e471f2935c54280deda\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\77e9095cdded4e471f2935c54280deda\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\c9d0680a402c1b3998910667b31c3923\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\c9d0680a402c1b3998910667b31c3923\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\75e469f6eb02ff5e315b065c91fd6ade\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\75e469f6eb02ff5e315b065c91fd6ade\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\9881b740834375146d1b780d76d66557\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\9881b740834375146d1b780d76d66557\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\9d97e6fc82ccc29d5719eb8bce38e362\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\9d97e6fc82ccc29d5719eb8bce38e362\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\3d4171a9baab1cbdc697279bd7ea13b5\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\3d4171a9baab1cbdc697279bd7ea13b5\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\3883f0c31549c0d88386f89c09525786\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\3883f0c31549c0d88386f89c09525786\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\5d316e4c1bef98c8714827f032c73c38\AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\5d316e4c1bef98c8714827f032c73c38\AndroidManifest.xml:25:5-39:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\9d97e6fc82ccc29d5719eb8bce38e362\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from [com.toptoche.searchablespinner:searchablespinnerlibrary:1.3.1] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\bb08cee0ba261c4f0eab4c66fc9517ed\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:38:9-41
+	android:icon
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:37:9-42
+	android:allowBackup
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:36:9-35
+	android:theme
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:40:9-40
+	android:networkSecurityConfig
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:39:9-69
+	android:usesCleartextTraffic
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:41:9-44
+	android:name
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:35:9-38
+uses-library#org.apache.http.legacy
+ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:51:9-53:40
+	android:required
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:53:13-37
+	android:name
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:52:13-50
+activity#com.agriscience.salesindent.SplashEmptyActivity
+ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:55:9-66:20
+	android:screenOrientation
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:60:13-49
+	android:label
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:59:13-45
+	android:windowSoftInputMode
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:61:13-52
+	android:exported
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:58:13-36
+	android:configChanges
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:57:13-122
+	android:name
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:56:13-48
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:62:13-65:29
+action#android.intent.action.MAIN
+ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:63:17-69
+	android:name
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:63:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:64:17-77
+	android:name
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:64:27-74
+activity#com.agriscience.salesindent.LoginActivity
+ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:67:9-72:55
+	android:screenOrientation
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:71:13-49
+	android:label
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:70:13-45
+	android:windowSoftInputMode
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:72:13-52
+	android:configChanges
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:69:13-122
+	android:name
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:68:13-42
+receiver#com.agriscience.salesindent.ConnectivityReceiver
+ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:74:9-81:20
+	android:enabled
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:76:13-35
+	android:exported
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:77:13-36
+	android:name
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:75:13-49
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:78:13-80:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:79:17-79
+	android:name
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:79:25-76
+activity#com.agriscience.salesindent.tm.TMScreenActivity
+ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:83:9-88:55
+	android:screenOrientation
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:87:13-49
+	android:label
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:86:13-59
+	android:windowSoftInputMode
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:88:13-52
+	android:configChanges
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:85:13-122
+	android:name
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:84:13-48
+activity#com.agriscience.salesindent.am.AMScreenActivity
+ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:89:9-94:55
+	android:screenOrientation
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:93:13-49
+	android:label
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:92:13-59
+	android:windowSoftInputMode
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:94:13-52
+	android:configChanges
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:91:13-122
+	android:name
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:90:13-48
+activity#com.agriscience.salesindent.rbm.RBMScreenActivity
+ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:95:9-100:55
+	android:screenOrientation
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:99:13-49
+	android:label
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:98:13-61
+	android:windowSoftInputMode
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:100:13-52
+	android:configChanges
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:97:13-122
+	android:name
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:96:13-50
+activity#com.agriscience.salesindent.dbm.DBMScreenActivity
+ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:101:9-106:55
+	android:screenOrientation
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:105:13-49
+	android:label
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:104:13-61
+	android:windowSoftInputMode
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:106:13-52
+	android:configChanges
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:103:13-122
+	android:name
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:102:13-50
+activity#com.agriscience.salesindent.tm.TMSalesIndentActivity
+ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:107:9-112:55
+	android:screenOrientation
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:111:13-49
+	android:label
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:110:13-66
+	android:windowSoftInputMode
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:112:13-52
+	android:configChanges
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:109:13-122
+	android:name
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:108:13-53
+activity#com.agriscience.salesindent.PasswordChange
+ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:113:9-118:55
+	android:screenOrientation
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:117:13-49
+	android:label
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:116:13-67
+	android:windowSoftInputMode
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:118:13-52
+	android:configChanges
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:115:13-122
+	android:name
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:114:13-43
+activity#com.agriscience.salesindent.rbm.RBMIndentApprovalProcess
+ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:119:9-123:55
+	android:label
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:122:13-78
+	android:windowSoftInputMode
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:123:13-52
+	android:configChanges
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:121:13-122
+	android:name
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:120:13-57
+activity#com.agriscience.salesindent.am.AMIndentApprovalProcess
+ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:125:9-129:55
+	android:label
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:128:13-77
+	android:windowSoftInputMode
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:129:13-52
+	android:configChanges
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:127:13-122
+	android:name
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:126:13-55
+activity#com.agriscience.salesindent.dbm.DBMIndentApprovalProcess
+ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:130:9-134:55
+	android:label
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:133:13-78
+	android:windowSoftInputMode
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:134:13-52
+	android:configChanges
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:132:13-122
+	android:name
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:131:13-57
+activity#com.agriscience.salesindent.rbm.RBMIndentSelection
+ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:135:9-139:55
+	android:label
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:138:13-71
+	android:windowSoftInputMode
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:139:13-52
+	android:configChanges
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:137:13-122
+	android:name
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:136:13-51
+activity#com.agriscience.salesindent.tm.TMReportViewActivity
+ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:140:9-142:68
+	android:label
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:142:13-65
+	android:name
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:141:13-52
+activity#com.agriscience.salesindent.am.AMReportViewActivity
+ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:144:9-146:68
+	android:label
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:146:13-65
+	android:name
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:145:13-52
+activity#com.agriscience.salesindent.rbm.RBMReportViewActivity
+ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:147:9-149:69
+	android:label
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:149:13-66
+	android:name
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:148:13-54
+activity#com.agriscience.salesindent.dbm.DBMReportViewActivity
+ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:150:9-152:69
+	android:label
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:152:13-66
+	android:name
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:151:13-54
+service#com.agriscience.salesindent.firebase.myfirebaseinstanceidservice
+ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:154:9-161:19
+	android:exported
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:156:13-36
+	tools:ignore
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:157:13-43
+	android:name
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:155:13-65
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:158:13-160:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:159:17-80
+	android:name
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:159:25-77
+service#com.agriscience.salesindent.firebase.myfirebasemessagingservice
+ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:162:9-170:19
+	android:enabled
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:164:13-35
+	android:exported
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:165:13-36
+	tools:ignore
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:166:13-43
+	android:name
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:163:13-64
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:167:13-169:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:168:17-78
+	android:name
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:168:25-75
+receiver#com.agriscience.salesindent.firebase.NotificationDeleteReceiver
+ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:172:9-174:39
+	android:exported
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:174:13-36
+	android:name
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:173:13-64
+activity#com.agriscience.salesindent.rbm.RbmApprovedFragment
+ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:176:9-61
+	android:name
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:176:19-58
+activity#com.agriscience.salesindent.rbm.RbmRejectedFragment
+ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:177:9-61
+	android:name
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:177:19-58
+activity#com.agriscience.salesindent.rbm.RbmAutoApproveFragment
+ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:178:9-64
+	android:name
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:178:19-61
+activity#com.agriscience.salesindent.rbm.RbmPendingFragment
+ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:179:9-60
+	android:name
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:179:19-57
+activity#com.agriscience.salesindent.dbm.DbmApprovedFragment
+ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:180:9-61
+	android:name
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:180:19-58
+activity#com.agriscience.salesindent.dbm.DbmRejectedFragment
+ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:181:9-61
+	android:name
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:181:19-58
+activity#com.agriscience.salesindent.dbm.DbmAutoApprovedFragment
+ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:182:9-65
+	android:name
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:182:19-62
+activity#com.agriscience.salesindent.dbm.DbmPendingFragment
+ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:183:9-60
+	android:name
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:183:19-57
+activity#com.agriscience.salesindent.tm.TmApprovedFragment
+ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:184:9-59
+	android:name
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:184:19-56
+activity#com.agriscience.salesindent.tm.TmRejectedFragment
+ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:185:9-59
+	android:name
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:185:19-56
+activity#com.agriscience.salesindent.tm.tmauto_approve
+ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:186:9-55
+	android:name
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:186:19-52
+activity#com.agriscience.salesindent.tm.TmPendingFragment
+ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:187:9-58
+	android:name
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:187:19-55
+activity#com.agriscience.salesindent.storbm.StockTransferCreateActivity
+ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:188:9-190:67
+	android:windowSoftInputMode
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:190:13-55
+	android:name
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:189:13-63
+activity#com.agriscience.salesindent.storbm.RbmStockReport
+ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:191:9-59
+	android:name
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:191:19-56
+activity#com.agriscience.salesindent.stodbm.DbmStockApprovalActivity
+ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:192:9-69
+	android:name
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:192:19-66
+activity#com.agriscience.salesindent.stodbm.DbmStockReportActivity
+ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:193:9-67
+	android:name
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:193:19-64
+activity#com.agriscience.salesindent.stodbm.DbmStockApproved
+ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:194:9-61
+	android:name
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:194:19-58
+activity#com.agriscience.salesindent.stodbm.DbmStockRejected
+ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:195:9-61
+	android:name
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:195:19-58
+activity#com.agriscience.salesindent.stodbm.DbmStockPending
+ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:196:9-60
+	android:name
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:196:19-57
+activity#com.agriscience.salesindent.storbm.RbmStockApproved
+ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:197:9-61
+	android:name
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:197:19-58
+activity#com.agriscience.salesindent.storbm.RbmStockRejected
+ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:198:9-61
+	android:name
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:198:19-58
+activity#com.agriscience.salesindent.storbm.RbmStockPending
+ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:199:9-60
+	android:name
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:199:19-57
+uses-sdk
+INJECTED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml
+INJECTED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\6bf08c6244f3845adf5f2129c16ed9c0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\6bf08c6244f3845adf5f2129c16ed9c0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\d69fd1e464e61a54ed4d9277b377cd02\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\d69fd1e464e61a54ed4d9277b377cd02\AndroidManifest.xml:20:5-44
+MERGED from [com.github.d-max:spots-dialog:0.4] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\b969b4e03a8284783022e32906ae5c63\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.d-max:spots-dialog:0.4] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\b969b4e03a8284783022e32906ae5c63\AndroidManifest.xml:8:5-10:41
+MERGED from [com.toptoche.searchablespinner:searchablespinnerlibrary:1.3.1] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\bb08cee0ba261c4f0eab4c66fc9517ed\AndroidManifest.xml:7:5-9:41
+MERGED from [com.toptoche.searchablespinner:searchablespinnerlibrary:1.3.1] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\bb08cee0ba261c4f0eab4c66fc9517ed\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\ba9b213ce2937d4b2d984370d29a6678\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\ba9b213ce2937d4b2d984370d29a6678\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-core:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\6f41def012cb07d5d11e8acb39c183c4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\6f41def012cb07d5d11e8acb39c183c4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-messaging:20.1.5] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\e71bd3f25f275d29c1c9d39146ff65aa\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:20.1.5] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\e71bd3f25f275d29c1c9d39146ff65aa\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\4e114651a6444e972e5e2d82ca18e2cc\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\4e114651a6444e972e5e2d82ca18e2cc\AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\74cb88a4cb6ad7595254070f1386e9df\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\74cb88a4cb6ad7595254070f1386e9df\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-config:19.1.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\eb0e79850ffe1598734857058ed8f10f\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.firebase:firebase-config:19.1.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\eb0e79850ffe1598734857058ed8f10f\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.room:room-runtime:2.5.1] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\8a59fdb381b98820e1332603a0f1ba9d\AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-runtime:2.5.1] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\8a59fdb381b98820e1332603a0f1ba9d\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\6f89febce156c17cc9c93fc3ba5b20a4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\6f89febce156c17cc9c93fc3ba5b20a4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\6347dbdd1e05a8e1dd80e10f947377e9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\6347dbdd1e05a8e1dd80e10f947377e9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\cbb48096eab1b8f01cd296a0be2b6c63\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\cbb48096eab1b8f01cd296a0be2b6c63\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\1dee0f1489424a62a62b613c9dd3acc2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\1dee0f1489424a62a62b613c9dd3acc2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\b2e8a9355e2624ccb8be5ac789ad4164\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\b2e8a9355e2624ccb8be5ac789ad4164\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\e2dd42e22fc271c720fb40308d8dae4f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\e2dd42e22fc271c720fb40308d8dae4f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\d3827ecaa4302d729f2a9ca25c5c19ab\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\d3827ecaa4302d729f2a9ca25c5c19ab\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\e97b04a9b7d91fa23a4a7a1f81531ce8\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\e97b04a9b7d91fa23a4a7a1f81531ce8\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations:16.2.1] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\11b85633d03c3730a9b885ea8ed36fcd\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:16.2.1] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\11b85633d03c3730a9b885ea8ed36fcd\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-abt:19.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\0dbd896d7dde1103dab5bc5a2d6630e9\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-abt:19.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\0dbd896d7dde1103dab5bc5a2d6630e9\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\851f757c6a5923838970b0f9a2bb96ef\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\851f757c6a5923838970b0f9a2bb96ef\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\0154e515e0c30c82838f114847c79f99\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\0154e515e0c30c82838f114847c79f99\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\56d7864359940c10e95ad0814c91c2d3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\56d7864359940c10e95ad0814c91c2d3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\24fd617668687b8212878098f2355896\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\24fd617668687b8212878098f2355896\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\3c7555a777a3b4388c18fb38c306c3c9\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\3c7555a777a3b4388c18fb38c306c3c9\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\7461220cd3b6a820826978df73fba9ed\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\7461220cd3b6a820826978df73fba9ed\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\77e9095cdded4e471f2935c54280deda\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\77e9095cdded4e471f2935c54280deda\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\8b09794abb354b44be1c3c811c314c2b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\8b09794abb354b44be1c3c811c314c2b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\c9d0680a402c1b3998910667b31c3923\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\c9d0680a402c1b3998910667b31c3923\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\75e469f6eb02ff5e315b065c91fd6ade\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\75e469f6eb02ff5e315b065c91fd6ade\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\9881b740834375146d1b780d76d66557\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\9881b740834375146d1b780d76d66557\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\a5c7ae1e85bdd669d0978e1591cba841\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\a5c7ae1e85bdd669d0978e1591cba841\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\ae4a90abe77cd5d4b478922768d9db78\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\ae4a90abe77cd5d4b478922768d9db78\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\1ce3e8ee8ac25e16578a6c78baac70ca\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\1ce3e8ee8ac25e16578a6c78baac70ca\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\3b8c0b942318f26a562edd0934a10ca0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\3b8c0b942318f26a562edd0934a10ca0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\4e2a35dfde68733b602af9c0092e5110\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\4e2a35dfde68733b602af9c0092e5110\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\d27c916bc1b66f174445555ffd194656\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\d27c916bc1b66f174445555ffd194656\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\4accba1452d7ca565f5d3ecea836d484\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\4accba1452d7ca565f5d3ecea836d484\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\5a9e58bc1baf052eea3395b5fbd0c867\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\5a9e58bc1baf052eea3395b5fbd0c867\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\0bd94102bbabc3ec10990c2f2279844f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\0bd94102bbabc3ec10990c2f2279844f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\6e0d7ce61d34416d3bef1c72dba2222a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\6e0d7ce61d34416d3bef1c72dba2222a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\ef19e635fbdc566031c47d5be0b81a8d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\ef19e635fbdc566031c47d5be0b81a8d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\b750620204583654bd8127a071008976\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\b750620204583654bd8127a071008976\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\f07c5c0977035b1a18368714af3bd894\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\f07c5c0977035b1a18368714af3bd894\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\b24632518bf0c397a43f6d645f4261b2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\b24632518bf0c397a43f6d645f4261b2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\b0822a3ad9509963276a3351b1cffb6a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\b0822a3ad9509963276a3351b1cffb6a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\9d97e6fc82ccc29d5719eb8bce38e362\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\9d97e6fc82ccc29d5719eb8bce38e362\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\3d4171a9baab1cbdc697279bd7ea13b5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\3d4171a9baab1cbdc697279bd7ea13b5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\f5f0010087caee3d8ddb61c48ca304e4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\f5f0010087caee3d8ddb61c48ca304e4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\643582e9fc3d28797826111d475b4463\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\643582e9fc3d28797826111d475b4463\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\3883f0c31549c0d88386f89c09525786\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\3883f0c31549c0d88386f89c09525786\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\5d316e4c1bef98c8714827f032c73c38\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\5d316e4c1bef98c8714827f032c73c38\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\2f01584f74469de16d46954c55994a32\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\2f01584f74469de16d46954c55994a32\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:16.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\3cf45bfe60c0caefdaf13e619aa3293d\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:16.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\3cf45bfe60c0caefdaf13e619aa3293d\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\08565a58483f1e7fca0605b159422578\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\08565a58483f1e7fca0605b159422578\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\3d1c38b38021776d39b247f86e683f4e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\3d1c38b38021776d39b247f86e683f4e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.1] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\049d44a965349a0f75f8b2f0e535e361\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.1] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\049d44a965349a0f75f8b2f0e535e361\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.3.1] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\6ba1ee02d38cc6e30ae77eb44dc80484\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.3.1] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\6ba1ee02d38cc6e30ae77eb44dc80484\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.3.1] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\c623b3d68ca1dce4d5b1a0819dc7dab6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.3.1] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\c623b3d68ca1dce4d5b1a0819dc7dab6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\41fc5406036e766f20b1353f569cf115\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\41fc5406036e766f20b1353f569cf115\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\64745beebb8404856adae16b68f652f9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\64745beebb8404856adae16b68f652f9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\1a3880325435872e28fa63a4bfdd1ace\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\1a3880325435872e28fa63a4bfdd1ace\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\065b1fa9ac67ebe0ad0a3df5e4a6fe64\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\065b1fa9ac67ebe0ad0a3df5e4a6fe64\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\c84c18e37ca3308656efc7445706b82d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\c84c18e37ca3308656efc7445706b82d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\b0d1f923d509d64836eaef9ecd906cc2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\b0d1f923d509d64836eaef9ecd906cc2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.datatransport:transport-api:2.2.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\10ceafd20317d633d525d569d7fe274b\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\10ceafd20317d633d525d569d7fe274b\AndroidManifest.xml:18:5-20:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\65989cdb264c74bab5ec9026eb01c525\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\65989cdb264c74bab5ec9026eb01c525\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml
+INJECTED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:47:13-49:58
+	android:resource
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:49:17-55
+	android:name
+		ADDED from D:\Ascen_Data\sales-indent-multi\sales-indent-multi\app\src\main\AndroidManifest.xml:48:17-67
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:20.1.5] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\e71bd3f25f275d29c1c9d39146ff65aa\AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:20.1.5] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\e71bd3f25f275d29c1c9d39146ff65aa\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:20.1.5] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\e71bd3f25f275d29c1c9d39146ff65aa\AndroidManifest.xml:29:13-82
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-messaging:20.1.5] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\e71bd3f25f275d29c1c9d39146ff65aa\AndroidManifest.xml:35:9-41:19
+MERGED from [com.google.firebase:firebase-config:19.1.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\eb0e79850ffe1598734857058ed8f10f\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-config:19.1.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\eb0e79850ffe1598734857058ed8f10f\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\6347dbdd1e05a8e1dd80e10f947377e9\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\6347dbdd1e05a8e1dd80e10f947377e9\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\cbb48096eab1b8f01cd296a0be2b6c63\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\cbb48096eab1b8f01cd296a0be2b6c63\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\e97b04a9b7d91fa23a4a7a1f81531ce8\AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\e97b04a9b7d91fa23a4a7a1f81531ce8\AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-installations:16.2.1] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\11b85633d03c3730a9b885ea8ed36fcd\AndroidManifest.xml:14:9-20:19
+MERGED from [com.google.firebase:firebase-installations:16.2.1] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\11b85633d03c3730a9b885ea8ed36fcd\AndroidManifest.xml:14:9-20:19
+MERGED from [com.google.firebase:firebase-abt:19.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\0dbd896d7dde1103dab5bc5a2d6630e9\AndroidManifest.xml:12:9-16:19
+MERGED from [com.google.firebase:firebase-abt:19.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\0dbd896d7dde1103dab5bc5a2d6630e9\AndroidManifest.xml:12:9-16:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\851f757c6a5923838970b0f9a2bb96ef\AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\851f757c6a5923838970b0f9a2bb96ef\AndroidManifest.xml:32:9-36:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:20.1.5] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\e71bd3f25f275d29c1c9d39146ff65aa\AndroidManifest.xml:37:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\851f757c6a5923838970b0f9a2bb96ef\AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\851f757c6a5923838970b0f9a2bb96ef\AndroidManifest.xml:34:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:20.1.5] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\e71bd3f25f275d29c1c9d39146ff65aa\AndroidManifest.xml:36:13-84
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar
+ADDED from [com.google.firebase:firebase-messaging:20.1.5] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\e71bd3f25f275d29c1c9d39146ff65aa\AndroidManifest.xml:38:13-40:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:20.1.5] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\e71bd3f25f275d29c1c9d39146ff65aa\AndroidManifest.xml:40:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:20.1.5] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\e71bd3f25f275d29c1c9d39146ff65aa\AndroidManifest.xml:39:17-119
+meta-data#com.google.firebase.components:com.google.firebase.remoteconfig.RemoteConfigRegistrar
+ADDED from [com.google.firebase:firebase-config:19.1.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\eb0e79850ffe1598734857058ed8f10f\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-config:19.1.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\eb0e79850ffe1598734857058ed8f10f\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-config:19.1.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\eb0e79850ffe1598734857058ed8f10f\AndroidManifest.xml:33:17-117
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.5.1] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\8a59fdb381b98820e1332603a0f1ba9d\AndroidManifest.xml:24:9-28:63
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.5.1] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\8a59fdb381b98820e1332603a0f1ba9d\AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.room:room-runtime:2.5.1] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\8a59fdb381b98820e1332603a0f1ba9d\AndroidManifest.xml:28:13-60
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.5.1] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\8a59fdb381b98820e1332603a0f1ba9d\AndroidManifest.xml:26:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.5.1] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\8a59fdb381b98820e1332603a0f1ba9d\AndroidManifest.xml:25:13-74
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-api:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\6347dbdd1e05a8e1dd80e10f947377e9\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\cbb48096eab1b8f01cd296a0be2b6c63\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\cbb48096eab1b8f01cd296a0be2b6c63\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\1dee0f1489424a62a62b613c9dd3acc2\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\1dee0f1489424a62a62b613c9dd3acc2\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\e2dd42e22fc271c720fb40308d8dae4f\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\e2dd42e22fc271c720fb40308d8dae4f\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\8b09794abb354b44be1c3c811c314c2b\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\8b09794abb354b44be1c3c811c314c2b\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\6347dbdd1e05a8e1dd80e10f947377e9\AndroidManifest.xml:24:22-65
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\6347dbdd1e05a8e1dd80e10f947377e9\AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\6347dbdd1e05a8e1dd80e10f947377e9\AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\6347dbdd1e05a8e1dd80e10f947377e9\AndroidManifest.xml:31:17-139
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\cbb48096eab1b8f01cd296a0be2b6c63\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\cbb48096eab1b8f01cd296a0be2b6c63\AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\cbb48096eab1b8f01cd296a0be2b6c63\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\cbb48096eab1b8f01cd296a0be2b6c63\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\cbb48096eab1b8f01cd296a0be2b6c63\AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\cbb48096eab1b8f01cd296a0be2b6c63\AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\cbb48096eab1b8f01cd296a0be2b6c63\AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\cbb48096eab1b8f01cd296a0be2b6c63\AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\cbb48096eab1b8f01cd296a0be2b6c63\AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\cbb48096eab1b8f01cd296a0be2b6c63\AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\cbb48096eab1b8f01cd296a0be2b6c63\AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\cbb48096eab1b8f01cd296a0be2b6c63\AndroidManifest.xml:42:25-78
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\1dee0f1489424a62a62b613c9dd3acc2\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\e2dd42e22fc271c720fb40308d8dae4f\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\e2dd42e22fc271c720fb40308d8dae4f\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\1dee0f1489424a62a62b613c9dd3acc2\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\1dee0f1489424a62a62b613c9dd3acc2\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\1dee0f1489424a62a62b613c9dd3acc2\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\1dee0f1489424a62a62b613c9dd3acc2\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\1dee0f1489424a62a62b613c9dd3acc2\AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\1dee0f1489424a62a62b613c9dd3acc2\AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\e2dd42e22fc271c720fb40308d8dae4f\AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\e2dd42e22fc271c720fb40308d8dae4f\AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\1dee0f1489424a62a62b613c9dd3acc2\AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\1dee0f1489424a62a62b613c9dd3acc2\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\1dee0f1489424a62a62b613c9dd3acc2\AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\1dee0f1489424a62a62b613c9dd3acc2\AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\1dee0f1489424a62a62b613c9dd3acc2\AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\1dee0f1489424a62a62b613c9dd3acc2\AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\1dee0f1489424a62a62b613c9dd3acc2\AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\1dee0f1489424a62a62b613c9dd3acc2\AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\1dee0f1489424a62a62b613c9dd3acc2\AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\1dee0f1489424a62a62b613c9dd3acc2\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\1dee0f1489424a62a62b613c9dd3acc2\AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\1dee0f1489424a62a62b613c9dd3acc2\AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\1dee0f1489424a62a62b613c9dd3acc2\AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\1dee0f1489424a62a62b613c9dd3acc2\AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\1dee0f1489424a62a62b613c9dd3acc2\AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\1dee0f1489424a62a62b613c9dd3acc2\AndroidManifest.xml:49:13-87
+meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
+ADDED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\e97b04a9b7d91fa23a4a7a1f81531ce8\AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\e97b04a9b7d91fa23a4a7a1f81531ce8\AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\e97b04a9b7d91fa23a4a7a1f81531ce8\AndroidManifest.xml:29:17-115
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:16.2.1] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\11b85633d03c3730a9b885ea8ed36fcd\AndroidManifest.xml:17:13-19:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:16.2.1] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\11b85633d03c3730a9b885ea8ed36fcd\AndroidManifest.xml:19:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:16.2.1] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\11b85633d03c3730a9b885ea8ed36fcd\AndroidManifest.xml:18:17-127
+meta-data#com.google.firebase.components:com.google.firebase.abt.component.AbtRegistrar
+ADDED from [com.google.firebase:firebase-abt:19.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\0dbd896d7dde1103dab5bc5a2d6630e9\AndroidManifest.xml:13:13-15:85
+	android:value
+		ADDED from [com.google.firebase:firebase-abt:19.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\0dbd896d7dde1103dab5bc5a2d6630e9\AndroidManifest.xml:15:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-abt:19.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\0dbd896d7dde1103dab5bc5a2d6630e9\AndroidManifest.xml:14:17-109
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\851f757c6a5923838970b0f9a2bb96ef\AndroidManifest.xml:26:9-30:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\851f757c6a5923838970b0f9a2bb96ef\AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\851f757c6a5923838970b0f9a2bb96ef\AndroidManifest.xml:29:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\851f757c6a5923838970b0f9a2bb96ef\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\851f757c6a5923838970b0f9a2bb96ef\AndroidManifest.xml:27:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\24fd617668687b8212878098f2355896\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\24fd617668687b8212878098f2355896\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\24fd617668687b8212878098f2355896\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\24fd617668687b8212878098f2355896\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\9881b740834375146d1b780d76d66557\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\9881b740834375146d1b780d76d66557\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\9881b740834375146d1b780d76d66557\AndroidManifest.xml:24:13-58
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\3883f0c31549c0d88386f89c09525786\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\5d316e4c1bef98c8714827f032c73c38\AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\5d316e4c1bef98c8714827f032c73c38\AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\3883f0c31549c0d88386f89c09525786\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\3883f0c31549c0d88386f89c09525786\AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\3883f0c31549c0d88386f89c09525786\AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\3883f0c31549c0d88386f89c09525786\AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\3883f0c31549c0d88386f89c09525786\AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\5d316e4c1bef98c8714827f032c73c38\AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\5d316e4c1bef98c8714827f032c73c38\AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\5d316e4c1bef98c8714827f032c73c38\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\5d316e4c1bef98c8714827f032c73c38\AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\5d316e4c1bef98c8714827f032c73c38\AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\5d316e4c1bef98c8714827f032c73c38\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\ashu6\.gradle\caches\transforms-2\files-2.1\5d316e4c1bef98c8714827f032c73c38\AndroidManifest.xml:33:13-132

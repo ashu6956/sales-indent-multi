@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "307500911864",
+    "project_id": "acsen-agriscience",
+    "storage_bucket": "acsen-agriscience.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307500911864:android:f199ec0979291f32c0ff0d",
+        "android_client_info": {
+          "package_name": "com.agriscience.salesindent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307500911864-rj3uab89aov7t9huvf5vkvbd92lrmi46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA81ywuiYd7Y-Sb2FyZemGZijK1BwhGAtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307500911864-rj3uab89aov7t9huvf5vkvbd92lrmi46.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,193 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/my_button_bg">
+
+    <LinearLayout
+        android:id="@+id/DS"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:freezesText="true"
+        android:orientation="vertical"
+        android:showDividers="middle">
+
+        <TextView
+            android:id="@+id/textView44"
+            android:layout_width="160dp"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/cbSalesIndent"
+            android:layout_alignBottom="@+id/cbSalesIndent"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_toRightOf="@+id/cbSalesIndent"
+            android:hint="Indent No"
+            android:textColor="@android:color/black"
+            android:textSize="12dp"
+            android:typeface="serif" />
+
+        <TextView
+            android:id="@+id/textView89"
+            android:layout_width="230dp"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/cbSalesIndent"
+            android:layout_alignBottom="@+id/cbSalesIndent"
+            android:layout_marginLeft="155dp"
+            android:layout_marginTop="-18dp"
+            android:layout_toRightOf="@+id/cbSalesIndent"
+            android:hint="Cust.Name"
+            android:textColor="@android:color/black"
+            android:textSize="12dp"
+            android:typeface="serif" />
+
+        <TextView
+            android:id="@+id/textView15"
+            android:layout_width="260dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="400dp"
+            android:layout_marginTop="-15dp"
+            android:hint="Item Name"
+            android:textColor="@android:color/black"
+            android:textSize="12dp"
+            android:typeface="serif" />
+
+        <EditText
+            android:id="@+id/etPackingSize"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/cbSalesIndent"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentEnd="false"
+            android:layout_alignParentRight="false"
+            android:layout_marginLeft="550dp"
+            android:layout_marginTop="-15dp"
+            android:background="#ffffffff"
+            android:gravity="end"
+            android:hint="Packing Size"
+            android:inputType="number"
+            android:textColor="@android:color/black"
+            android:textSize="12dp"
+            android:typeface="serif" />
+
+        <EditText
+            android:id="@+id/editText51"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/cbSalesIndent"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentEnd="false"
+            android:layout_alignParentRight="false"
+            android:layout_marginLeft="680dp"
+            android:layout_marginTop="-30dp"
+            android:enabled="false"
+            android:gravity="end"
+            android:hint="Qty In Pkt"
+            android:inputType="numberDecimal"
+            android:textColor="@android:color/black"
+            android:textSize="12dp"
+            android:typeface="serif"
+            android:visibility="gone" />
+
+        <EditText
+            android:id="@+id/etQtyInKgPkts"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/cbSalesIndent"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentEnd="false"
+            android:layout_alignParentRight="false"
+            android:layout_marginLeft="650dp"
+            android:layout_marginTop="-15dp"
+            android:background="#ffffffff"
+            android:enabled="false"
+            android:gravity="end"
+            android:hint="Qty In Kg/Pkts"
+            android:inputType="numberDecimal"
+            android:textColor="@android:color/black"
+            android:textSize="12dp"
+            android:typeface="serif" />
+
+        <TextView
+            android:id="@+id/textView16"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="850dp"
+            android:layout_marginTop="-15dp"
+            android:hint="Indent Dt"
+            android:textColor="@android:color/black"
+            android:textSize="12dp"
+            android:typeface="serif" />
+
+        <TextView
+            android:id="@+id/textView17"
+            android:layout_width="160dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="1000dp"
+            android:layout_marginTop="-15dp"
+            android:hint="Cust Account"
+            android:textColor="@android:color/black"
+            android:textSize="12dp"
+            android:typeface="serif" />
+
+
+        <LinearLayout
+            android:layout_width="480dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="1130dp"
+            android:layout_marginTop="-15dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/textView45"
+                android:layout_width="90dp"
+                android:layout_height="wrap_content"
+                android:hint="Status"
+                android:textColor="@android:color/black"
+                android:textSize="12dp"
+                android:typeface="serif" />
+
+            <EditText
+                android:id="@+id/editText6"
+                android:layout_width="160dp"
+                android:layout_height="wrap_content"
+                android:digits="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890.,%^#$*-+/?}{[]!|\ "
+                android:ems="10"
+
+                android:hint="Remarks"
+                android:inputType="textCapSentences|textCapWords|textPersonName|textCapCharacters|textMultiLine"
+                android:textColor="@android:color/black"
+                android:textSize="12dp"
+                android:typeface="serif"
+
+                />
+
+            <EditText
+                android:id="@+id/item_remarks"
+                android:layout_width="160dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:ems="10"
+                android:hint="item Remarks"
+                android:inputType="textCapSentences|textCapWords|textPersonName|textCapCharacters|textMultiLine"
+                android:textColor="@android:color/black"
+                android:textSize="12dp"
+                android:typeface="serif" />
+
+        </LinearLayout>
+
+
+        <TextView
+            android:id="@+id/textView11"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/cbSalesIndent"
+            android:layout_alignBottom="@+id/cbSalesIndent"
+            android:layout_marginLeft="80dp"
+            android:layout_toRightOf="@+id/cbSalesIndent"
+            android:text="TextView"
+            android:textColor="@android:color/black"
+            android:textSize="12dp"
+            android:typeface="serif"
+            android:visibility="gone" />
+    </LinearLayout>
+
+</HorizontalScrollView>

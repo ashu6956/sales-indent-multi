@@ -1,0 +1,46 @@
+
+D
+java:S1604ö"(Make this anonymous inner class a lambda(îª¼üÿÿÿÿÿ
+D
+java:S5411ó"(Use a primitive boolean expression here.(öÃº¨üÿÿÿÿ
+Q
+java:S1874)"6Remove this use of "ProgressDialog"; it is deprecated.(–Â±úÿÿÿÿ
+L
+java:S1874G"6Remove this use of "ProgressDialog"; it is deprecated.(âëßæ
+M
+java:S1874H"2Remove this use of "setMessage"; it is deprecated.(”“Ëœıÿÿÿÿ
+U
+java:S1874J"@Remove this use of "setIndeterminateDrawable"; it is deprecated.(ñƒız
+H
+java:S1874J"3Remove this use of "getDrawable"; it is deprecated.(ñƒız
+V	java:S125V"<This block of commented-out lines of code should be removed.(©Øù¯úÿÿÿÿ
+T
+java:S1155^">Use isEmpty() to check whether the collection is empty or not.(»‡İ
+M
+java:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+U
+java:S1155€">Use isEmpty() to check whether the collection is empty or not.(ÊÀá
+N
+java:S1135‹"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+N
+java:S1135‘"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+R	java:S125Æ"<This block of commented-out lines of code should be removed.(‚úµ¼
+k	java:S116Ñ"URename this field "text_st_no" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»³ÕÒ
+j	java:S116Ò"TRename this field "text_from" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±Š½ç
+m	java:S116Ó"RRename this field "text_to" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çú‡ºüÿÿÿÿ
+o	java:S116Ô"TRename this field "text_crop" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´Ñ÷äùÿÿÿÿ
+i	java:S116Õ"SRename this field "edit_qty" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¸øÀ
+n	java:S116Ö"XRename this field "text_exp_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ë
+j	java:S116×"VRename this field "text_status" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®Àh
+r	java:S116Ø"WRename this field "text_remarks" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æñ üÿÿÿÿ
+r	java:S116Ø"WRename this field "item_remarks" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æñ üÿÿÿÿ
+o	java:S116Ù"YRename this field "text_pack_size" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğú¥ú
+c	java:S116Ú"MRename this field "DS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ä—…
+F
+java:S1659Ø"*Declare "item_remarks" on a separate line.(Æñ üÿÿÿÿ
+M
+java:S1874ö"1Remove this use of "setButton"; it is deprecated.(îª¼üÿÿÿÿÿ
+˜
+java:S1186÷"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¦Œœ¢
+S
+java:S1128"1Remove this unused import 'android.widget.Toast'.(©›ïÍúÿÿÿÿ8ÈĞÆÖ1
